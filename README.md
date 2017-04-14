@@ -4,9 +4,7 @@ _Guide d'administration_
 
 
 
+![](/assets/plaquette_EasyAccessToGeoData.jpg)
 
 
-
-
-                     ![](/assets/plaquette_EasyAccessToGeoData.jpg)
 
