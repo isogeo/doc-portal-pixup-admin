@@ -4,5 +4,5 @@
 
 ![](/assets/plaquette_EasyAccessToGeoData.jpg)
 
-Utilisateur ? Pour consulter le guide d'utilisation, cliquer ici !
+Utilisateur du portail ? Pour consulter le guide d'utilisation, cliquer ici !
 
