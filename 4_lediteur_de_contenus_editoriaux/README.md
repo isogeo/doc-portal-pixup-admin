@@ -1,1 +1,0 @@
-# 4\. L’éditeur de contenus éditoriaux {#4-l-diteur-de-contenus-ditoriaux}

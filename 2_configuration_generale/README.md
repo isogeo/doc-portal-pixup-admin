@@ -1,1 +1,0 @@
-# 2\. Configuration générale {#2-configuration-g-n-rale}

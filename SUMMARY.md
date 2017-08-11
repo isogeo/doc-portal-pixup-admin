@@ -47,3 +47,7 @@
 
 * [Gérer les contenus fixes](pages/pageseditor.md)
 
+## Paramètres
+
+* [Généraux](settings/general.md)
+
