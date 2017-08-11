@@ -1,5 +1,7 @@
 # Summary
 
+## Présentation générale
+
 * [Isogeo - Portail de données - Guide d'aministration](README.md)
   * [Introduction](introduction.md)
   * [Prérequis](prerequisites.md)
@@ -36,4 +38,6 @@
   * [6.2. Recherche par localisation](6_configuration_de_la_recherche/62_recherche_par_localisation.md)
   * [6.3. Recherche par emprises](6_configuration_de_la_recherche/63_recherche_par_emprises.md)
 * [7. Ressources et informations techniques](7_ressources_et_informations_techniques.md)
+
+## Présentation générale
 
