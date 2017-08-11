@@ -33,7 +33,7 @@ Pour permettre la recherche par emprise, un fichier doit être créé et dépos�
 * précision des coordonnées =&lt; 3 ;
 * encodage UTF-8 ;
 * géométries de type polygone ;
-* les polygones doivent être dessinés dans le sens anti-horaire \(sens inverse des aiguilles d'une montre\), selon la règle diteLeft-Hand-Rule.
+* les polygones doivent être dessinés dans le sens anti-horaire \(sens inverse des aiguilles d'une montre\), selon la règle dite [_Left-Hand-Rule_](http://www.scalefocus.com/blog/using-spatial-data-in-sql-server-the-left-hand-rule/) \(voir aussi [la doc Microsoft](https://docs.microsoft.com/en-us/sql/relational-databases/spatial/spatial-data-types-overview)\).
 * l'emprise spatiale \(bbox\) doit être incluse par objet \(voir [http://geojson.org/geojson-spec.html\#bounding-boxes](http://geojson.org/geojson-spec.html#bounding-boxes)\)
 
 Exemple de création depuis QGIS :
