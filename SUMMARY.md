@@ -2,9 +2,9 @@
 
 ## Présentation générale
 
-* [Isogeo - Portail de données - Guide d'aministration](README.md)
-  * [Introduction](introduction.md)
-  * [Prérequis](prerequisites.md)
+* [Introduction](README.md)
+* [Fonctionnement général](introduction.md)
+* [Prérequis](prerequisites.md)
 * [Présentation des sections](1_presentation_des_sections/README.md)
   * [1.1. Dashboard](1_presentation_des_sections/11_dashboard.md)
   * [1.2. Actualités](1_presentation_des_sections/12_actualites.md)
@@ -39,5 +39,10 @@
   * [6.3. Recherche par emprises](6_configuration_de_la_recherche/63_recherche_par_emprises.md)
 * [7. Ressources et informations techniques](7_ressources_et_informations_techniques.md)
 
-## Présentation générale
+## Page d'accueil
+
+* [Configuration](page-daccueil/homepageconfig.md)
+* [Pavés de sélections](page-daccueil/homepagedyn-sections.md)
+* [Sélection de données](page-daccueil/homepagefeatured-data.md)
+* [Thématiques](page-daccueil/thematics.md)
 
