@@ -63,6 +63,8 @@
 * [Ressources consultées](stats/links.md)
 * [Utilisateurs connectés](stats/users.md)
 * [Recherches effectuées](stats/searches.md)
+* [Notes des fiches](stats/evaluations.md)
+* [Google analytics](stats/analytics.md)
 
 ## Users
 
