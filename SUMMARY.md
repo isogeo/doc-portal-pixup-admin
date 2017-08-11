@@ -49,3 +49,48 @@
 
 ## Actualités
 
+* [Nouvelle actualité](actualites/newarticle.md)
+* [Catégories](actualites/categories.md)
+
+## Médias
+
+* [Gestionnaire d'images](medias/imagemanager.md)
+* [Gestionnaire de fichiers](medias/filesmanager.md)
+* [Retoucher avec iPiccy](medias/ipiccy.md)
+
+## Menu
+
+* [Gérer le menu horizontal](menu/adminmenu.md)
+
+## Back-office
+
+* [Messages d'information pour les administrateurs](back-office/messaging.md)
+
+## Messages reçus
+
+* [Messages reçus](messages-recus/messages.md)
+* [Commentaires reçus](messages-recus/comment.md)
+
+## Pages
+
+* [Gérer les contenus fixes](pages/pageseditor.md)
+
+## Paramètres
+
+* Généraux
+* Affichage
+* Emails
+* Recherche & Carto
+* Déverrouillage ressources
+* Réglages par défaut
+* Voir aussi
+
+## Statistiques
+
+* Fiches consultées
+* Ressources associées
+* Utilisateurs connectés
+* Recherches effectuées
+* Notes des fiches
+* Google Analytics
+
