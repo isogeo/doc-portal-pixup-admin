@@ -1,6 +1,6 @@
 ![](http://www.isogeo.com/images/logo.png)
 
-# Portail générique de données basé sur Isogeo 
+# Portail générique de données basé sur Isogeo
 
 # --- Guide d'administration ----
 
@@ -9,6 +9,8 @@ Utilisateur du portail ? Pour consulter le guide d'utilisation, [cliquer ici](ht
 ## Description
 
 Le portail de données est une application tierce de la plateforme Isogeo, dédiée à la valorisation de l'information géographique.
+
+
 
 ## Caractéristiques
 

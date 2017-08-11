@@ -4,17 +4,11 @@
 
 
 
-## 
-
 ## Navigateurs supportés
 
 
 
-
-
 ## Connexion internet
-
-
 
 
 
