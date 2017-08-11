@@ -6,12 +6,6 @@
 * [Fonctionnement général](introduction.md)
 * [Prérequis](prerequisites.md)
 * [Présentation des sections](1_presentation_des_sections/README.md)
-  * [1.2. Actualités](1_presentation_des_sections/12_actualites.md)
-  * [1.3. Médias](1_presentation_des_sections/13_medias.md)
-  * [1.4. Menu](1_presentation_des_sections/14_menu.md)
-  * [1.5. Back-office](1_presentation_des_sections/15_back-office.md)
-  * [1.6. Messages reçus](1_presentation_des_sections/16_messages_recus.md)
-  * [1.7. Pages](1_presentation_des_sections/17_pages.md)
   * [1.8. Paramètres site](1_presentation_des_sections/18_parametres_site.md)
   * [1.9. Statistiques](1_presentation_des_sections/19_statistiques.md)
   * [1.10. Utilisateurs](1_presentation_des_sections/110_utilisateurs.md)
@@ -75,15 +69,15 @@
 
 * [Gérer les contenus fixes](pages/pageseditor.md)
 
-## Paramètres
+## settings
 
-* Généraux
 * Affichage
 * Emails
 * Recherche & Carto
 * Déverrouillage ressources
 * Réglages par défaut
 * Voir aussi
+* general
 
 ## Statistiques
 
