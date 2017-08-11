@@ -1,4 +1,4 @@
 {
  "language": "fr",
- "plugins": ["anchors", "page-nav-configurable", "youtube"]
+ "plugins": ["anchors", "page-nav-configurable", "youtube", "collapsible-chapters"]
  }
