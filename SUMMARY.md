@@ -50,4 +50,21 @@
 ## Paramètres
 
 * [Généraux](settings/general.md)
+* [Affichage](settings/display.md)
+* [Emails](settings/emails.md)
+* [Recherche & Carto](settings/search-map.md)
+* [Déverrouillage ressources](settings/unlock.md)
+* [Réglages par défaut](settings/default-reset.md)
+* [Voir aussi](settings/voir-aussi.md)
+
+## Statistiques
+
+* [Fiches consultées](stats/metadata.md)
+* [Ressources consultées](stats/links.md)
+* [Utilisateurs connectés](stats/users.md)
+* [Recherches effectuées](stats/searches.md)
+
+## Users
+
+* [Gestion des utilisateurs](users/user-management.md)
 
