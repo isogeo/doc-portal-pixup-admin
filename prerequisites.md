@@ -21,6 +21,10 @@
 ## Spécifications serveur
 
 * IIS
+* connexion autorisée et configurée \(proxy, pare-feu...\) vers les domaines de l'API Isogeo :
+  * [https://v1.api.isogeo.com/\*](https://v1.api.isogeo.com/)
+  * [https://id.api.isogeo.com/\*](https://v1.api.isogeo.com/)
+* accès à l'API nominatim : [https://nominatim.openstreetmap.org/](https://nominatim.openstreetmap.org/) ;
 
 ## Briques logicielles utilisées
 

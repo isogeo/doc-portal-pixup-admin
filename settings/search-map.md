@@ -39,11 +39,11 @@ Le portail permet aux utilisateurs de chercher des données concernant une adres
 
 ### Fonctionnement
 
-
+Le service de géocodage utilisé est Nominatim, qui 
 
 ### Options
 
-La première liste déroulante permet d'activer ou de désactiver le champ "Adresse" de l'interface utilisateur.
+La première liste déroulante permet d'activer ou de désactiver le champ "Adresse" de l'interface utilisateur (front-office), sur la page d'accueil.
 
 ![](/assets/back_search_geocoder.png)
 
