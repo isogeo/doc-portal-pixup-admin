@@ -1,1 +1,0 @@
-# Pavés de sélection

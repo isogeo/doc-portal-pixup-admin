@@ -6,7 +6,6 @@
 * [Fonctionnement général](introduction.md)
 * [Prérequis](prerequisites.md)
 * [Présentation des sections](1_presentation_des_sections/README.md)
-  * [1.1. Dashboard](1_presentation_des_sections/11_dashboard.md)
   * [1.2. Actualités](1_presentation_des_sections/12_actualites.md)
   * [1.3. Médias](1_presentation_des_sections/13_medias.md)
   * [1.4. Menu](1_presentation_des_sections/14_menu.md)
@@ -23,10 +22,6 @@
   * [2.4. Thématiques](2_configuration_generale/24_thematiques.md)
   * [2.5. Déverrouillage ressources](2_configuration_generale/25_deverrouillage_ressources.md)
   * [2.6. Catégories](2_configuration_generale/26_categories.md)
-* [La page d’accueil](3_la_page_daccueil/README.md)
-  * [3.1. La zone Mise en avant](3_la_page_daccueil/31_la_zone_mise_en_avant.md)
-  * [3.2. La zone HTML](3_la_page_daccueil/32_la_zone_html.md)
-  * [3.3. Les pavés dynamiques](3_la_page_daccueil/33_les_paves_dynamiques.md)
 * [L’éditeur de contenus éditoriaux](4_lediteur_de_contenus_editoriaux/README.md)
   * [4.1. Introduction](4_lediteur_de_contenus_editoriaux/41_introduction.md)
   * [4.2. Présentation de l’interface](4_lediteur_de_contenus_editoriaux/42_presentation_de_linterface.md)
@@ -39,10 +34,18 @@
   * [6.3. Recherche par emprises](6_configuration_de_la_recherche/63_recherche_par_emprises.md)
 * [7. Ressources et informations techniques](7_ressources_et_informations_techniques.md)
 
-## Page d'accueil
+## Accueil
 
-* [Configuration](page-daccueil/homepageconfig.md)
-* [Pavés de sélections](page-daccueil/homepagedyn-sections.md)
-* [Sélection de données](page-daccueil/homepagefeatured-data.md)
-* [Thématiques](page-daccueil/thematics.md)
+* [Configuration de la page d'accueil](homepage/config.md)
+  * [Zone "Mise en avant"](homepage/config/featured-section.md)
+  * [Zone HTML](homepage/config/html-area.md)
+* [Pavés de sélections](homepage/dyn-sections.md)
+* [Sélection de données](homepage/featured-data.md)
+* [Thématiques](homepage/thematics.md)
+
+## Dashboard
+
+* [Fonctionnement du tableau de bord](dashboard/features.md)
+
+## Actualités
 

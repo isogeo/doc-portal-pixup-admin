@@ -1,1 +1,0 @@
-# Configuration de la page d'accueil
