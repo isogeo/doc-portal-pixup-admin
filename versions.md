@@ -17,9 +17,7 @@
 * ajout de la visualisation des emprises personnalisées dans le back-office ;
 * refonte complète de l'aide en ligne.
 
-
 <!-- /timeline -->
-
 <!-- timeline -->
 
 ## 2.2
@@ -36,6 +34,7 @@
 * réorganisation complète des menus du back-office ;
 
 <!-- /timeline -->
+<!-- timeline -->
 
 ## 2.1
 
@@ -51,14 +50,4 @@
 * ajout de la possibilité de faire des liens vers les filtres thématiques dans l'éditeur WYSIWYG ;
 * ajout des liens uniques vers chaque métadonnée du portail à partir de son identifiant Isogeo.
 
-
 <!-- /timeline -->
-
-
-
-
-
-
-
-
-
