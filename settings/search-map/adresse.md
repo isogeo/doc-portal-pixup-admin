@@ -8,7 +8,7 @@ Le service de géocodage utilisé est [Nominatim](https://nominatim.openstreetma
 
 1. l'utilisateur entre une adresse dans le champ dédié du portail ;
 2. la requête est envoyée à Nominatim qui renvoie un polygone ;
-3. ce polygone est alors envoyé à l'API Isogeo pour filtrer les résultats selon l'opérateur géographique choisi
+3. ce polygone est alors envoyé à l'API Isogeo pour filtrer les résultats selon l'opérateur géographique choisi \(voir Recherche géographique\)
 
 ### Options
 

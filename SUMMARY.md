@@ -56,7 +56,7 @@
   * [Recherche textuelle](settings/search-map/searchtext.md)
   * [Adresse \(géocodage\)](settings/search-map/adresse.md)
   * [Emprises personnalisées](settings/search-map/searchbbox.md)
-  * [Interface cartographique](settings/search-map/searchmap.md)
+  * [Recherche géographique et cartographique](settings/search-map/searchmap.md)
 * [Déverrouillage ressources](settings/unlock.md)
 * [Réglages par défaut](settings/default-reset.md)
 * [Voir aussi](settings/voir-aussi.md)
