@@ -5,7 +5,7 @@
 
 ## 2.3
 
-Publiée le 30 septembre 2017 :
+</br> Publiée le 30 septembre 2017 :
 
 * mise en place du système "Voir aussi" (similarité entre les métadonnées) ;
 * gestion des licences associées au bouton téléchargement ;
@@ -26,7 +26,7 @@ Publiée le 30 septembre 2017 :
 
 ## 2.2
 
-Publiée le 31 mai 2017 :
+</br> Publiée le 31 mai 2017 :
 
 * nouvelle option pour la zone accueil : le nuage de mots-clés ;
 * améliorations et correctifs sur l'interface cartographique et la recherche géographique via l'API Isogeo ;
