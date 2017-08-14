@@ -5,6 +5,7 @@
 * [Introduction](README.md)
 * [Fonctionnement général](introduction.md)
 * [Prérequis](prerequisites.md)
+* [Versions](versions.md)
 
 ## Accueil
 
