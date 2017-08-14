@@ -60,7 +60,7 @@
   * [Recherche géographique et cartographique](settings/search-map/searchmap.md)
 * [Déverrouillage ressources](settings/unlock.md)
 * [Réglages par défaut](settings/default-reset.md)
-* [Voir aussi](settings/voir-aussi.md)
+* [<i class="fa fa-eye" aria-hidden="true"></i> Voir aussi](settings/voir-aussi.md)
 
 ## Statistiques
 
