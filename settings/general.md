@@ -18,11 +18,15 @@ Il est fortement recommandé de ne pas modifier les deux autres paramètres `URL
 
 Si l'option est activée, un mail est envoyé à chaque internaute ayant finalisé la procédure de création de compte.
 
-L'objet et le corps du mail sont modifiables dans la partie `Emails` du back-office.
+L'objet et le corps du mail sont modifiables dans [le menu`Emails`](/settings/emails.md) du back-office.
 
 ### Authentification obligatoire
 
-### Google Analytics
+Quand cette option est activée, le portail n'est accessible qu'aux utilisateurs authentifiés. Le formulaire de connexion s'affiche alors systématiquement à toute personne n'étant pas authentifiée :
 
+![](/assets/front_authentification_form.png)
 
+### Google Analytics {#ganalytics}
+
+Si votre portail est accessible sur une URL publique, il est possible d'insérer le code de suivi de fréquentation de l'outil de Google dans ce formulaire.
 

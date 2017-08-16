@@ -74,3 +74,9 @@
 
 * [Gestion des utilisateurs](users/user-management.md)
 
+## Annexes
+
+* [Référencement](/appendices/seo.md)
+
+
+
