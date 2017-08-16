@@ -8,9 +8,12 @@
              "youtube"],
  "pluginsConfig": {
     "image-captions": {
-      "variable_name": "pictures_list",
+      "variable_name": "pictures",
       "caption": "Fig. _BOOK_IMAGE_NUMBER_ : _CAPTION_"
     }
-  }
+  },
+ "variables": {
+        "pictures": []
+    }
              
  }
