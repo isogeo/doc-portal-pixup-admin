@@ -77,6 +77,5 @@
 ## Annexes
 
 * [Référencement](/appendices/seo.md)
-
-
+* [Figures et images](pictures.md)
 
