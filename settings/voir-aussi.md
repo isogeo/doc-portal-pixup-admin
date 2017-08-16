@@ -1,6 +1,6 @@
 # Voir aussi
 
-Pour faciliter la découverte et la navigation dans les catalogues partagés, le portail intègre un système de suggestions des métadonnées potentiellement similaires à celle que l'utilisateur est en train de consulter.
+Pour faciliter la découverte et la navigation dans les catalogues partagés, le portail intègre \(depuis [la version 2.3](/versions.md)\) un système de suggestions des métadonnées potentiellement similaires à celle que l'utilisateur est en train de consulter.
 
 Exemple de résultat :
 
@@ -26,6 +26,4 @@ Voici la procédure à suivre :
 5. Cliquer sur `Enregistrer`.
 
 ![](/assets/back_similarity_manual_add.png)
-
-
 
