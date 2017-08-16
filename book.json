@@ -1,4 +1,15 @@
 {
  "language": "fr",
- "plugins": ["anchors", "page-nav-configurable", "youtube", "toggle-headers", "timeline"]
+ "plugins": ["anchors",
+             "image-captions",
+             "page-nav-configurable", 
+             "timeline",
+             "toggle-headers",
+             "youtube"],
+ "pluginsConfig": {
+    "image-captions": {
+      "variable_name": "pictures_list"
+    }
+  }
+             
  }
