@@ -10,7 +10,8 @@
 
 * Google Chrome \(5 dernières versions\) ;
 * Mozilla Firefox \(ESR et ultérieures\) ;
-* Safari
+* Safari ;
+* Edge.
 
 ## Connexion internet
 
