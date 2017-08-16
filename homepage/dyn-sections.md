@@ -41,12 +41,11 @@ Chaque colonne est configurable :
 Chaque pavé contient 1 métadonnée :
 
 * Titre \(obligatoire\).
-* les 300 premiers caractères du résumé  : il est possible de définir si les balises markdown sont inteprétéés ou pas.
+* les 300 premiers caractères du résumé  : il est possible de définir si les balises markdown sont interprétéés ou pas.
 * Propriétaire de la métadonnée \(facultatif\) ;
 * Echelle \(facultatif\).
 * Type \(facultatif\).
 
-Les paramètres facultatifs dépendent du type d'utilisateur et sont donc configurables dans la rubique [Affichage](/settings/display.md).
-
-
+Les paramètres facultatifs dépendent du type d'utilisateur et sont donc configurables dans la rubique [Affichage  
+](/settings/display.md).
 
