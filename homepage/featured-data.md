@@ -10,5 +10,5 @@ Procédure détaillée pour ajouter une nouvelle donnée à la sélection :
 2. Dans le champ URL, copier-coller l'adresse de la fiche du portail et cliquer sur le bouont `Mettre à jour`;
 3. Après avoir vérifié que la donnée correspond bien à celle souhaitée, cliquer sur `Enregistrer`.
 
-![](/assets/back_homepage_selection.png)
+![Formulaire d'ajout d'une nouvelle sélection](/assets/back_homepage_selection.png)
 
