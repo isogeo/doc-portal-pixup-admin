@@ -36,5 +36,5 @@
 
 Les différents éléments graphiques de personnalisation du portail sont livrés au format Photoshop \(.psd\) dans un fichier `icones et visuels.psd`, contenant les objets vectoriels répartis en plusieurs calques et groupes de calques :
 
-![](/assets/tech_graphics_psd.png)
+!["Aperçu des calques Photoshop dans le fichier tranmis"](/assets/tech_graphics_psd.png)
 

@@ -12,7 +12,7 @@ Il est fortement recommandé de ne pas modifier les deux autres paramètres `URL
 
 ## Paramètres site
 
-![](/assets/back_config_access.png)On retrouve ici les paramètres généraux d'accès au portail.
+!["Paramètres d'authentification à Isogeo"](/assets/back_config_access.png)On retrouve ici les paramètres généraux d'accès au portail.
 
 ### Mail bienvenue
 
@@ -24,7 +24,7 @@ L'objet et le corps du mail sont modifiables dans [le menu`Emails`](/settings/em
 
 Quand cette option est activée, le portail n'est accessible qu'aux utilisateurs authentifiés. Le formulaire de connexion s'affiche alors systématiquement à toute personne n'étant pas authentifiée :
 
-![](/assets/front_authentification_form.png)
+!["Configuration de l'accès au portail"](/assets/front_authentification_form.png)
 
 ### Google Analytics {#ganalytics}
 

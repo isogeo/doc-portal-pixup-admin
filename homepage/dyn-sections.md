@@ -6,7 +6,7 @@ Les pavés dynamiques permettent d'afficher, sur la page d'accueil, des listes d
 
 Les pavés listent des données selon des critères liés à l'API Isogeo \(dates de création et dernière modification des données et métadonnées par exemple\) ou propres au portail \(évaluations par exemple\). Chaque métadonnée est présentée sous forme d'un pavé.
 
-![](/assets/back_homepage_dynamic_sections.png)
+!["Administrer les blocs dynamiques en page d'accueil"](/assets/back_homepage_dynamic_sections.png)
 
 ## Réglages
 
