@@ -73,12 +73,13 @@
 * [Recherches effectuées](stats/searches.md)
 * [Notes des fiches](stats/evaluations.md)
 
-## Users
+## Utilisateurs
 
 * [Gestion des utilisateurs](users/user-management.md)
 
 ## Annexes
 
+* [Editeur WYSIWYG](appendices/editorwysiwyg.md)
 * [Référencement](/appendices/seo.md)
 * [Figures et images](pictures.md)
 
