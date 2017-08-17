@@ -1,5 +1,12 @@
 {
  "language": "fr",
+ "links": {
+             "sidebar": {
+                         "Portail de démonstration": "http://demo.isogeo.net",
+                         "Site Isogeo": "http://www.isogeo.com",
+                         "Administration Isogeo": "https://app.isogeo.com"
+                         }
+             },
  "plugins": ["anchors",
              "image-captions",
              "page-nav-configurable", 
