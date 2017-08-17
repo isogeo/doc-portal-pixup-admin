@@ -8,7 +8,6 @@
                          }
              },
  "plugins": ["anchors",
-             "autocover",
              "image-captions",
              "page-nav-configurable", 
              "timeline",
@@ -16,25 +15,11 @@
              "youtube"
              ],
  "pluginsConfig": {
-    "image-captions": {
-      "variable_name": "pictures",
-      "caption": "Fig. _BOOK_IMAGE_NUMBER_ : _CAPTION_"
-    },
-    "autocover": {
-            "font": {
-                "size": null,
-                "family": "Impact",
-                "color": "#6480A7"
-            },
-            "size": {
-                "w": 1800,
-                "h": 2360
-            },
-            "background": {
-                "color": "#CECDC9"
-            }
-        }
-  },
+                "image-captions": {
+                              "variable_name": "pictures",
+                              "caption": "Fig. _BOOK_IMAGE_NUMBER_ : _CAPTION_"
+                                        }
+              },
  "variables": {
         "pictures": []
     }
