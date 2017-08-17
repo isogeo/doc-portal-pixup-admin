@@ -3,7 +3,7 @@
 
 <!-- timeline -->
 
-## 2.3
+## 2.3 {#version23}
 
 <br> Publiée le 30 septembre 2017 :
 
@@ -20,7 +20,7 @@
 <!-- /timeline -->
 <!-- timeline -->
 
-## 2.2
+## 2.2 {#version22}
 
 <br> Publiée le 31 mai 2017 :
 

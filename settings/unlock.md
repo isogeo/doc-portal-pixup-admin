@@ -8,6 +8,8 @@ Lors de l'édition des différents contenus du portail, un verrou se met automat
 
 ## Mots-clés
 
+_Fonctionnalité ajoutée avec la _[_version 2.3 du portail_](/versions#version23.md).
+
 Boutons pour forcer le rafraîchissement des mots-clés et de leurs occurences, utilisés pour le nuage en page d'accueil.
 
 ## Mise à jour du partage Isogeo
