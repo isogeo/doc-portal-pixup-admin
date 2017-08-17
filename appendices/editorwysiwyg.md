@@ -17,11 +17,11 @@ Dans le portail, l'éditeur WYSIWYG est disponible dans plusieurs endroits :
 
 | Bouton / menu | Description |
 | :--- | :--- |
-| ![](/assets/back_editor_wysiwyg_source.png) |  |
-| ![](/assets/back_editor_wysiwyg_table_img.png) |  |
-| ![](/assets/back_editor_wysiwyg_copy_paste.png) |  |
-| ![](/assets/back_editor_wysiwyg_lists.png) |  |
-| ![](/assets/back_editor_wysiwyg_links.png) |  |
+| ![](/assets/back_editor_wysiwyg_source.png) | Permet de basculer sur l'éditeur du code source HTML. Réservé aux usages avancés. |
+| ![](/assets/back_editor_wysiwyg_table_img.png) | Insertion d'objets complexes. Dans l'ordre : un tableau, une image \(via le gestionnaire de médias\) et une balise iFrame. |
+| ![](/assets/back_editor_wysiwyg_copy_paste.png) | Outils pour copier et surtout coller du texte directement dans l'éditeur. A noter qu'il est préférable d'utiliser le collage à partir de Word \(avec le petit \`W\`\) afin de nettoyer le texte de potentielles balises parasites. |
+| ![](/assets/back_editor_wysiwyg_lists.png) | Outils pour créer des listes ordonnées et non ordonnées, à un ou plusieurs niveaux. |
+| ![](/assets/back_editor_wysiwyg_links.png) | Outils pour créer des liens vers des contenus internes, externes ou vers les recherches prédéfinies que sont [les thématiques personnalisées](/homepage/thematics.md). |
 | ![](/assets/back_editor_wysiwyg_search_select.png) |  |
 | ![](/assets/back_editor_wysiwyg_format.png) |  |
 | ![](/assets/back_editor_wysiwyg_align.png) |  |
