@@ -15,7 +15,7 @@
   * [Zone HTML](homepage/config/html-area.md)
   * [Nuage de mots-clés](homepage/config/keywords-cloud.md)
   * [Zone Actualités](homepage/config/news.md)
-* [Pavés de sélections](homepage/dyn-sections.md)
+* [Pavés dynamiques](homepage/dyn-sections.md)
 * [Sélection de données](homepage/featured-data.md)
 * [Thématiques](homepage/thematics.md)
 
@@ -61,7 +61,7 @@
   * [Adresse \(géocodage\)](settings/search-map/adresse.md)
   * [Emprises personnalisées](settings/search-map/searchbbox.md)
   * [Recherche géographique et cartographique](settings/search-map/searchmap.md)
-* [Déverrouillage ressources](settings/unlock.md)
+* [Optimisation](settings/unlock.md)
 * [Réglages par défaut](settings/default-reset.md)
 * [Voir aussi](settings/voir-aussi.md)
 
