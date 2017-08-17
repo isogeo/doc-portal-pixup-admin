@@ -1,4 +1,4 @@
-![](http://www.isogeo.com/images/logo.png)
+!["Logo d'Isogeo"](http://www.isogeo.com/images/logo.png)
 
 # Portail générique de données basé sur Isogeo
 
