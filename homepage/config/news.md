@@ -4,7 +4,7 @@
 
 
 
-![](/assets/back_homepage_news.png)
+!["Zone Actualités - côté back"](/assets/back_homepage_news.png)
 
 
 

@@ -10,5 +10,5 @@ La page d’accueil est constituée de différentes zones que l’administrateur
 
 Les 4 premiers éléments sont configurables dans le menu `Accueil` &gt; `Configuration`. Viennent ensuite les pavés dynamiques qui disposent d'un menu dédié pour plus de clarté.
 
-![](/assets/back_homepage_config.png)
+!["Vue d'ensemble de la page de configuration de la page d'accueil"](/assets/back_homepage_config.png)
 

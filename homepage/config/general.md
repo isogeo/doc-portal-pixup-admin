@@ -10,7 +10,7 @@ Sur Isogeo, les éditeurs des métadonnées peuvent utiliser le langage Markdown
 
 > Pour en savoir plus sur le langage markdown, consulter la [page dédiée sur l'aide Isogeo](http://help.isogeo.com/fr/features/documentation/syntax_markdown.html) ou [la page Wikipédia](https://fr.wikipedia.org/wiki/Markdown).
 
-![](/assets/back_homepage_general.png)
+!["Paramètres généraux de la page d'accueil"](/assets/back_homepage_general.png)
 
 
 
