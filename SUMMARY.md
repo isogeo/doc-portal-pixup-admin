@@ -10,8 +10,11 @@
 ## Accueil
 
 * [Configuration de la page d'accueil](homepage/config.md)
-  * [Zone "Mise en avant"](homepage/config/featured-section.md)
+  * [Paramètres généraux](homepage/config/general.md)
+  * [Zone Mise en avant](homepage/config/featured-section.md)
   * [Zone HTML](homepage/config/html-area.md)
+  * [Nuage de mots-clés](homepage/config/keywords-cloud.md)
+  * [Zone Actualités](homepage/config/news.md)
 * [Pavés de sélections](homepage/dyn-sections.md)
 * [Sélection de données](homepage/featured-data.md)
 * [Thématiques](homepage/thematics.md)
