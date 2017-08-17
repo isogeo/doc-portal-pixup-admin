@@ -13,7 +13,8 @@
              "page-nav-configurable", 
              "timeline",
              "toggle-headers",
-             "youtube"],
+             "youtube"
+             ],
  "pluginsConfig": {
     "image-captions": {
       "variable_name": "pictures",
@@ -23,7 +24,7 @@
             "font": {
                 "size": null,
                 "family": "Impact",
-                "color": "#FFF"
+                "color": "#6480A7"
             },
             "size": {
                 "w": 1800,
