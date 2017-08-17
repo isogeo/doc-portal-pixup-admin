@@ -1,3 +1,5 @@
+# Glossaire
+
 ## Back-office
 
 Partie du portail accessible / uniquement aux utilisateurs enregistrés disposant d'un niveau d'accès Super Admin ou Admin rédacteur.
