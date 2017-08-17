@@ -8,6 +8,7 @@
                          }
              },
  "plugins": ["anchors",
+             "autocover",
              "image-captions",
              "page-nav-configurable", 
              "timeline",
