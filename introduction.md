@@ -7,7 +7,7 @@ Le portail présente 2 interfaces :
 
 Ce guide se concentre sur la deuxième, même si la première est utilisée pour illustrer les conséquences de la configuration du back-office.
 
-### Quand Data Management et design web font bon ménage {#docs-internal-guid-ab3644e3-f47e-003b-1b41-8a882bfb2893}
+## Concilier Data Management et design web {#docs-internal-guid-ab3644e3-f47e-003b-1b41-8a882bfb2893}
 
 Dans la vision d’Isogeo, le catalogage n’est qu’une étape intermédiaire vers la diffusion et la valorisation des données. Faire des métadonnées n’est pas une fin en soi et les catalogues de données sont bien trop souvent des interfaces dédiées à des techniciens et loin de respecter les règles de l’ergonomie.
 
@@ -15,7 +15,9 @@ C’est pourquoi le portail allie l’expertise d’Isogeo en matière de gouver
 
 ### Des portails orientés usages à portée de tous
 
-L’objectif n’est pas de mettre un simple catalogue en consultation mais d’implémenter des fonctionnalités dédiées à l’animation autour du patrimoine de données : retours d’expériences, commentaires, suivi des modifications, comptes utilisateurs, etc. Par ailleurs, il est possible de tirer parti de la modularité d’Isogeo et de servir un ou plusieurs portails selon les besoins. Par exemple dans le cas où vous avez besoin de diffuser certaines de vos données en interne d’une certaine façon et d’autres en externe d’une autre façon. C’est très facile à réaliser et tout à fait transparent d’un point de vue d'administration.
+L’objectif n’est pas de mettre un simple catalogue en consultation mais d’implémenter des fonctionnalités dédiées à l’animation autour du patrimoine de données : retours d’expériences, commentaires, suivi des modifications, comptes utilisateurs, etc.
+
+Par ailleurs, il est possible de tirer parti de la modularité d’Isogeo et de servir un ou plusieurs portails selon les besoins. Par exemple dans le cas où vous avez besoin de diffuser certaines de vos données en interne d’une certaine façon et d’autres en externe d’une autre façon. C’est très facile à réaliser et tout à fait transparent d’un point de vue d'administration.
 
 ### Des fonctionnalités au service de la stratégie de diffusion
 
@@ -32,22 +34,12 @@ Voir :
 
 #### Une gestion de contenus dynamiques et statiques
 
-Des flux dynamiques sur l’actualité des données, tirant partie des différentes dates \(création dernière modification, etc.\) portant sur la donnée \(grâce au scan automatique notamment\) et sur la métadonnée.
+Focalisé sur les données, le portail permet d'insérer les informations sur celles-ci dynamiquement à partir de l'inventaire Isogeo, notamment sur la page d'accueil. Au-delà des données, le portail  intègre un CMS \(_Content Management System_ ou SGC - Système de Gestion de Contenus\) et permet ainsi l'édition de contenus éditoriaux, comme sur WordPress par exemple :
 
-A la différence d’un simple catalogue de données tel un OpenCatalog ou même le Géocatalogue national, le portail intègre un CMS \(Content Management Systemou SGC - Système de Gestion de Contenus\) semblable à WordPress :
-
-* créer des pages statiques pour les grands axes du portail \(présentation du projet, crédits et CGUs, formations, outils, etc.\) ;
+* pages statiques ;
 * gestion des rubriques et des menus ;
 * gestionnaire d’actualités \(création, édition, publication, mise en avant en page d’accueil…\) ;
 * gestionnaire de médias et de fichiers pour enrichir vos contenus facilement ;
-* gestion des droits des utilisateurs ;
-* gestion de la relation avec Isogeo \(catalogue, thématiques, etc.\).
-
-La page d’accueil est très personnalisable avec des options d’affichages pour répondre aux différents besoins et choix de publication :
-
-* gestion de blocs dynamiques sur les données et métadonnées ;
-* nuage de mots-clés ;
-* raccourcis textuels ou graphiques vers des applicatifs ou des recherches pré-filtrées ou tout autre contenu ;
 
 Voir :
 
@@ -90,8 +82,6 @@ Voir :
 
 L'interface d'administration, inspirée d'outils réputés tels WordPress, permet de gérer l'accès au portail mais aussi l'affichage des différents champs de métadonnées selon les types d'utilisateurs.
 
-
-
 Voir :
 
 * [rendre l'authentification au portail obligatoire](/settings/general.md) ;
@@ -100,7 +90,7 @@ Voir :
 
 ### Un socle générique habillé de chartes graphiques personnalisées
 
-le portail générique de démonstration \(parfois en travaux\) : http://demo.isogeo.net ;Créteil Géo Open Data : http://geodata.ville-creteil.fr ;Plaine Centrale Géo Open Data : http://geodata.agglo-plainecentrale94.fr ;GéoLorient : http://geocatalogue.lorient-agglo.bzh/ ;Grand Port Maritime de Nantes Saint-Nazaire \(privé\) http://gpmnsn.isogeo.net ;Syndicat Mixte d’Aménagement de la Vallée de la Durance \(privé\) http://smavd.isogeo.net ;
+le portail générique de démonstration \(parfois en travaux\) : [http://demo.isogeo.net](http://demo.isogeo.net) ;Créteil Géo Open Data : [http://geodata.ville-creteil.fr](http://geodata.ville-creteil.fr) ;Plaine Centrale Géo Open Data : [http://geodata.agglo-plainecentrale94.fr](http://geodata.agglo-plainecentrale94.fr) ;GéoLorient : [http://geocatalogue.lorient-agglo.bzh/](http://geocatalogue.lorient-agglo.bzh/) ;Grand Port Maritime de Nantes Saint-Nazaire \(privé\) [http://gpmnsn.isogeo.net](http://gpmnsn.isogeo.net) ;Syndicat Mixte d’Aménagement de la Vallée de la Durance \(privé\) [http://smavd.isogeo.net](http://smavd.isogeo.net) ;
 
 ### Un champ fonctionnel large, complet et cohérént
 
