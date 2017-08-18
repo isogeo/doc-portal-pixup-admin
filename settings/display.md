@@ -4,15 +4,26 @@ L'administrateur choisissant les catalogues partagés au portail diretcement dep
 
 Le portail permet de gérer une granularité de 5 niveaux sur les différentes parties des métadonnées. Par exemple, il est posible de définir qu'un utilisateur non authentifié \(internaute ou intranaute donc\) ne verra pas les attributs, alors qu'un utilisateur authentifié \(connecté avec son identifiant/mot de passe\) pourra les voir.
 
-!["Exemple des paramètres d'affichage pour le rôle 'Utilisateur authentifié avec privilège'"](/assets/back_display_advanced_user.png)
+![&quot;Exemple des paramètres d&apos;affichage pour le rôle &apos;Utilisateur authentifié avec privilège&apos;&quot;](/assets/back_display_advanced_user.png)
 
-## Niveaux
+## Options
 
-Voici les 5 niveaux
+Boutons 
 
-## Matrice
-
-
+| Paramètre | Description |
+| :--- | :--- |
+| Boutons fonctionnalités |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 
