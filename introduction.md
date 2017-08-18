@@ -1,13 +1,11 @@
 # Présentation générale du portail
 
-Le portail présente toujours 2 interfaces :
+Le portail présente 2 interfaces :
 
-* celle visible par les utilisateurs, qu'ils soient authentifiés ou pas : c'est l'interface d'utilisation ou  front-office. Elle est souvent sur une URL du type : http://_portail\_data_.domaine.com_._
-* celle accessible uniquement aux administrateurs : c'est l'interface d'administration ou back-office. Elle est systématiquement sur l'adresse _http://portail\_data.domaine.com_**/admin.**
+* celle visible par les utilisateurs, qu'ils soient authentifiés ou pas : c'est l'interface d'utilisation ou  front-office. Elle est souvent sur une URL du type : [http://\_portail\_data\_.domaine.com\_.\_](http://_portail_data_.domaine.com_._)
+* celle accessible uniquement aux administrateurs : c'est l'interface d'administration ou back-office. Elle est systématiquement sur l'adresse [http://portail\_data.domaine.com](http://portail_data.domaine.com)**/admin.**
 
 Ce guide se concentre sur la deuxième, même si la première est utilisée pour illustrer les conséquences de la configuration du back-office.
-
-
 
 ### Quand Data Management et design web font bon ménage {#docs-internal-guid-ab3644e3-f47e-003b-1b41-8a882bfb2893}
 
@@ -36,7 +34,30 @@ Voir :
 
 Des flux dynamiques sur l’actualité des données, tirant partie des différentes dates \(création dernière modification, etc.\) portant sur la donnée \(grâce au scan automatique notamment\) et sur la métadonnée.
 
+A la différence d’un simple catalogue de données tel un OpenCatalog ou même le Géocatalogue national, le portail intègre un CMS \(Content Management Systemou SGC - Système de Gestion de Contenus\) semblable à WordPress :
 
+* créer des pages statiques pour les grands axes du portail \(présentation du projet, crédits et CGUs, formations, outils, etc.\) ;
+
+* gestion des rubriques et des menus ;
+
+* gestionnaire d’actualités \(création, édition, publication, mise en avant en page d’accueil…\) ;
+
+* gestionnaire de médias et de fichiers pour enrichir vos contenus facilement ;
+
+* gestion des droits des utilisateurs ;
+
+* gestion de la relation avec Isogeo \(catalogue, thématiques, etc.\).
+
+  
+
+
+La page d’accueil est très personnalisable avec des options d’affichages pour répondre aux différents besoins et choix de publication :
+
+* gestion de blocs dynamiques sur les données et métadonnées ;
+
+* nuage de mots-clés ;
+
+* raccourcis textuels ou graphiques vers des applicatifs ou des recherches pré-filtrées ou tout autre contenu ;
 
 Voir :
 
@@ -47,7 +68,11 @@ Voir :
 
 #### Dimension géographique et interface cartographique
 
+La dimension géographique est au coeur de l’expertise Isogeo et des fonctionnalités spécifiques sont intégrées pour la valoriser facilement :visualisation des services web géographiques :directement dans l’interface de consultation des données de façon à valoriser facilement votre serveur cartographique et à boucler sur le lien dynamique entre métadonnée et donnée :les principaux standards sont pris en charge \(WMS, WMTS, WFS, Esri Map, Esri Tiled Map, Esri Feature\) ;les couches sont co-visualisables.
 
+recherche géographique recherche par nom de lieux \(via le service de géocodage Nominatim lié au projet OpenStreetMap\) pour affiner la recherche thématique ;un filtre par des emprises géographiques personnalisables par l’administrateur via un fichier GeoJSON ;
+
+une interface cartographique de recherche est également disponible permettant de filtrer les résultats par localisation de leur emprise \(centroïde\).
 
 ![](/assets/front_map_metadata_modale.png)
 
@@ -58,9 +83,40 @@ Voir :
 
 ### Une dimension participative pour servir l'animation autour du patrimoine immatériel
 
+un espace et des options dédiés aux utilisateurs authentifiés :accéder à des pages réservées ou à des détails supplémentaires sur les fiches de métadonnées,accéder aux fonctionnalités participatives,création de listes de données personnalisées,
 
+un outil de travail optimisé grâce aux notifications :un utilisateur peut choisir de s’abonner à certaines données \(via les listes\)toutes les semaines \(période personnalisable\), il reçoit un rapport par mail lui indiquant quelles données ont été modifiées entre temps sans aucune intervention de la part de l’administrateur.
 
+partager ses listes aux autres utilisateurs, en public ou bien les garder privées,
 
+* personnaliser l’affichage des informations \(par exemple, masquer / afficher systématiquement le tableau des attributs\)
+
+Voir :
+
+*  [modérer les commentaires](/messages-recus/comment.md) ;
+* [consulter les données évaluées](/stats/evaluations.md) ;
+
+### Un champ fonctionnel large, complet et cohérént
+
+Beaucoup d’autres fonctionnalités a priori mineures mais qui prennent pourtant toute leur importance à l’usage :
+
+* adapté à tous les supports \(“responsive design”\) ;
+
+* exporter les fiches de métadonnées au format PDF ;
+
+* des statistiques pour votre reporting, généralistes \(Google Analytics\) et spécifiques \(vues, ressources, recherches, etc.\) ;
+
+* affiner le référencement par les moteurs de recherche \(SEO\) ;
+
+* lien direct vers l’édition de la fiche de métadonnées pour les utilisateurs disposant d’un compte Isogeo ;
+
+* interprétation et valorisation paramétrable du[langage Markdown](http://help.isogeo.com/fr/features/documentation/syntax_markdown.html)disponible dans Isogeo \(voir[cette fiche par exemple](http://demo.isogeo.net/les-donnees/Bars-pubs-et-brasseries-artisanales-dOpen-Beer-Map-Ile-de-France-mai-2015/eeeb7a31c27145e2a3c0f08415f38aed)\) ;
+
+* bouton pour copier le chemin d’une donnée fichier dans le presse-papiers directement depuis la fiche de métadonnée ;
+
+* générer un code d’intégration iFrame à partir de chaque fiche de métadonnées ;
+
+* trier sur les tableaux des attributs ;
 
 
 
