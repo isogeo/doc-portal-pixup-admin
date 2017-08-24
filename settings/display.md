@@ -8,22 +8,34 @@ Le portail permet de gérer une granularité de 5 niveaux sur les différentes p
 
 ## Options
 
-Boutons 
+### Informations sur les différentes parties du portail
 
 | Paramètre | Description |
 | :--- | :--- |
-| Boutons fonctionnalités |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Afficher propriétaire |  |
+| Afficher échelle |  |
+| Afficher type |  |
+| Intitulé "Propriétaire" | Permet de changer l'intitulé du groupe de travail qui a créé la fiche de métadonnées dans Isogeo, pour éviter les confusions. Valeur par défaut : _Propriétaire de la métadonnée_. |
+
+
+### Actions disponibles sur une métadonnée
+
+| Paramètre | Description |
+| :--- | :--- |
+| Boutons fonctionnalités | Permet de définir le style des boutons d'actions présents sur une fiche de métadonnées \(télécharger, visualiser...\). Soit sous forme de texte , soit sous forme d'icônes :  |
+| Sections des métadonnées |  |
+| Copier le chemin |  |
+| Partager avec iFrame |  |
+| Noter une fiche |  |
+| Commenter une fiche |  |
+
+
+### Sections des métadonnées
+
+| Paramètre | Description |
+| :--- | :--- |
+| Note |  |
+| Attributs |  |
 
 
 
