@@ -7,9 +7,8 @@
                          "Administration Isogeo": "https://app.isogeo.com"
                          }
              },
- "plugins": ["anchors",
-             "image-captions",
-             "page-nav-configurable", 
+ "plugins": ["image-captions",
+             "page-toc",
              "timeline",
              "toggle-headers",
              "youtube"
