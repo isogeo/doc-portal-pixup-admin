@@ -14,7 +14,7 @@ Le portail permet de gérer une granularité de 5 niveaux sur les différentes p
 | :--- | :--- |
 | Afficher propriétaire | Permet d'indiquer où le nom du groupe de travail ayant créé la métadonnée s'affiche dans les différentes interfaces du portail : page d'accueil \(dans [les pavés dynamiques](/homepage/dyn-sections.md)\), résultats de rechecrhe \(menu Catalogue par défaut\) et sur le détail d'une fiche de métadonnées. |
 | Afficher échelle | Pareil que le paramètre précédent mais avec la valeur du champ [Echelle](http://help.isogeo.com/fr/features/documentation/md_geography.html#echelle) d'Isogeo. |
-| Afficher type | Pareil que le paramètre précédent mais avec la valeur du champ [Type](http://help.isogeo.com/fr/features/documentation/index.html#les-diff%C3%A9rents-types-de-ressources) d'Isogeo. |
+| Afficher type | Pareil que le paramètre précédent mais avec la valeur du champ [Type](http://help.isogeo.com/fr/features/documentation/index.html#les-différents-types-de-ressources) d'Isogeo. |
 | Intitulé "Propriétaire" | Permet de changer l'intitulé du groupe de travail qui a créé la fiche de métadonnées dans Isogeo, pour éviter les confusions. Correspond au champ [Propriétaire](http://help.isogeo.com/fr/start/group_switch.html#mon-compte-mes-groupes-de-travail) d'Isogeo. Valeur par défaut : _Propriétaire de la métadonnée_. |
 
 ### Actions disponibles sur une métadonnée
@@ -22,10 +22,10 @@ Le portail permet de gérer une granularité de 5 niveaux sur les différentes p
 | Paramètre | Description |
 | :--- | :--- |
 | Boutons fonctionnalités | Permet de définir le style des boutons d'actions présents sur une fiche de métadonnées \(télécharger, visualiser...\). Soit sous forme de texte , soit sous forme d'icônes \(avec le texte en infobulles\). |
-| Copier le chemin |  |
-| Partager avec iFrame |  |
-| Noter une fiche |  |
-| Commenter une fiche |  |
+| Copier le chemin | Donne la possibilité de copier le chemin d'accès à la donnée dans le presse-papiers. |
+| Partager avec iFrame | Donne la possibilité d'obtenir le code de partage iFrame pour intégrer la fiche directement dans un autre site web. |
+| Noter une fiche | Donne la possibilité de noter la fiche. |
+| Commenter une fiche | Donne la possibilité de commenter la fiche. |
 
 ### Sections des métadonnées
 
