@@ -21,7 +21,7 @@ Le portail permet de gérer une granularité de 5 niveaux sur les différentes p
 
 | Paramètre | Description |
 | :--- | :--- |
-| Boutons fonctionnalités | Permet de définir le style des boutons d'actions présents sur une fiche de métadonnées \(télécharger, visualiser...\). Soit sous forme de texte , soit sous forme d'icônes \(avec le texte en infobulles\). |
+| Boutons fonctionnalités | Permet de définir le style des boutons d'actions présents sur une fiche de métadonnées \(télécharger, visualiser...\). Soit sous forme de texte ![](/assets/front_md_actions_buttons.png) , soit sous forme d'icônes \(avec le texte en infobulles\) ![](/assets/front_md_actions_labels.png). |
 | Copier le chemin | Donne la possibilité de copier le chemin d'accès à la donnée dans le presse-papiers. |
 | Partager avec iFrame | Donne la possibilité d'obtenir le code de partage iFrame pour intégrer la fiche directement dans un autre site web. |
 | Noter une fiche | Donne la possibilité de noter la fiche. |
@@ -31,8 +31,16 @@ Le portail permet de gérer une granularité de 5 niveaux sur les différentes p
 
 | Paramètre | Description |
 | :--- | :--- |
-| Note |  |
-| Attributs |  |
+| Note | Affiche la note de la métadonnée. |
+| Attributs | Affiche le tableau des attributs des données vectorielles. |
+| Evénements | Affiche les 5 derniers événements intervenus sur les données. |
+| Ressources associées | Affiche les boutons d'actions. |
+| Couches de services | Affiche le bouton de visualisation des services géographiques liés. |
+| Spécifications | Affiche les spécifications. |
+| Conditions | Affiche les licences. |
+| Limitations | Affiche les limitations. |
+| Contacts | Affiche les contacts. |
+| Voir aussi | Affiche la section ["Voir Aussi"](/settings/voir-aussi.md). |
 
 
 
