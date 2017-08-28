@@ -34,8 +34,6 @@ Voir :
 * [option de tri des résultats par défaut](/settings/search-map/searchtext.md) ;
 * [créer des thématiques personnalisées regroupant des données pour proposer des filtres pertinents](/homepage/thematics.md) ;
 
-![&quot;Interface de recherche - Options de filtre et de tri&quot;](/assets/front_search_filters_catalog.png)
-
 #### Une gestion de contenus dynamiques et statiques
 
 Focalisé sur les données, le portail permet d'insérer les informations sur celles-ci dynamiquement à partir de l'inventaire Isogeo, notamment sur la page d'accueil. Au-delà des données, le portail  intègre un CMS \(_Content Management System_ ou SGC - Système de Gestion de Contenus\) et permet ainsi l'édition de contenus éditoriaux, comme sur WordPress par exemple :
@@ -84,6 +82,7 @@ Voir :
 
 * [modérer les commentaires](/messages-recus/comment.md) ;
 * [consulter les données évaluées](/stats/evaluations.md) ;
+* [paramétrer les emails](/settings/emails.md) ;
 
 ## Une administration simple mais puissante
 
@@ -97,13 +96,20 @@ Voir :
 
 ### Un socle générique habillé de chartes graphiques personnalisées
 
+
+
 le portail générique de démonstration \(parfois en travaux\) : [http://demo.isogeo.net](http://demo.isogeo.net) ;Créteil Géo Open Data : [http://geodata.ville-creteil.fr](http://geodata.ville-creteil.fr) ;Plaine Centrale Géo Open Data : [http://geodata.agglo-plainecentrale94.fr](http://geodata.agglo-plainecentrale94.fr) ;GéoLorient : [http://geocatalogue.lorient-agglo.bzh/](http://geocatalogue.lorient-agglo.bzh/) ;Grand Port Maritime de Nantes Saint-Nazaire \(privé\) [http://gpmnsn.isogeo.net](http://gpmnsn.isogeo.net) ;Syndicat Mixte d’Aménagement de la Vallée de la Durance \(privé\) [http://smavd.isogeo.net](http://smavd.isogeo.net) ;
+
+#### Interface multi-supports
+
+L'interface du portail est responsive design pour s'adapter aux différents formats des supports de consultation \(ordinateur, smartphone, tablette...\).
+
+![](/assets/front_misc_responsive_smartphone_homepage.jpg)
 
 ### Un champ fonctionnel large, complet et cohérént
 
 Beaucoup d’autres fonctionnalités viennent compléter l'expérience utilisateur :
 
-* adapté à tous les formats de supports \(_responsive design_\) ;
 * export des métadonnées au format PDF ;
 * des statistiques pour le reporting de l'administrateur : généralistes \(Google Analytics\) et spécifiques \(vues, ressources, recherches, etc.\) ;
 * un référencement optimisé pour les moteurs de recherche \(SEO\) ;
