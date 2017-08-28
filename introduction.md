@@ -70,6 +70,8 @@ Voir :
 
 ### Une dimension participative pour servir l'animation autour du patrimoine immatériel
 
+
+
 un espace et des options dédiés aux utilisateurs authentifiés :accéder à des pages réservées ou à des détails supplémentaires sur les fiches de métadonnées,accéder aux fonctionnalités participatives,création de listes de données personnalisées,
 
 un outil de travail optimisé grâce aux notifications :un utilisateur peut choisir de s’abonner à certaines données \(via les listes\)toutes les semaines \(période personnalisable\), il reçoit un rapport par mail lui indiquant quelles données ont été modifiées entre temps sans aucune intervention de la part de l’administrateur.
@@ -95,8 +97,6 @@ Voir :
 * [gérer l'affichage selon le type d'utilisateur](/settings/display.md).
 
 ### Un socle générique habillé de chartes graphiques personnalisées
-
-
 
 le portail générique de démonstration \(parfois en travaux\) : [http://demo.isogeo.net](http://demo.isogeo.net) ;Créteil Géo Open Data : [http://geodata.ville-creteil.fr](http://geodata.ville-creteil.fr) ;Plaine Centrale Géo Open Data : [http://geodata.agglo-plainecentrale94.fr](http://geodata.agglo-plainecentrale94.fr) ;GéoLorient : [http://geocatalogue.lorient-agglo.bzh/](http://geocatalogue.lorient-agglo.bzh/) ;Grand Port Maritime de Nantes Saint-Nazaire \(privé\) [http://gpmnsn.isogeo.net](http://gpmnsn.isogeo.net) ;Syndicat Mixte d’Aménagement de la Vallée de la Durance \(privé\) [http://smavd.isogeo.net](http://smavd.isogeo.net) ;
 
