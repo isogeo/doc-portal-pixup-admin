@@ -19,18 +19,22 @@ L’objectif n’est pas de mettre un simple catalogue en consultation mais d’
 
 Par ailleurs, il est possible de tirer parti de la modularité d’Isogeo et de servir un ou plusieurs portails selon les besoins. Par exemple dans le cas où vous avez besoin de diffuser certaines de vos données en interne d’une certaine façon et d’autres en externe d’une autre façon. C’est très facile à réaliser et tout à fait transparent d’un point de vue d'administration.
 
+!["Les données sont consommées et produites par différents types de personnes - L'accès doit être simple pour tous"](/assets/misc_data_people.png)
+
 ### Des fonctionnalités au service de la stratégie de diffusion
 
 #### Moteur de recherche Isogeo
 
 Le portail intègre évidemment toute la puissance du [moteur de recherche Isogeo](http://help.isogeo.com/fr/features/inventory/search.html) : filtres dynamiques, options de tri des résultats, pagination, etc. le tout dans une interface claire et proche des outils utilisés quotidiennement.
 
+![&quot;Interface de recherche - Options de filtre et de tri&quot;](/assets/front_search_filters_catalog.png)
+
 Voir :
 
 * [option de tri des résultats par défaut](/settings/search-map/searchtext.md) ;
 * [créer des thématiques personnalisées regroupant des données pour proposer des filtres pertinents](/homepage/thematics.md) ;
 
-![](/assets/front_search_filters_catalog.png)
+![&quot;Interface de recherche - Options de filtre et de tri&quot;](/assets/front_search_filters_catalog.png)
 
 #### Une gestion de contenus dynamiques et statiques
 
@@ -40,6 +44,8 @@ Focalisé sur les données, le portail permet d'insérer les informations sur ce
 * gestion des rubriques et des menus ;
 * gestionnaire d’actualités \(création, édition, publication, mise en avant en page d’accueil…\) ;
 * gestionnaire de médias et de fichiers pour enrichir vos contenus facilement ;
+
+![&quot;Articles et catégories - Exemple du SMAVD&quot;](/assets/front_news_smavd.png)
 
 Voir :
 
@@ -56,7 +62,7 @@ recherche géographique recherche par nom de lieux \(via le service de géocodag
 
 une interface cartographique de recherche est également disponible permettant de filtrer les résultats par localisation de leur emprise \(centroïde\).
 
-![](/assets/front_map_metadata_modale.png)
+![&quot;Interface cartographique de recherche - Aperçu d&apos;une métadonnée&quot;](/assets/front_map_metadata_modale.png)
 
 Voir :
 
