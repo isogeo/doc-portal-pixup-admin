@@ -19,7 +19,7 @@ L’objectif n’est pas de mettre un simple catalogue en consultation mais d’
 
 Par ailleurs, il est possible de tirer parti de la modularité d’Isogeo et de servir un ou plusieurs portails selon les besoins. Par exemple dans le cas où vous avez besoin de diffuser certaines de vos données en interne d’une certaine façon et d’autres en externe d’une autre façon. C’est très facile à réaliser et tout à fait transparent d’un point de vue d'administration.
 
-!["Les données sont consommées et produites par différents types de personnes - L'accès doit être simple pour tous"](/assets/misc_data_people.png)
+![&quot;Les données sont consommées et produites par différents types de personnes - L&apos;accès doit être simple pour tous&quot;](/assets/misc_data_people.png)
 
 ### Des fonctionnalités au service de la stratégie de diffusion
 
@@ -56,11 +56,12 @@ Voir :
 
 #### Dimension géographique et interface cartographique
 
-La dimension géographique est au coeur de l’expertise Isogeo et des fonctionnalités spécifiques sont intégrées pour la valoriser facilement :visualisation des services web géographiques :directement dans l’interface de consultation des données de façon à valoriser facilement votre serveur cartographique et à boucler sur le lien dynamique entre métadonnée et donnée :les principaux standards sont pris en charge \(WMS, WMTS, WFS, Esri Map, Esri Tiled Map, Esri Feature\) ;les couches sont co-visualisables.
+La dimension géographique est au coeur de l’expertise Isogeo et des fonctionnalités spécifiques sont intégrées pour la valoriser facilement :
 
-recherche géographique recherche par nom de lieux \(via le service de géocodage Nominatim lié au projet OpenStreetMap\) pour affiner la recherche thématique ;un filtre par des emprises géographiques personnalisables par l’administrateur via un fichier GeoJSON ;
-
-une interface cartographique de recherche est également disponible permettant de filtrer les résultats par localisation de leur emprise \(centroïde\).
+* visualisation des services web géographiques \(WMS, WMTS, WFS, Esri Map, Esri Tiled Map, Esri Feature\) liés aux métadonnées de données, directement dans la fiche ;
+* recherche par nom de lieux \(via le service de géocodage Nominatim lié au projet OpenStreetMap\) ;
+* un filtre par des emprises géographiques personnalisables par l’administrateur via un fichier GeoJSON ;
+* une interface cartographique de recherche est également disponible permettant de filtrer les résultats par localisation de leur emprise \(centroïde\).
 
 ![&quot;Interface cartographique de recherche - Aperçu d&apos;une métadonnée&quot;](/assets/front_map_metadata_modale.png)
 
