@@ -70,8 +70,6 @@ Voir :
 
 ### Une dimension participative pour servir l'animation autour du patrimoine immatériel
 
-
-
 un espace et des options dédiés aux utilisateurs authentifiés :accéder à des pages réservées ou à des détails supplémentaires sur les fiches de métadonnées,accéder aux fonctionnalités participatives,création de listes de données personnalisées,
 
 un outil de travail optimisé grâce aux notifications :un utilisateur peut choisir de s’abonner à certaines données \(via les listes\)toutes les semaines \(période personnalisable\), il reçoit un rapport par mail lui indiquant quelles données ont été modifiées entre temps sans aucune intervention de la part de l’administrateur.
@@ -117,6 +115,7 @@ Beaucoup d’autres fonctionnalités viennent compléter l'expérience utilisate
 * interprétation du [langage Markdown](http://help.isogeo.com/fr/features/documentation/syntax_markdown.html) disponible dans Isogeo ;
 * bouton pour copier le chemin d’une donnée fichier dans le presse-papiers directement depuis la métadonnée ;
 * générer un code d’intégration iFrame à partir de chaque fiche de métadonnées ;
+* des liens universels basés sur l'identifiant Isogeo. Exemple : http://demo.isogeo.net/?muid=56ed291af72f46dc9835fc9ae29fe938
 
 
 
