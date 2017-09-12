@@ -115,7 +115,7 @@ Beaucoup d’autres fonctionnalités viennent compléter l'expérience utilisate
 * interprétation du [langage Markdown](http://help.isogeo.com/fr/features/documentation/syntax_markdown.html) disponible dans Isogeo ;
 * bouton pour copier le chemin d’une donnée fichier dans le presse-papiers directement depuis la métadonnée ;
 * générer un code d’intégration iFrame à partir de chaque fiche de métadonnées ;
-* des liens universels basés sur l'identifiant Isogeo. Exemple : http://demo.isogeo.net/?muid=56ed291af72f46dc9835fc9ae29fe938
+* des liens universels basés sur l'identifiant Isogeo. Exemple : [http://demo.isogeo.net/?muid=56ed291af72f46dc9835fc9ae29fe938](http://demo.isogeo.net/?muid=56ed291af72f46dc9835fc9ae29fe938)
 
 
 
