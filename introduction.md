@@ -21,7 +21,7 @@ Par ailleurs, il est possible de tirer parti de la modularité d’Isogeo et de 
 
 ![&quot;Les données sont consommées et produites par différents types de personnes - L&apos;accès doit être simple pour tous&quot;](/assets/misc_data_people.png)
 
-### Des fonctionnalités au service de la stratégie de diffusion
+### Au service de la stratégie de diffusion
 
 #### Moteur de recherche Isogeo
 
@@ -68,7 +68,7 @@ Voir :
 * [paramétrer l'interface cartographique et la recherche géographique](/settings/search-map/searchmap.md) ;
 * [définir des emprises géographiques de recherche personnalisées](/settings/search-map/searchbbox.md) ;
 
-### Une dimension participative pour servir l'animation autour du patrimoine immatériel
+### Dimension participative pour animer le patrimoine immatériel
 
 un espace et des options dédiés aux utilisateurs authentifiés :accéder à des pages réservées ou à des détails supplémentaires sur les fiches de métadonnées,accéder aux fonctionnalités participatives,création de listes de données personnalisées,
 
@@ -94,7 +94,7 @@ Voir :
 * [gérer les utilisateurs](/users/user-management.md) ;
 * [gérer l'affichage selon le type d'utilisateur](/settings/display.md).
 
-### Un socle générique habillé de chartes graphiques personnalisées
+### Un socle générique personnalisable
 
 le portail générique de démonstration \(parfois en travaux\) : [http://demo.isogeo.net](http://demo.isogeo.net) ;Créteil Géo Open Data : [http://geodata.ville-creteil.fr](http://geodata.ville-creteil.fr) ;Plaine Centrale Géo Open Data : [http://geodata.agglo-plainecentrale94.fr](http://geodata.agglo-plainecentrale94.fr) ;GéoLorient : [http://geocatalogue.lorient-agglo.bzh/](http://geocatalogue.lorient-agglo.bzh/) ;Grand Port Maritime de Nantes Saint-Nazaire \(privé\) [http://gpmnsn.isogeo.net](http://gpmnsn.isogeo.net) ;Syndicat Mixte d’Aménagement de la Vallée de la Durance \(privé\) [http://smavd.isogeo.net](http://smavd.isogeo.net) ;
 
