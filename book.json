@@ -20,7 +20,7 @@
                               "images": {"1.1.1": {"skip": true}}
                                         },
                 "page-toc": {
-                            "position": top
+                            "position": "top"
                             }
               },
  "variables": {
