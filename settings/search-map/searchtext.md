@@ -1,6 +1,6 @@
 ## Recherche textuelle
 
-Lorsqu'un utilisateur entre des termes de recherche dans le champ de recherche, les résultats sont affichés dans selon le paramètres défini par l'administrateur dans cette partie parmi les valeurs suivantes :
+Lorsqu'un utilisateur entre des termes de recherche dans le champ de recherche textuel, les résultats sont affichés dans selon le paramètres défini par l'administrateur dans cette partie parmi les valeurs suivantes :
 
 * nom, par ordre alphabétique \(valeur par défaut\) ;
 * date de modification des métadonnées ;

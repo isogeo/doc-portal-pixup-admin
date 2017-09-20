@@ -1,4 +1,4 @@
-# Recherche et de l'interface cartographique
+# Recherche et interface cartographique
 
 Dans cette partie, il est possible de régler l'ensemble des paramètres liés aux fonctionnalités de recherche du portail :
 

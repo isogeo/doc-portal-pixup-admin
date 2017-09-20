@@ -19,7 +19,7 @@
 * [Sélection de données](homepage/featured-data.md)
 * [Thématiques](homepage/thematics.md)
 
-## Dashboard
+## Tableau de bord
 
 * [Fonctionnement du tableau de bord](dashboard/features.md)
 

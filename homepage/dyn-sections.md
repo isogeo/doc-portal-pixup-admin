@@ -6,7 +6,7 @@ Les pavés dynamiques permettent d'afficher, sur la page d'accueil, des listes d
 
 Les pavés listent des données selon des critères liés à l'API Isogeo \(dates de création et dernière modification des données et métadonnées par exemple\) ou propres au portail \(évaluations par exemple\). Chaque métadonnée est présentée sous forme d'un pavé.
 
-!["Administrer les blocs dynamiques en page d'accueil"](/assets/back_homepage_dynamic_sections.png)
+![&quot;Administrer les blocs dynamiques en page d&apos;accueil&quot;](/assets/back_homepage_dynamic_sections.png)
 
 ## Réglages
 
@@ -16,7 +16,7 @@ Le portail permet de configurer jusqu'à 3 blocs. Chaque bloc peut être masqué
 
 Chaque colonne est configurable :
 
-* **Titre de la colonne**. Il est recomandé de limiter à des mots de 25 caractères continus pour éviter les problèmes de mise en page.
+* **Titre de la colonne**. Il est recommandé de limiter à des mots de 25 caractères continus pour éviter les problèmes de mise en page.
 
 * **Variable de contenu**. Valeurs possibles :
 
@@ -41,11 +41,11 @@ Chaque colonne est configurable :
 Chaque pavé contient 1 métadonnée :
 
 * Titre \(obligatoire\).
-* les 300 premiers caractères du résumé  : il est possible de définir si les balises markdown sont interprétéés ou pas.
+* les 300 premiers caractères du résumé  : il est possible de définir si les balises markdown sont interprétées ou pas.
 * Propriétaire de la métadonnée \(facultatif\) ;
 * Echelle \(facultatif\).
 * Type \(facultatif\).
 
-Les paramètres facultatifs dépendent du type d'utilisateur et sont donc configurables dans la rubique [Affichage  
+Les paramètres facultatifs dépendent du type d'utilisateur et sont donc configurables dans la rubrique [Affichage    
 ](/settings/display.md).
 

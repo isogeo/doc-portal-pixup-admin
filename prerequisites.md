@@ -2,7 +2,7 @@
 
 ## Isogeo
 
-* au moins un groupe de travail Isogeo dans un abonnement payant
+* au moins un groupe de travail Isogeo ;
 * au moins un catalogue contenant au moins une métadonnée, partagé à l'application ;
 * des clés d'authentification auprès de l'API Isogeo ;
 

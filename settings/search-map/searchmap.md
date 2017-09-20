@@ -2,7 +2,7 @@
 
 ### Fonctionnement
 
-La dimension géographique est utilisée principalement dans deux fonctionnalités dans le portail :
+La dimension géographique est utilisée principalement dans deux fonctionnalités du portail :
 
 * lors de la recherche par emprises personnalisées ;
 * dans l'interface de recherche cartographique ;
