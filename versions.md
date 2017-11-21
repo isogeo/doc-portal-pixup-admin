@@ -3,9 +3,24 @@
 
 <!-- timeline -->
 
+## 2.4 {#version24}
+
+<br> Publiée le 29 décembre 2017 :
+
+* refonte du système de liens de visualisation :
+    * amélioration des performances (calcul côté serveur)
+    * prise en charge des services documentés automatiquement via Isogeo
+* passage à PHP 7
+* mise en HTTPS
+
+<!-- /timeline -->
+
+
+<!-- timeline -->
+
 ## 2.3 {#version23}
 
-<br> Publiée le 30 septembre 2017 :
+<br> Publiée le 17 novembre 2017 :
 
 * mise en place du système "Voir aussi" (similarité entre les métadonnées) ;
 * gestion des licences associées au bouton téléchargement ;
@@ -15,6 +30,8 @@
     * mots à exclure,
     * renouvellement du cache
 * ajout de la visualisation des emprises personnalisées dans le back-office ;
+* corrections de bugs dans la gestion des listes (dans certaines conditions, la suppression d’une données d’une liste provoquait l’effacement de la liste elle-même)
+* sur la cartographie, possibilité de dessiner un polygone de recherche
 * refonte complète de l'aide en ligne.
 
 <!-- /timeline -->
