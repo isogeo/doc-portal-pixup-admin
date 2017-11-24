@@ -1,6 +1,6 @@
 # Voir aussi
 
-Pour faciliter la découverte et la navigation dans les catalogues partagés, le portail intègre \(depuis [la version 2.3](/versions.md)\) un système de suggestions des métadonnées potentiellement similaires à celle que l'utilisateur est en train de consulter.
+Pour faciliter la découverte et la navigation dans les catalogues partagés, le portail intègre \(depuis [la version 2.3](/versions.md)\) un système de suggestions des métadonnées potentiellement similaires à celle que l'utilisateur est en train de consulter. A l'instar des différentes sections, l'affichage de celle-ci relève également [des paramètres d'affichage](/settings/display.md) et peut être réglée selon [le type de l'utilisateur](/users/user-management.md).
 
 Exemple de résultat :
 
