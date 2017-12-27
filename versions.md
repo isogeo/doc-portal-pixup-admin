@@ -22,8 +22,6 @@
 
 <br> Publiée le 17 novembre 2017 :
 
-### Administration
-
 * mise en place du système "Voir aussi" (similarité entre les métadonnées) ;
 * gestion des licences associées au bouton téléchargement ;
 * possibilité de personnaliser l'intitulé "Propriétaire" de la métadonnée ;
@@ -35,10 +33,6 @@
 * corrections de bugs dans la gestion des listes (dans certaines conditions, la suppression d’une données d’une liste provoquait l’effacement de la liste elle-même)
 * sur la cartographie, possibilité de dessiner un polygone de recherche
 * refonte complète de l'aide en ligne.
-
-### test
-
-hop
 
 <!-- /timeline -->
 <!-- timeline -->
