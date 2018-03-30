@@ -1,4 +1,4 @@
-![&quot;Logo d&apos;Isogeo&quot;](http://www.isogeo.com/images/logo.png)
+![&quot;Logo d&apos;Isogeo&quot;](https://www.isogeo.com/images/logo.png)
 
 # Guide d'administration du portail de données basé sur Isogeo
 
