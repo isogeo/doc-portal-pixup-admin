@@ -5,7 +5,7 @@
 
 ## 2.4 {#version24}
 
-<br> Publiée le 29 décembre 2017 :
+<br> Publiée le 31 mars 2018 :
 
 * refonte du système de liens de visualisation :
     * amélioration des performances (calcul côté serveur)
