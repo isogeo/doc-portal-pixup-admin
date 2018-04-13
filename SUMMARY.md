@@ -79,8 +79,8 @@
 
 ## Annexes
 
+* [Accès en HTTPS](appendices/https.md)
 * [Editeur WYSIWYG](appendices/editorwysiwyg.md)
 * [Référencement](/appendices/seo.md)
-* [https](appendices/https.md)
 * [Figures et images](pictures.md)
 
