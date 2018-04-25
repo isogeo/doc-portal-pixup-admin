@@ -65,6 +65,10 @@
 * [Réglages par défaut](settings/default-reset.md)
 * [Voir aussi](settings/voir-aussi.md)
 
+## geoservices
+
+* Importer
+
 ## Statistiques
 
 * [Fiches consultées](stats/metadata.md)
