@@ -67,7 +67,8 @@
 
 ## Services géographiques
 
-* [import](geoservices/import.md)
+* [Import](geoservices/import.md)
+* [Rechercher](geoservices/list.md)
 
 ## Statistiques
 
