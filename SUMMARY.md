@@ -67,7 +67,7 @@
 
 ## geoservices
 
-* Importer
+* [import](geoservices/import.md)
 
 ## Statistiques
 
