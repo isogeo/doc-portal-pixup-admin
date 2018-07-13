@@ -10,7 +10,7 @@ Le portail permet de gérer une granularité de 5 niveaux sur les différentes p
 
 ## Options
 
-### Informations sur les différentes parties du portail {#display_}
+### Informations sur les différentes parties du portail {#display_site_parts}
 
 | Paramètre | Description |
 | :--- | :--- |
@@ -21,7 +21,7 @@ Le portail permet de gérer une granularité de 5 niveaux sur les différentes p
 
 ---
 
-### Actions disponibles sur une métadonnée
+### Actions disponibles sur une métadonnée {#display_actions}
 
 | Paramètre | Description |
 | :--- | :--- |
@@ -33,7 +33,7 @@ Le portail permet de gérer une granularité de 5 niveaux sur les différentes p
 
 ---
 
-### Sections des métadonnées
+### Sections des métadonnées {#display_metadata_sections}
 
 | Paramètre            | Description |
 | :------------------- | :---------- |
@@ -48,6 +48,3 @@ Le portail permet de gérer une granularité de 5 niveaux sur les différentes p
 | Ressources associées | Affiche les boutons d'actions. |
 | Spécifications       | Affiche les spécifications. |
 | Voir aussi           | Affiche la section ["Voir Aussi"](/settings/voir-aussi.md). |
-
-
-
