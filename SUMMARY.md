@@ -32,7 +32,6 @@
 
 * [Gestionnaire d'images](medias/imagemanager.md)
 * [Gestionnaire de fichiers](medias/filesmanager.md)
-* [Retoucher avec iPiccy](medias/ipiccy.md)
 
 ## Menu
 
