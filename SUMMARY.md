@@ -59,11 +59,6 @@
 * [Maintenance](settings/unlock.md)
 * [Voir aussi](settings/voir-aussi.md)
 
-## Services géographiques
-
-* [Import](geoservices/import.md)
-* [Rechercher](geoservices/list.md)
-
 ## Statistiques
 
 * [Fiches consultées](stats/metadata.md)

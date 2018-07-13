@@ -50,6 +50,12 @@ A noter que :
 
 ## Import les services {#cleanup_geoservices_process}
 
+Afin que l'expérience de consultation du portail soit la plus fluide possible pour l'utilisateur final, le portail génére les URLs de visualisation des services géographiques associés aux métadonnées Isogeo.
 
+Cette routine tourne 3 fois par jour :
 
+* 6h
+* 13h
+* 20h
 
+Ce menu permet de déclencher manuellement la routine.
