@@ -1,6 +1,18 @@
 # Notes de versions
 
+<!-- timeline -->
 
+## 2.5 {#version25}
+
+<br> Publiée le 31 juillet 2018 :
+
+* réorganisation globale de l'administration
+  * ajout d'une barre de recherche pour faciliter l'accès aux options de personnalisation
+  * ajout de voyants indiquant l'état de certains paramètres essentiels au portail (connexion à l'API Isogeo, Nominatim...)
+* correction d&apos;anomalies mineures (notamment sur l'affichage)
+* mise à jour de cette documentation
+
+<!-- /timeline -->
 <!-- timeline -->
 
 ## 2.4 {#version24}
@@ -14,8 +26,6 @@
 * mise en HTTPS
 
 <!-- /timeline -->
-
-
 <!-- timeline -->
 
 ## 2.3 {#version23}
