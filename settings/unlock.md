@@ -1,4 +1,6 @@
-# Optimisation \(anciennement Déverrouillage\)
+# Opérations de maintenance
+
+Ce menu, anciennement nommé "Optimisation", permet à l'administrateur.rice du portail de déclencher manuellement les t&#226;ches de maintenance.
 
 ## Déverrouiller les objets modifiés {#cleanup_unlock}
 
@@ -26,7 +28,6 @@ Afin de pouvoir restaurer le portail à état de livraison, le bouton de cette s
 
 ![](/assets/back_reset_default.png)
 
-
 ----
 
 ## Mise à jour du partage Isogeo {#cleanup_isogeo_application_sync}
@@ -43,4 +44,12 @@ A noter que :
 * le processus peut durer assez longtemps selon le nombre de données concernées.
 
 ![](/assets/back_unlock_share_refresh.png)
+
+
+----
+
+## Import les services {#cleanup_geoservices_process}
+
+
+
 
