@@ -37,10 +37,6 @@
 
 * [Gérer le menu horizontal](menu/adminmenu.md)
 
-## Back-office
-
-* [Messages d'information pour les administrateurs](back-office/messaging.md)
-
 ## Messages reçus
 
 * [Messages reçus](messages-recus/messages.md)
