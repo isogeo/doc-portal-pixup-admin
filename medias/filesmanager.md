@@ -6,5 +6,5 @@ Outil d'ajout et de gestion des fichiers, qui peuvent alors être liés depuis t
 
 Par défaut, le dossier `recherche_geo` est systématiquement présent. IL est utilisé pour [la recherche par emprises personnalisées](/settings/search-map/searchbbox.md).
 
-![](/assets/back_image_manager.png)
+![](/assets/back_image_manager.png "Gestionnaire de fichiers")
 
