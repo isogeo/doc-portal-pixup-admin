@@ -13,8 +13,6 @@
 * Safari ;
 * Edge.
 
-## Connexion internet
-
 ---
 
 # Environnement technique
