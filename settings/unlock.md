@@ -16,7 +16,7 @@ _Fonctionnalité ajoutée avec la _[_version 2.3 du portail_](/versions#version2
 
 Boutons pour forcer le rafraîchissement des mots-clés et de leurs occurrences, utilisés pour le nuage de tags en page d'accueil.
 
-![](/assets/back_keywords_cloud_refresh.png)
+![](/assets/back_keywords_cloud_refresh.png "Mettre &agrave; jour les mots-cl	&eacute;s")
 
 ----
 
