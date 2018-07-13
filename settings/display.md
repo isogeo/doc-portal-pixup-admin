@@ -1,4 +1,4 @@
-# Gestion de l'affichage selon les profils
+# Gestion de l'affichage selon les profils {#display_rights}
 
 L'administrateur choisissant les catalogues partagés au portail directement depuis la plateforme Isogeo, on considère alors que toutes les métadonnées ont vocation à être diffusées aux personnes ayant accès au portail. Mais toutes les informations contenues dans les métadonnées ne concernent pas tous les utilisateurs.
 
@@ -6,9 +6,11 @@ Le portail permet de gérer une granularité de 5 niveaux sur les différentes p
 
 ![&quot;Exemple des paramètres d&apos;affichage pour le rôle &apos;Utilisateur authentifié avec privilège&apos;&quot;](/assets/back_display_advanced_user.png)
 
+---
+
 ## Options
 
-### Informations sur les différentes parties du portail
+### Informations sur les différentes parties du portail {#display_}
 
 | Paramètre | Description |
 | :--- | :--- |
@@ -16,6 +18,8 @@ Le portail permet de gérer une granularité de 5 niveaux sur les différentes p
 | Afficher échelle | Pareil que le paramètre précédent mais avec la valeur du champ [Echelle](http://help.isogeo.com/fr/features/documentation/md_geography.html#echelle) d'Isogeo. |
 | Afficher type | Pareil que le paramètre précédent mais avec la valeur du champ [Type](http://help.isogeo.com/fr/features/documentation/index.html#les-différents-types-de-ressources) d'Isogeo. |
 | Intitulé "Propriétaire" | Permet de changer l'intitulé du groupe de travail qui a créé la fiche de métadonnées dans Isogeo, pour éviter les confusions. Correspond au champ [Propriétaire](http://help.isogeo.com/fr/start/group_switch.html#mon-compte-mes-groupes-de-travail) d'Isogeo. Valeur par défaut : _Propriétaire de la métadonnée_. |
+
+---
 
 ### Actions disponibles sur une métadonnée
 
@@ -27,20 +31,23 @@ Le portail permet de gérer une granularité de 5 niveaux sur les différentes p
 | Noter une fiche | Donne la possibilité de noter la fiche. |
 | Commenter une fiche | Donne la possibilité de commenter la fiche. |
 
+---
+
 ### Sections des métadonnées
 
-| Paramètre | Description |
-| :--- | :--- |
-| Note | Affiche la note de la métadonnée. |
-| Attributs | Affiche le tableau des attributs des données vectorielles. |
-| Evénements | Affiche les 5 derniers événements intervenus sur les données. |
+| Paramètre            | Description |
+| :------------------- | :---------- |
+| Attributs            | Affiche le tableau des attributs des données vectorielles. |
+| Conditions           | Affiche les licences. |
+| Contacts             | Affiche les contacts. |
+| Couches de services  | Affiche le bouton de visualisation des services géographiques liés. |
+| Evénements           | Affiche les 5 derniers événements intervenus sur les données. |
+| Infos techniques     | Affiche le bloc Informations techniques. |
+| Limitations          | Affiche les limitations. |
+| Note                 | Affiche la note de la métadonnée. |
 | Ressources associées | Affiche les boutons d'actions. |
-| Couches de services | Affiche le bouton de visualisation des services géographiques liés. |
-| Spécifications | Affiche les spécifications. |
-| Conditions | Affiche les licences. |
-| Limitations | Affiche les limitations. |
-| Contacts | Affiche les contacts. |
-| Voir aussi | Affiche la section ["Voir Aussi"](/settings/voir-aussi.md). |
+| Spécifications       | Affiche les spécifications. |
+| Voir aussi           | Affiche la section ["Voir Aussi"](/settings/voir-aussi.md). |
 
 
 
