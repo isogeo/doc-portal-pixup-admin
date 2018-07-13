@@ -3,7 +3,7 @@
  "links": {
              "sidebar": {
                          "Portail de démonstration": "http://demo.isogeo.net",
-                         "Site Isogeo": "http://www.isogeo.com",
+                         "Site Isogeo": "https://www.isogeo.com",
                          "Administration Isogeo": "https://app.isogeo.com"
                          }
              },
@@ -20,7 +20,8 @@
                               "images": {"1.1.1": {"skip": true}}
                                         },
                 "page-toc": {
-                            "position": "top"
+                            "position": "top",
+                            "selector": ".markdown-section h2, .markdown-section h3, .markdown-section h4"
                             }
               },
  "variables": {
