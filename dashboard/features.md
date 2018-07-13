@@ -13,12 +13,26 @@ Vous pouvez afficher les informations statistiques selon différentes périodes 
 
 Par défaut ces informations concernent l’ensemble de la période de production du portail.
 
+---
+
+## &Eacute;tat des services {#state}
+
+Donne des indicateurs de base sur l'état du portail et des services liés :
+* type d'hébergement
+* version du portail
+* état de l'accès à l'API Isogeo
+* état de l'accès à l'API Nominatim
+
+---
+
 ## Messages et commentaires
 
 | Item | Description |
 | :--- | :--- |
 | Messages en attente | Nombre de message\(s\) en attente de modération. Un clic sur la tuile ouvre la page des [Messages reçus](/messages-recus/messages.md). |
 | Commentaires en attente | Nombre de commentaire\(s\) en attente de modération. Un clic sur la tuile ouvre la page des [Commentaires reçus](/messages-recus/comment.md). |
+
+---
 
 ## Contenus et outils
 
@@ -30,7 +44,14 @@ Par défaut ces informations concernent l’ensemble de la période de productio
 | Pages verrouillées | Nombre de messages en attente de modération. Un clic sur la tuile ouvre la page des Messages reçus. |
 | Utilisateurs inscrits \(non admin | Nombre de messages en attente de modération. Un clic sur la tuile ouvre la page des Messages reçus. |
 
+--
+
 ## Usages
 
+Résumé des statistiques d'usage et de consultation des contenus du portail.
 
+---
 
+## Données
+
+Graphiques récapitulatifs des données diffusées dans le portail.
