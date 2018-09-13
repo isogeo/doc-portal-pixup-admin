@@ -4,7 +4,7 @@
 
 ## 2.5 {#version25}
 
-<br> Publiée le 31 juillet 2018 :
+<br> Publiée le 30 septembre 2018 :
 
 * réorganisation globale de l'administration
   * ajout d'une barre de recherche pour faciliter l'accès aux options de personnalisation

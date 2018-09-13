@@ -16,3 +16,4 @@ Le portail de données est développé par Isogeo et [Pixup](http://www.pixup.co
 
 Il peut également être déployé sur une infrastructure intranet avec des possibilités d'intégration renforcées, comme le branchement à un annuaire centralisé \(LDAP / AD\). Sa maintenance est alors sous la responsabilité du client, une fois la période de garantie écoulée. Sa montée de version ou évolution fait alors l'objet de prestations complémentaires.
 
+[![CircleCI](https://circleci.com/gh/isogeo/doc-portal-pixup-admin.svg?style=svg)](https://circleci.com/gh/isogeo/doc-portal-pixup-admin)
