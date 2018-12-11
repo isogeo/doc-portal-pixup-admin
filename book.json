@@ -2,13 +2,14 @@
     "language": "fr",
     "links": {
         "sidebar": {
-            "Portail de démonstration": "http://demo.isogeo.net",
+            "Portail de démonstration": "https://demo.isogeo.net",
             "Site Isogeo": "https://www.isogeo.com",
             "Administration Isogeo": "https://app.isogeo.com"
         }
     },
     "plugins": [
         "ga",
+        "html-minifier",
         "image-captions",
         "page-toc",
         "sitemap-general",
