@@ -19,7 +19,7 @@ Exemples de cas d'usage :
 | :------------------- | :---------- |
 | Partages accessibles | Partage affecté au groupe d'utilisateur. Si rien n'est sélectionné, l'utilisateur voit l'ensemble des métadonnées partagées au portail (= tous les partages).  |
 
-Si une modification est faite dans APP (exemple : une fiche est enlevée du catalogue public), il faut [mettre à jour le cache des partages](/settings/unlock.md) pour que la fiche ne soit plus visible dans le portail pour le profil d'utilisateur concerné.
+Si une modification est faite dans APP (exemple : une fiche est enlevée du catalogue public), il faut [mettre à jour le cache des partages](/settings/unlock.md#cleanup_shares_refresh) pour que la fiche ne soit plus visible dans le portail pour le profil d'utilisateur concerné.
 
 Sinon, la modification sera effective au bout d'une heure (tâche planifiée).
 
