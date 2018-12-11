@@ -29,4 +29,3 @@ Quand cette option est activée, le portail n'est accessible qu'aux utilisateurs
 ### Google Analytics {#ganalytics}
 
 Si votre portail est accessible sur une URL publique, il est possible d'insérer le code de suivi de fréquentation de l'outil de Google dans ce formulaire.
-

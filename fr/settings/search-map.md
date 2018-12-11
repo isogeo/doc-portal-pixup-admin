@@ -10,6 +10,3 @@ Dans cette partie, il est possible de régler l'ensemble des paramètres liés a
 ![](/assets/front_search_modes.png)
 
 ---
-
-
-

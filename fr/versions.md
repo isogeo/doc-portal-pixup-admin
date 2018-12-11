@@ -2,6 +2,19 @@
 
 <!-- timeline -->
 
+## 2.6 {#version26}
+
+<br> Publiée le 30 novembre 2018 :
+
+* ajout du filtre sur les données (incluant vecteurs et rasters)
+* gestion des droits par partage :
+  * l'administrateur peut régler les métadonnées visibles par groupe d'utilisateurs - menu affichage
+  * l'administrateur peut rafraîchir les partages - menu maintenance
+* corrections mineures
+
+<!-- /timeline -->
+<!-- timeline -->
+
 ## 2.5 {#version25}
 
 <br> Publiée le 30 septembre 2018 :

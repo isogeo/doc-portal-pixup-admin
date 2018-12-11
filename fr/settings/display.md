@@ -1,19 +1,32 @@
 # Gestion de l'affichage selon les profils {#display_rights}
 
-L'administrateur choisissant les catalogues partagés au portail directement depuis la plateforme Isogeo, on considère alors que toutes les métadonnées ont vocation à être diffusées aux personnes ayant accès au portail. Mais toutes les informations contenues dans les métadonnées ne concernent pas tous les utilisateurs.
+Le portail permet de gérer une granularité de 5 niveaux sur les différentes parties des métadonnées.
 
-Le portail permet de gérer une granularité de 5 niveaux sur les différentes parties des métadonnées. Par exemple, il est posible de définir qu'un utilisateur non authentifié \(internaute ou intranaute donc\) ne verra pas les attributs, alors qu'un utilisateur authentifié \(connecté avec son identifiant/mot de passe\) pourra les voir.
+Exemples de cas d'usage :
 
-![&quot;Exemple des paramètres d&apos;affichage pour le rôle &apos;Utilisateur authentifié avec privilège&apos;&quot;](/assets/back_display_advanced_user.png)
+* selon son niveau d'accès, un utilisateur ne voit pas les même métadonnées.
+* définir qu'un utilisateur non authentifié ne verra pas les attributs, alors qu'un utilisateur authentifié (connecté avec son identifiant/mot de passe) pourra les voir.
+
+![Paramètres d&apos;affichage selon le niveau d&apos;accès d&apos; utilisateur](/assets/back_display_advanced_user.png)
 
 ---
 
 ## Options
 
+### Métadonnées visibles selon les partages {#display_shares}
+
+| Paramètre            | Description |
+| :------------------- | :---------- |
+| Partages accessibles | Partage affecté au groupe d'utilisateur. Si rien n'est sélectionné, l'utilisateur voit l'ensemble des métadonnées partagées au portail (= tous les partages).  |
+
+Si une modification est faite dans APP (exemple : une fiche est enlevée du catalogue public), il faut [mettre à jour le cache des partages](/settings/unlock.md) pour que la fiche ne soit plus visible dans le portail pour le profil d'utilisateur concerné.
+
+Sinon, la modification sera effective au bout d'une heure (tâche planifiée).
+
 ### Informations sur les différentes parties du portail {#display_site_parts}
 
 | Paramètre | Description |
-| :--- | :--- |
+| :-------- | :---------- |
 | Afficher propriétaire | Permet d'indiquer où le nom du groupe de travail ayant créé la métadonnée s'affiche dans les différentes interfaces du portail : page d'accueil \(dans [les pavés dynamiques](/homepage/dyn-sections.md)\), résultats de rechecrhe \(menu Catalogue par défaut\) et sur le détail d'une fiche de métadonnées. |
 | Afficher échelle | Pareil que le paramètre précédent mais avec la valeur du champ [Echelle](http://help.isogeo.com/fr/features/documentation/md_geography.html#echelle) d'Isogeo. |
 | Afficher type | Pareil que le paramètre précédent mais avec la valeur du champ [Type](http://help.isogeo.com/fr/features/documentation/index.html#les-différents-types-de-ressources) d'Isogeo. |
@@ -24,12 +37,12 @@ Le portail permet de gérer une granularité de 5 niveaux sur les différentes p
 ### Actions disponibles sur une métadonnée {#display_actions}
 
 | Paramètre | Description |
-| :--- | :--- |
-| Boutons fonctionnalités | Permet de définir le style des boutons d'actions présents sur une fiche de métadonnées \(télécharger, visualiser...\). Soit sous forme de texte ![](/assets/front_md_actions_buttons.png) , soit sous forme d'icônes \(avec le texte en infobulles\) ![](/assets/front_md_actions_labels.png). |
+| :-------- | :---------- |
+| Boutons fonctionnalités | Permet de définir le style des boutons d'actions présents sur une fiche de métadonnées \(télécharger, visualiser...\). Soit sous forme de texte ![Boutons - textes](/assets/front_md_actions_labels.png) , soit sous forme d'icônes \(avec le texte en infobulles\) ![Boutons - icones](/assets/front_md_actions_buttons.png). |
 | Copier le chemin | Donne la possibilité de copier le chemin d'accès à la donnée dans le presse-papiers. |
 | Partager avec iFrame | Donne la possibilité d'obtenir le code de partage iFrame pour intégrer la fiche directement dans un autre site web. |
-| Noter une fiche | Donne la possibilité de noter la fiche. |
-| Commenter une fiche | Donne la possibilité de commenter la fiche. |
+| Noter une fiche | Donne la possibilité de noter la fiche - Indisponible pour les utilisateurs publics |
+| Commenter une fiche | Donne la possibilité de commenter la fiche - Indisponible pour les utilisateurs publics |
 
 ---
 
