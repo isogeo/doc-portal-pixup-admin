@@ -1,19 +1,30 @@
-![&quot;Logo d&apos;Isogeo&quot;](https://www.isogeo.com/images/isogeo/logo-isogeo.png)
-
-# Guide d'administration du portail de données basé sur Isogeo
-
-## Description {#docs-internal-guid-ab3644e3-f47e-003b-1b41-8a882bfb2893}
-
-Le portail de données est une application tierce de la plateforme Isogeo dont le principal objectif est d'offrir une interface d'accès et de valorisation des données orientée usages : recherche, consultation, téléchargement, abonnement, commentaires, évaluations, etc.
-
-Ce livre est le guide d'administration du portail. Il se base sur le portail de démonstration, accessible publiquement à l'adresse : [http://demo.isogeo.net](http://demo.isogeo.net). Pour consulter le guide d'utilisation, [cliquer ici](https://www.gitbook.com/book/isogeo/app-portal-pixup-user/).
-
-![&quot;Patchwork de portails Isogeo - Image de couverture&quot;](/assets/cover_portfolio.png)
-
-## Caractéristiques
-
-Le portail de données est développé par Isogeo et [Pixup](http://www.pixup.com/). Il est mis en place de préférence en mode hébergé par Isogeo, dans le cadre d'une prestation de développement, accompagnée d'une offre de maintenance qui inclue la mise à jour au fur et à mesure des évolutions \(plus de 2 versions par an\). Il est alors soumis aux conditions de licence de la plateforme Isogeo.
-
-Il peut également être déployé sur une infrastructure intranet avec des possibilités d'intégration renforcées, comme le branchement à un annuaire centralisé \(LDAP / AD\). Sa maintenance est alors sous la responsabilité du client, une fois la période de garantie écoulée. Sa montée de version ou évolution fait alors l'objet de prestations complémentaires.
+# Isogeo - Portal documentation
 
 [![CircleCI](https://circleci.com/gh/isogeo/doc-portal-pixup-admin.svg?style=svg)](https://circleci.com/gh/isogeo/doc-portal-pixup-admin)
+
+Content, structure and media of the website documentation. It's part of the Isogeo online documentations ([see Github repositories](https://github.com/search?q=topic%3Adocumentation+org%3Aisogeo&type=Repositories)).
+
+## Edit this documentation
+
+It's based on Gitbook v3.2.* which is:
+
+* [a book format](https://github.com/GitbookIO/gitbook)
+* [a toolchain](https://toolchain.gitbook.com/)
+
+## Deployment
+
+It's deployed on Isogeo Azure (Storage v2 Static website) using CircleCI ([see config](https://github.com/isogeo/doc-portal-pixup-admin/blob/master/.circleci/config.yml)):
+
+* QA:
+  * <https://qaisogeohelp.z28.web.core.windows.net/pixup-portal/>
+  * <http://help.qa.isogeo.com/pixup-portal/>
+* PROD:
+  * <https://prodisogeohelp.z28.web.core.windows.net/pixup-portal/>
+  * <http://help.isogeo.com/pixup-portal/>
+
+Deployment rules:
+
+* each commit triggers a deployment on QA
+* each tagged commit triggers a deployment on PROD - [see tags](https://github.com/isogeo/doc-portal-pixup-admin/tags)
+
+See: <https://github.com/isogeo/doc-homepage/wiki>
