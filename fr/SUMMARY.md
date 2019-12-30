@@ -7,6 +7,10 @@
 * [Prérequis](prerequisites.md)
 * [Versions](versions.md)
 
+## Tableau de bord
+
+* [Fonctionnement du tableau de bord](dashboard/features.md)
+
 ## Accueil
 
 * [Configuration de la page d'accueil](homepage/config.md)
@@ -19,57 +23,69 @@
 * [Sélection de données](homepage/featured-data.md)
 * [Thématiques](homepage/thematics.md)
 
-## Tableau de bord
+## Accueil Marketing
 
-* [Fonctionnement du tableau de bord](dashboard/features.md)
+* [Gérer l'ordre des widgets](homepage-marketing/order.md)
+* [Widgets marketing](homepage-marketing/widgets-marketing/titles.md)
+    * [Titre des widgets](homepage-marketing/widgets-marketing/titles.md)
+    * [Applications](homepage-marketing/widgets-marketing/applications.md)
+    * [Equipe](homepage-marketing/widgets-marketing/team.md)
+    * [Groupes de travail](homepage-marketing/widgets-marketing/workgroup.md)
+    * [Mises en avant](homepage-marketing/widgets-marketing/frieze.md)
+    * [Partenaires](homepage-marketing/widgets-marketing/partners.md)
+    * [Thématiques](homepage-marketing/widgets-marketing/themes.md)
+    * [Usages](homepage-marketing/widgets-marketing/usages.md)
+
+## Accueil Métier
+
+* [Titres](homepage-jobs/titles.md)
+* [Widgets métiers](homepage-jobs/widgets-jobs/apps.md)
+    * [Apps](homepage-jobs/widgets-jobs/apps.md)
+    * [Sélection de données](homepage-jobs/widgets-jobs/data-selection.md)
 
 ## Actualités
 
-* [Nouvelle actualité](actualites/newarticle.md)
-* [Catégories](actualites/categories.md)
-
-## Médias
-
-* [Gestionnaire d'images](medias/imagemanager.md)
-* [Gestionnaire de fichiers](medias/filesmanager.md)
+* [Articles existants](actualites/articles.md)
+* [Edition d'un article](actualites/editing-article.md)
+* [Gestion des catégories](actualites/categories.md)
 
 ## Menu
 
-* [Gérer le menu horizontal](menu/adminmenu.md)
+* [Gérer l'ordre](menu/order.md)
+* [Edition d'un élément](menu/editing-element.md)
+* [Elements existants](menu/elements.md)
 
 ## Messages reçus
 
-* [Messages reçus](messages-recus/messages.md)
-* [Commentaires reçus](messages-recus/comment.md)
+* [Contacts](messages-recus/contacts.md)
+* [A propos d'une donnée](messages-recus/about-data.md)
 
-## Pages
+## Pages & iFrames
 
-* [Gérer les contenus fixes](pages/pageseditor.md)
+* [Pages existantes](pages-iframes/pages.md)
+* [Edition d'une page](pages-iframes/editing-page.md)
+* [iFrames existantes](pages-iframes/iframes.md)
+* [Edition d'une iFrame](pages-iframes/editing-iframe.md)
 
 ## Paramètres
 
-* [Généraux](settings/general.md)
-* [Affichage](settings/display.md)
-* [Emails](settings/emails.md)
-* [Recherche & Carto](settings/search-map.md)
-  * [Recherche textuelle](settings/search-map/searchtext.md)
-  * [Adresse \(géocodage\)](settings/search-map/adresse.md)
-  * [Emprises personnalisées](settings/search-map/searchbbox.md)
-  * [Recherche géographique et cartographique](settings/search-map/searchmap.md)
-* [Maintenance](settings/unlock.md)
-* [Voir aussi](settings/voir-aussi.md)
+* [Paramètres généraux](settings/general.md)
+* [Paramètres affichage](settings/display/general.md)
+    * [Généraux](settings/display/general.md)
+    * [Affichage selon le type d'utilisateur](settings/display/user-display.md)
 
-## Statistiques
+## Services
 
-* [Fiches consultées](stats/metadata.md)
-* [Ressources consultées](stats/links.md)
-* [Utilisateurs connectés](stats/users.md)
-* [Recherches effectuées](stats/searches.md)
-* [Notes des fiches](stats/evaluations.md)
+* [Importer les services](services/import.md)
+* [Services V2 - EMS](services/ems.md)
+* [Services V2 - EFS](services/efs.md)
+* [Services V2 - WMS](services/wms.md)
+* [Services V2 - WFS](services/wfs.md)
 
 ## Utilisateurs
 
-* [Gestion des utilisateurs](users/user-management.md)
+* [Utilisateurs existants](users/users.md)
+* [Edition d'un utilisateur](users/editing-user.md)
 
 ## Annexes
 
@@ -77,4 +93,3 @@
 * [Editeur WYSIWYG](appendices/editorwysiwyg.md)
 * [Référencement](/appendices/seo.md)
 * [Figures et images](pictures.md)
-
