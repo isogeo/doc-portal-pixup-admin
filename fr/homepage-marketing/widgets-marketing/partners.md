@@ -1,18 +1,36 @@
-# Zone HTML personnalisée en page d'accueil {#3-2-la-zone-html}
+# Partenaires
 
-Cette zone permet à l’administrateur d’afficher des contenus personnalisés. Elle peut accueillir tout type de contenu compatible HTML \(textes, images, iFrame, vidéos…\) éditable avec [l’éditeur WYSIWYG](/appendices/editorwysiwyg.md). Par défaut, il s’agit de l’ensemble d’icônes de raccourcis livrés avec la personnalisation du portail.
+Ce widget permet de présenter les différents partenaires du SIG au sein de votre structure. Vous pouvez créer, modifier des articles pour présenter ces différents partenaires et gérer leur ordre d'affichage.
 
-C'est en effet une façon de donner un accès rapide vers des recherches prédéfinis \(voir [les thématiques personnalisées](/homepage/thematics.md)\), des outils internes ou externes \(via de simples URLs\) ou d'insérer des contenus riches.
+## Partenaires existants
 
-![&quot;Zone HTML de la page d&apos;accueil du portail de démonstration - côté back&quot;](/assets/back_homepage_html_area.png)
+Ce menu permet d'afficher la liste de tous les partenaires. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer un partenaire ou en supprimer un ou plusieurs si besoin. 
 
-### Exemples de zones HTML personnalisées
+!["Menu partenaires existants"](/assets/back_list_partner.png)
 
-[!["Rendu front de la zone HTML du portail de démonstration"](/assets/front_homepage_html_area_demo.png)](http://demo.isogeo.net)
+## Edition d'un partenaire
 
-[!["Rendu front de la zone HTML du portail du SMAVD"](/assets/front_homepage_html_area_smavd.png)](http://geocatalogue.smavd.org/)
+Pour créer un partenaire, il suffit de cliquer sur `Édition d'un partenaire` dans le menu d'accès. Pour éditer un partenaire existant, il suffit de le sélectionner dans le menu précédent.
+Dans les deux cas, vous pourrez utiliser l'[éditeur de contenu](/fr/appendices/editor.md) pour personnaliser votre partenaire.
 
-!["Rendu front de la zone HTML du portail intranet du GPM Nantes Saint-Nazaire"](/assets/front_homepage_html_area_gpmnsn.png)
+!["Editer un partenaire"](/assets/back_edit_partner.png)
 
+## Gérer l'ordre
 
+Ce menu permet de modifier simplement l'ordre d'affichage des partenaires. 
+En effet, il suffit de sélectionner un partenaire et de le glisser déposer avant ou après les autres.
+N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></i> en bas à droite de la page.
 
+> NB : Seuls les partenaires publiés sont affichés dans ce menu.
+
+!["Changer l'ordre d'affichage des partenaires"](/assets/back_order_partner.png)
+
+## Résultat sur le front-office
+
+### Widget dans la page d'accueil marketing
+
+!["Widget partenaire - côté front"](/assets/front_widget_partner.png)
+
+### Page de présentation du partenaire
+
+!["Présentation d'un partenaire - côté front"](/assets/front_partner.png)

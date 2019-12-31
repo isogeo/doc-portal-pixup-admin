@@ -1,14 +1,9 @@
-# Configuration de la page d'accueil
+# Accueil marketing : gestion de l'ordre d'affichage des widgets
 
-La page d’accueil est constituée de différentes zones que l’administrateur peut choisir d’afficher ou non, sans pour autant changer leur ordre :
+Ce menu permet de modifier simplement l'ordre d'affichage des widgets.
+En effet, il suffit de sélectionner un widget et de le glisser déposer avant ou après les autres.
+N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></i> en bas à droite de la page.
 
-1. [la zone de mise en avant](/homepage/config/featured-section.md) ;
-2. [la zone HTML personnalisable](/homepage/config/html-area.md) ;
-3. [le nuage dynamique de mots-clés](/homepage/config/keywords-cloud.md) ;
-4. [les actualités](/homepage/config/news.md) ;
-5. [les pavés dynamiques](/homepage/dyn-sections.md).
+> NB : L'ensemble des widgets sont affichés dans ce menu même si ces derniers sont [désactivés](widgets-marketing/titles.md). 
 
-Les 4 premiers éléments sont configurables dans le menu `Accueil` &gt; `Configuration`. Viennent ensuite les pavés dynamiques qui disposent d'un menu dédié pour plus de clarté.
-
-!["Vue d'ensemble de la page de configuration de la page d'accueil"](/assets/back_homepage_config.png)
-
+!["Modifier l'ordre d'affichage des widgets marketing"](/assets/back_order_widget_marketing.png)

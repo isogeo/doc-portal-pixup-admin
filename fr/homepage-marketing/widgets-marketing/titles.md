@@ -1,14 +1,15 @@
-# Configuration de la page d'accueil
+# Titres et affichage des zones
 
-La page d’accueil est constituée de différentes zones que l’administrateur peut choisir d’afficher ou non, sans pour autant changer leur ordre :
+Ce menu permet de définir le titre et la description des différents widgets intégrables à la page d'accueil marketing.
 
-1. [la zone de mise en avant](/homepage/config/featured-section.md) ;
-2. [la zone HTML personnalisable](/homepage/config/html-area.md) ;
-3. [le nuage dynamique de mots-clés](/homepage/config/keywords-cloud.md) ;
-4. [les actualités](/homepage/config/news.md) ;
-5. [les pavés dynamiques](/homepage/dyn-sections.md).
+1. [Mises en avant](frieze.md) 
+2. [Thématiques](themes.md) 
+3. [Usages](usages.md) 
+4. [Équipe](team.md) 
+5. [Applications](applications.md) 
+6. [Groupes de travail](workgroup.md) 
+7. [Partenaires](partners.md) 
 
-Les 4 premiers éléments sont configurables dans le menu `Accueil` &gt; `Configuration`. Viennent ensuite les pavés dynamiques qui disposent d'un menu dédié pour plus de clarté.
+> NB : Pour désactiver un widget, il suffit de laissser vide le titre du widget. 
 
-!["Vue d'ensemble de la page de configuration de la page d'accueil"](/assets/back_homepage_config.png)
-
+!["Titres et affichage des widgets marketing"](/assets/back_titles_widget_marketing.png)
