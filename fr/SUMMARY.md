@@ -49,9 +49,7 @@
 
 ## Menu
 
-* [Gérer l'ordre](menu/order.md)
-* [Edition d'un élément](menu/editing-element.md)
-* [Elements existants](menu/elements.md)
+* [Gestion des menus du site](menu/elements.md)
 
 ## Messages reçus
 
@@ -60,10 +58,8 @@
 
 ## Pages & iFrames
 
-* [Pages existantes](pages-iframes/pages.md)
-* [Edition d'une page](pages-iframes/editing-page.md)
-* [iFrames existantes](pages-iframes/iframes.md)
-* [Edition d'une iFrame](pages-iframes/editing-iframe.md)
+* [Gestion des pages](pages-iframes/pages.md)
+* [Gestion des iFrames](pages-iframes/iframes.md)
 
 ## Paramètres
 
