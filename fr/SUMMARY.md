@@ -45,9 +45,7 @@
 
 ## Actualités
 
-* [Articles existants](actualites/articles.md)
-* [Edition d'un article](actualites/editing-article.md)
-* [Gestion des catégories](actualites/categories.md)
+* [Gestion des articles](actualites/articles.md)
 
 ## Menu
 

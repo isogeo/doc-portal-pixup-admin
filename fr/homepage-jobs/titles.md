@@ -1,14 +1,11 @@
-# Configuration de la page d'accueil
+# Titre
 
-La page d’accueil est constituée de différentes zones que l’administrateur peut choisir d’afficher ou non, sans pour autant changer leur ordre :
+Ce menu permet de définir le titre et le sous-titre de la page d'accueil *Métiers*.
 
-1. [la zone de mise en avant](/homepage/config/featured-section.md) ;
-2. [la zone HTML personnalisable](/homepage/config/html-area.md) ;
-3. [le nuage dynamique de mots-clés](/homepage/config/keywords-cloud.md) ;
-4. [les actualités](/homepage/config/news.md) ;
-5. [les pavés dynamiques](/homepage/dyn-sections.md).
+!["Paramétrage du titre de la page d'accueil métiers"](/assets/back_title_homepage.png)
 
-Les 4 premiers éléments sont configurables dans le menu `Accueil` &gt; `Configuration`. Viennent ensuite les pavés dynamiques qui disposent d'un menu dédié pour plus de clarté.
+## Résultat
 
-!["Vue d'ensemble de la page de configuration de la page d'accueil"](/assets/back_homepage_config.png)
+La zone de recherche de la page d'accueil contient le titre et le sous-titre renseigné.
 
+!["Zone de recherche de la page d'accueil métiers"](/assets/front_research.png)

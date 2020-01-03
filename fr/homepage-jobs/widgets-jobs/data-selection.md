@@ -1,14 +1,27 @@
-# Gestion de la zone "Mise en avant" en page d'accueil {#3-1-la-zone-mise-en-avant}
+# Liste des données sélectionnées
 
-L’administrateur peut choisir d’afficher un texte court du type slogan juste en-dessous de la barre de recherche. Si cette zone est affichée, elle contiendra aussi les liens vers [les thématiques personnalisées](/homepage/thematics.md).
+Ce widget permet de sélectionner les données que vous souhaitez mettre en avant depuis la page d'accueil du site. Vous pouvez personnaliser cette selection dans les menus suivants.
 
-#### Configuration dans le back-office
+## Sélections existantes
 
-!["Zone mise en avant - côté back"](/assets/back_homepage_featured_area.png)
+Ce menu permet d'afficher la liste de toutes les données sélectionnées. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer une sélection ou en supprimer une ou plusieurs si besoin. 
 
-#### Résultat sur la page d'accueil
+!["Menu Sélections existantes"](/assets/back_list_selection.png)
 
-!["Zone mise en avant - côté front"](/assets/front_homepage_featured_area.png)
+## Edition d'une sélection
 
+Pour créer une sélection, il suffit de cliquer sur `Ajout d'une sélection` dans le menu d'accès. Pour éditer une sélection existante, il suffit de la sélectionner dans le menu précédent.
 
+Pour sélectionner une donnée, il faut préalablement récupérer son identifiant et la partager au portail. Pour information, L'ID se trouve dans l'url d'une métadonnée sur app.isogeo.com. On retrouve également l'ID dans l'URL de la fiche de métadonnées sur le portail.
 
+!["Récupérer l'ID de la métadonnée"](/assets/find_md_id_app.png)
+
+Un fois l'ID récupéré, cliquer sur mettre à jour pour générer automatiquement la fiche.
+
+## Résultat sur le front-office
+
+### Widget dans la page d'accueil métier
+
+Les sélections sont présentées dans un widget de type "Slider". En cliquant sur le titre, l'utilisateur accède directement à la fiche concernée dans le portail.
+
+!["Widget sélection de données - côté front"](/assets/front_widget_selection.png)

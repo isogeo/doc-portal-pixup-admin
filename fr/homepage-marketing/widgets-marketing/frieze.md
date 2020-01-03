@@ -1,16 +1,42 @@
-# Paramètres généraux de la page d'accueil
+# Mises en avant
 
-Dans cette première section, on retrouve les différents réglages qui concernent l'ensemble de la page d'accueil du portail.
+Ce widget permet de mettre en avant des pages du portail. Vous pouvez créer, modifier des mises en avant et gérer leur ordre d'affichage.
 
-## Options
+## Apps existantes
 
-### Markdown sur la page d'accueil
+Ce menu permet d'afficher la liste de toutes les mises en avant documentées. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer une mise en avant ou en supprimer une ou plusieurs si besoin. 
 
-Sur Isogeo, les éditeurs des métadonnées peuvent utiliser le langage Markdown pour faire des mises en forme des textes et images. Cependant l'interprétation des balises mènent souvent à la déformation des blocs de la page d'accueil. Elle est donc désactivée par défaut. L'administrateur du portail peut choisir de l'activer.
+!["Menu apps existantes"](/assets/back_list_frieze.png)
 
-> Pour en savoir plus sur le langage markdown, consulter la [page dédiée sur l'aide Isogeo](http://help.isogeo.com/fr/features/documentation/syntax_markdown.html) ou [la page Wikipédia](https://fr.wikipedia.org/wiki/Markdown).
+## Edition d'une mise en avant
 
-!["Paramètres généraux de la page d'accueil"](/assets/back_homepage_general.png)
+Pour créer une mise en avant, il suffit de cliquer sur `Édition d'une mise en avant` dans le menu d'accès. Pour éditer une mise en avant existante, il suffit de la sélectionner dans le menu précédent.
 
+L'éditeur permet de modifier les champs suivants (ceux en **gras** étant obligatoires):
 
+* **Visuel** : Vous pouvez ajouter une image avec le [gestionnaire de fichiers](/appendices/filesmanager.md) intégré au portail.
+* **Titre**
+* Texte : Description de la mise en avant.
+* Lien : URL de la page concernée par la mise en avant.
+* Ordre : ordre d'affichage de la mise en avant. Editable égablement dans le menu suivant.
+* Case à cocher pour activer le mode *brouillon* qui permet de ne pas publier la mise en avant.
 
+!["Editer une mise en avant"](/assets/back_edit_frieze.png)
+
+## Gérer l'ordre
+
+Ce menu permet de modifier simplement l'ordre d'affichage des mises en avant. 
+En effet, il suffit de sélectionner une mise en avant et de la glisser déposer avant ou après les autres.
+N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></i> en bas à droite de la page.
+
+> NB : Seules les mise en avant publiées sont affichées dans ce menu.
+
+!["Changer l'ordre d'affichage des mise en avant"](/assets/back_order_frieze.png)
+
+## Résultat sur le front-office
+
+### Widget dans la page d'accueil marketing
+
+Les mises en avant sont présentées dans un widget de type "Slider". En cliquant sur `EN SAVOIR PLUS`, l'utilisateur accède directement à l'URL paramétrée dans la mise en avant.
+
+!["Widget mise en avant - côté front"](/assets/front_widget_frieze.png)
