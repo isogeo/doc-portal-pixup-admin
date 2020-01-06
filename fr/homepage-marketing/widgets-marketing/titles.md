@@ -10,6 +10,4 @@ Ce menu permet de définir le titre et la description des différents widgets in
 6. [Groupes de travail](workgroup.md) 
 7. [Partenaires](partners.md) 
 
-> NB : Pour désactiver un widget, il suffit de laissser vide le titre du widget. 
-
 !["Titres et affichage des widgets marketing"](/assets/back_titles_widget_marketing.png)

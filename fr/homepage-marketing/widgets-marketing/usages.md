@@ -10,13 +10,15 @@ Ce menu permet d'afficher la liste de tous les usages. Une barre de recherche (s
 
 ## Edition d'un usage
 
-Pour créer un usage, il suffit de cliquer sur `Édition d'un usage` dans le menu d'accès. Pour éditer un usage existant, il suffit de le sélectionner dans le menu précédent.
+Pour éditer un usage existant, il suffit de le sélectionner dans le menu précédent. 
 L'éditeur permet de modifier les champs suivants (ceux en **gras** étant obligatoires):
 
 * **Icône** : Vous pouvez ajouter une icône personnalisée avec le [gestionnaire de fichiers](/appendices/filesmanager.md) intégré au portail.
 * **Titre**
 * **Description**
 * Url
+
+> NB : Trois usages sont décrits par défaut. Il n'est pas possible de créer un usage supplémentaire. En effet, nous avons considéré que ce nombre était optimal pour faire passer le message et garantir l'ergonomie du widget.
 
 !["Editer un usage"](/assets/back_edit_usage.png)
 

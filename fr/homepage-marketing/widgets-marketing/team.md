@@ -18,7 +18,7 @@ L'éditeur permet de modifier les champs suivants (ceux en **gras** étant oblig
 * **Prénom**
 * **Fonction**
 * **Description**
-* Url
+* Url : page décrivant le membre 
 * Case à cocher pour activer le mode *brouillon* qui permet de ne pas publier le membre.
 
 !["Editer un membre"](/assets/back_edit_member.png)
