@@ -15,9 +15,9 @@ C’est pourquoi le portail allie l’expertise d’Isogeo en matière de gouver
 
 ### Des portails orientés usages à portée de tous
 
-L’objectif n’est pas de mettre un simple catalogue en consultation mais d’implémenter des fonctionnalités dédiées à l’animation autour du patrimoine de données : retours d’expériences, commentaires, suivi des modifications, comptes utilisateurs, etc.
+L’objectif n’est pas de mettre un simple catalogue en consultation mais d’implémenter des fonctionnalités dédiées à l’animation autour du patrimoine de données : retours d’expériences, commentaires, suivi des modifications, comptes utilisateurs, actualités, mise en valeur du SIG etc.
 
-Par ailleurs, il est possible de tirer parti de la modularité d’Isogeo et de servir un ou plusieurs portails selon les besoins. Par exemple dans le cas où vous avez besoin de diffuser certaines de vos données en interne d’une certaine façon et d’autres en externe d’une autre façon. C’est très facile à réaliser et tout à fait transparent d’un point de vue de l'administration.
+Par ailleurs, il est possible de tirer parti de l'API Isogeo et de proposer un portail selon le profil d'utilisateur. Par exemple, si vous souhaitez diffuser certaines données qu'en interne et non en externe, c’est très facile à réaliser depuis l'administration.
 
 ![&quot;Les données sont consommées et produites par différents types de personnes - L&apos;accès doit être simple pour tous&quot;](/assets/misc_data_people.png)
 
@@ -29,16 +29,12 @@ Le portail intègre évidemment toute la puissance du [moteur de recherche Isoge
 
 ![&quot;Interface de recherche - Options de filtre et de tri&quot;](/assets/front_search_filters_catalog.png)
 
-Voir :
-
-* [option de tri des résultats par défaut](/settings/search-map/searchtext.md) ;
-* [créer des thématiques personnalisées regroupant des données pour proposer des filtres pertinents](/homepage/thematics.md) ;
 
 #### Une gestion de contenus dynamiques et statiques
 
-Focalisé sur les données, le portail permet d'insérer en page d'acceuil les informations sur celles-ci \(comme par exemple les nouvelles données publiées, les données recemment mises à jour, les données à la une, la sélection de l'administrateur, etc.\). Au-delà des données, le portail  intègre un CMS \(_Content Management System_ ou SGC - Système de Gestion de Contenus\) et permet ainsi l'édition de contenus éditoriaux, comme par exemple :
+Le portail n'est pas uniquement focalisé sur les données. En effet, le portail intègre un CMS \(_Content Management System_ ou SGC - Système de Gestion de Contenus\) et permet ainsi l'édition de contenus éditoriaux, comme par exemple :
 
-* gestion des rubriques et des menus ;
+* gestion des menus ;
 * gestionnaire d’actualités \(création, édition, publication, mise en avant en page d’accueil…\) ;
 * gestionnaire de médias et de fichiers pour enrichir vos contenus facilement ;
 
@@ -51,7 +47,7 @@ Voir :
 * [créer une page statique](/pages/pageseditor.md) ;
 * [utiliser l'éditeur de texte WYSIWYG](/appendices/editorwysiwyg.md).
 
-#### Dimension géographique et interface cartographique
+<!-- #### Dimension géographique et interface cartographique
 
 La dimension géographique est au coeur de l’expertise Isogeo et des fonctionnalités spécifiques sont intégrées pour la valoriser facilement :
 
@@ -65,7 +61,7 @@ La dimension géographique est au coeur de l’expertise Isogeo et des fonctionn
 Voir :
 
 * [paramétrer l'interface cartographique et la recherche géographique](/settings/search-map/searchmap.md) ;
-* [définir des emprises géographiques de recherche personnalisées](/settings/search-map/searchbbox.md) ;
+* [définir des emprises géographiques de recherche personnalisées](/settings/search-map/searchbbox.md) ; -->
 
 ### Dimension participative pour animer le patrimoine immatériel
 
@@ -97,10 +93,7 @@ Voir :
 
 Le portail de données peut être personnalisé aux couleurs de votre organisme \(charte graphique, logo, menu affichés, authentification, etc.\). Ci-dessous quelques-unes de nos réalisations :
 
-* Créteil Géo Open Data : [http://geodata.ville-creteil.fr](http://geodata.ville-creteil.fr)
-* Plaine Centrale Géo Open Data : [http://geodata.agglo-plainecentrale94.fr](http://geodata.agglo-plainecentrale94.fr)
 * GéoLorient : [http://geocatalogue.lorient-agglo.bzh/](http://geocatalogue.lorient-agglo.bzh/)
-* Grand Port Maritime de Nantes Saint-Nazaire \(privé\) [http://gpmnsn.isogeo.net](http://gpmnsn.isogeo.net)
 * Syndicat Mixte d’Aménagement de la Vallée de la Durance \(privé\) [http://smavd.isogeo.net](http://smavd.isogeo.net)
 * Le portail de démonstration \(parfois en travaux\) : [http://demo.isogeo.net](http://demo.isogeo.net)
 
