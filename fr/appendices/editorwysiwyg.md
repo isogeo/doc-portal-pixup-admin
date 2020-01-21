@@ -4,29 +4,28 @@ Pour faciliter la rédaction des différents contenus éditoriaux et HTML, le po
 
 > Pour en savoir plus sur le principe du WYSIWYG, consulter [la page Wikipédia](https://fr.wikipedia.org/wiki/What_you_see_is_what_you_get).
 
-Dans le portail, l'éditeur WYSIWYG est disponible dans plusieurs endroits :
+<!-- Dans le portail, l'éditeur WYSIWYG est disponible dans plusieurs endroits :
 
 * [Zone HTML de la page d'accueil](/homepage/config/html-area.md) ;
 * [Nouvelle actualité](/actualites/newarticle.md) ;
 * [Nouvelle page statique](/pages/pageseditor.md) ;
-* [Messages back-office](/back-office/messaging.md)
+* [Messages back-office](/back-office/messaging.md) -->
 
-![&quot;Interface de l&apos;éditeur \_WYSIWYG\_&quot;](/assets/back_editor_wysiwyg.png)
+![Interface de l'éditeur WYSIWYG](/assets/back_editor_wysiwyg.png)
 
 ## Détail des fonctionnalités de l'éditeur
 
 | Bouton / menu | Description |
-| :--- | :--- |
-| ![](/assets/back_editor_wysiwyg_source.png) | Permet de basculer sur l'éditeur du code source HTML. Réservé aux usages avancés. |
-| ![](/assets/back_editor_wysiwyg_table_img.png) | Insertion d'objets complexes. Dans l'ordre : un tableau, une image \(via le gestionnaire de médias\) et une balise iFrame. |
-| ![](/assets/back_editor_wysiwyg_copy_paste.png) | Copier et surtout coller du texte directement dans l'éditeur. A noter qu'il est préférable d'utiliser le collage à partir de Word \(avec le petit \`W\`\) afin de nettoyer le texte de potentielles balises parasites. |
-| ![](/assets/back_editor_wysiwyg_lists.png) | Créer des listes ordonnées et non ordonnées, à un ou plusieurs niveaux. |
-| ![](/assets/back_editor_wysiwyg_links.png) | Créer des liens vers des contenus internes, externes ou vers les recherches prédéfinies que sont [les thématiques personnalisées](/homepage/thematics.md). |
-| ![](/assets/back_editor_wysiwyg_search_select.png) | Rechercher dans le contenu et en sélectionner tout ou partie.  |
-| ![](/assets/back_editor_wysiwyg_format.png) | Mise en forme du texte : gras, souligné, italique, exposant, indice, nettoyage. |
+| :---: | :--- |
+| ![](/assets/back_editor_wysiwyg_full.png) | Basculer l'éditeur en plein écran. |
+| ![](/assets/back_editor_wysiwyg_titles.png) | Appliquer les styles de titres (Paragraphe), ou des styles particuliers (Formats). |
+| ![](/assets/back_editor_wysiwyg_horizontal.png) | Insérer une ligne horizontale. |
+| ![](/assets/back_editor_wysiwyg_annulation.png) | Annuler ou restaurer la dernière modification. |
+| ![](/assets/back_editor_wysiwyg_format.png) | Mettre en forme du texte : gras, souligné, italique, barré. Plus de styles dans le menu format (exposant, indice). |
 | ![](/assets/back_editor_wysiwyg_align.png) | Alignement du texte. |
-| ![](/assets/back_editor_wysiwyg_font.png) | Gestion de la police : couleurs, taille... |
-| ![](/assets/back_editor_wysiwyg_styles.png) | Permet d'appliquer l'un des styles définis lros de la création de la charte graphique du portail. Cela permet de garantir la cohérence graphique des contenus éditoriaux avec l'ensemble du portail. |
-
-
-
+| ![](/assets/back_editor_wysiwyg_lists.png) | Créer des listes ordonnées et non ordonnées, à un ou plusieurs niveaux. |
+| ![](/assets/back_editor_wysiwyg_insertion.png) | Insérer un fichier depuis le gestionnaire de médias. |
+| ![](/assets/back_editor_wysiwyg_links.png) | Créer des liens vers des contenus internes ou externes. |
+| ![](/assets/back_editor_wysiwyg_table_img.png) | Insérer des objets complexes. Dans l'ordre : un tableau, une image ou une vidéo (via le gestionnaire de médias). |
+| ![](/assets/back_editor_wysiwyg_font.png) | Gérer la police : couleurs du texte et de l'arrière plan. |
+| ![](/assets/back_editor_wysiwyg_source.png) | Imprimer, prévisualiser la page ou basculer sur l'éditeur du code source HTML (réservé aux usages avancés). |

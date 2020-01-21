@@ -36,6 +36,10 @@
 
 * [Gestion des articles](actualites/articles.md)
 
+## Dataviz
+
+* [Gestion des Dataviz](dataviz/dataviz.md)
+
 ## Menu
 
 * [Gestion des menus du site](menu/elements.md)
