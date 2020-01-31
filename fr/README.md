@@ -1,8 +1,8 @@
-![&quot;Logo d&apos;Isogeo&quot;](https://www.isogeo.com/images/isogeo/logo-isogeo.png)
+![Logo d'Isogeo](https://www.isogeo.com/images/isogeo/logo-isogeo.png)
 
 # Guide d'administration du portail de données basé sur Isogeo
 
-## Description {#docs-internal-guid-ab3644e3-f47e-003b-1b41-8a882bfb2893}
+## Description
 
 Le portail de données est une application tierce de la plateforme Isogeo dont le principal objectif est d'offrir une interface d'accès et de valorisation des données orientée usages : recherche, consultation, téléchargement, abonnement, commentaires, évaluations, etc mais aussi de promouvoir le SIG au travers de widgets, d'articles et de pages web entièrement éditables.
 
