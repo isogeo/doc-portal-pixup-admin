@@ -2,6 +2,21 @@
 
 <!-- timeline -->
 
+## 3.0 {#version30}
+
+<br> Publiée le 30 janvier 2020 :
+
+* Refonte de l'apparence générale du site
+* Mise en place du concept de double page d'accueil avec des widgets paramétrables
+  * Page orientée Métier
+  * Page orientée Marketing
+* Ajout d'un module de Dataviz
+* Intégration de l'API Dawizz
+
+<!-- /timeline -->
+<!-- timeline -->
+
+
 ## 2.6 {#version26}
 
 <br> Publiée le 30 novembre 2018 :

@@ -19,11 +19,11 @@
 
 ## Spécifications serveur
 
-* IIS 
+* Serveur web compatible avec PHP (IIS, Apache) et MySQL
 * connexion autorisée et configurée \(proxy, pare-feu...\) vers les domaines de l'API Isogeo :
   * [https://v1.api.isogeo.com/\*](https://v1.api.isogeo.com/)
   * [https://id.api.isogeo.com/\*](https://v1.api.isogeo.com/)
-* accès à l'API nominatim : [https://nominatim.openstreetmap.org/](https://nominatim.openstreetmap.org/) ;
+<!-- * accès à l'API nominatim : [https://nominatim.openstreetmap.org/](https://nominatim.openstreetmap.org/) ; -->
 
 ### Configuration idéale
 
@@ -37,13 +37,6 @@
 
 ## Briques logicielles utilisées
 
-* PHP version 5.6.13 ou 7.x ;
+* PHP : version 7.x minimum ; 
 * MySQL 5.6.26 ;
-* [Helicon ISAPI Rewrite](http://www.helicontech.com/isapi_rewrite/) \(pour la gestion des fichiers .htaccess\).
-
-## Eléments graphiques
-
-Les différents éléments graphiques de personnalisation du portail sont livrés au format Photoshop \(.psd\) dans un fichier `icones et visuels.psd`, contenant les objets vectoriels répartis en plusieurs calques et groupes de calques :
-
-![&quot;Aperçu des calques Photoshop dans le fichier tranmis&quot;](/assets/tech_graphics_psd.png)
-
+* [Helicon ISAPI Rewrite](http://www.helicontech.com/isapi_rewrite/) pour la gestion des fichiers *.htaccess* sur les serveurs IIS uniquement.

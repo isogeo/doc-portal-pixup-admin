@@ -7,74 +7,78 @@
 * [Prérequis](prerequisites.md)
 * [Versions](versions.md)
 
-## Accueil
-
-* [Configuration de la page d'accueil](homepage/config.md)
-  * [Paramètres généraux](homepage/config/general.md)
-  * [Zone Mise en avant](homepage/config/featured-section.md)
-  * [Zone HTML](homepage/config/html-area.md)
-  * [Nuage de mots-clés](homepage/config/keywords-cloud.md)
-  * [Zone Actualités](homepage/config/news.md)
-* [Pavés dynamiques](homepage/dyn-sections.md)
-* [Sélection de données](homepage/featured-data.md)
-* [Thématiques](homepage/thematics.md)
-
 ## Tableau de bord
 
 * [Fonctionnement du tableau de bord](dashboard/features.md)
 
+## Accueil Marketing
+
+* [Gérer l'ordre des widgets](homepage-marketing/order.md)
+* [Widgets marketing](homepage-marketing/widgets-marketing/titles.md)
+    * [Titre des widgets](homepage-marketing/widgets-marketing/titles.md)
+    * [Applications](homepage-marketing/widgets-marketing/applications.md)
+    * [Equipe](homepage-marketing/widgets-marketing/team.md)
+    * [Groupes de travail](homepage-marketing/widgets-marketing/workgroup.md)
+    * [Mises en avant](homepage-marketing/widgets-marketing/frieze.md)
+    * [Partenaires](homepage-marketing/widgets-marketing/partners.md)
+    * [Thématiques](homepage-marketing/widgets-marketing/themes.md)
+    * [Usages](homepage-marketing/widgets-marketing/usages.md)
+
+## Accueil Métier
+
+* [Titres](homepage-jobs/titles.md)
+* [Widgets métiers](homepage-jobs/widgets-jobs/apps.md)
+    * [Apps](homepage-jobs/widgets-jobs/apps.md)
+    * [Sélection de données](homepage-jobs/widgets-jobs/data-selection.md)
+    * [Sélection de données Dawizz](homepage-jobs/widgets-jobs/data-selection-dawizz.md)
+
 ## Actualités
 
-* [Nouvelle actualité](actualites/newarticle.md)
-* [Catégories](actualites/categories.md)
+* [Gestion des articles](actualites/articles.md)
 
-## Médias
+## Dataviz
 
-* [Gestionnaire d'images](medias/imagemanager.md)
-* [Gestionnaire de fichiers](medias/filesmanager.md)
+* [Gestion des Dataviz](dataviz/dataviz.md)
 
 ## Menu
 
-* [Gérer le menu horizontal](menu/adminmenu.md)
+* [Gestion des menus du site](menu/elements.md)
 
 ## Messages reçus
 
-* [Messages reçus](messages-recus/messages.md)
-* [Commentaires reçus](messages-recus/comment.md)
+* [Contacts](messages-recus/contacts.md)
+* [A propos d'une donnée](messages-recus/about-data.md)
 
-## Pages
+## Pages & iFrames
 
-* [Gérer les contenus fixes](pages/pageseditor.md)
+* [Gestion des pages](pages-iframes/pages.md)
+* [Gestion des iFrames](pages-iframes/iframes.md)
 
 ## Paramètres
 
-* [Généraux](settings/general.md)
-* [Affichage](settings/display.md)
-* [Emails](settings/emails.md)
-* [Recherche & Carto](settings/search-map.md)
-  * [Recherche textuelle](settings/search-map/searchtext.md)
-  * [Adresse \(géocodage\)](settings/search-map/adresse.md)
-  * [Emprises personnalisées](settings/search-map/searchbbox.md)
-  * [Recherche géographique et cartographique](settings/search-map/searchmap.md)
-* [Maintenance](settings/unlock.md)
-* [Voir aussi](settings/voir-aussi.md)
+* [Paramètres généraux](settings/general.md)
+* [Paramètres affichage](settings/display/general.md)
+    * [Généraux](settings/display/general.md)
+    * [Affichage selon le type d'utilisateur](settings/display/user-display.md)
 
-## Statistiques
+## Services
 
-* [Fiches consultées](stats/metadata.md)
-* [Ressources consultées](stats/links.md)
-* [Utilisateurs connectés](stats/users.md)
-* [Recherches effectuées](stats/searches.md)
-* [Notes des fiches](stats/evaluations.md)
+* [Importer les services](services/import.md)
+* [Services V2 - EMS](services/ems.md)
+* [Services V2 - EFS](services/efs.md)
+* [Services V2 - WMS](services/wms.md)
+* [Services V2 - WFS](services/wfs.md)
 
 ## Utilisateurs
 
-* [Gestion des utilisateurs](users/user-management.md)
+* [Utilisateurs existants](users/users.md)
+* [Edition d'un utilisateur](users/editing-user.md)
 
 ## Annexes
 
 * [Accès en HTTPS](appendices/https.md)
+* [Editeur de contenu](appendices/editor.md)
 * [Editeur WYSIWYG](appendices/editorwysiwyg.md)
+* [Gestionnaire de fichier](appendices/filesmanager.md)
 * [Référencement](/appendices/seo.md)
 * [Figures et images](pictures.md)
-

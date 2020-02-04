@@ -7,7 +7,7 @@ Le portail présente 2 interfaces :
 
 Ce guide se concentre sur la deuxième, même si la première est utilisée pour illustrer les conséquences de la configuration.
 
-## Concilier Data Management et design web {#docs-internal-guid-ab3644e3-f47e-003b-1b41-8a882bfb2893}
+## Concilier Data Management et design web {#data_management}
 
 Dans la vision d’Isogeo, le catalogage n’est qu’une étape intermédiaire vers la diffusion et la valorisation des données. Faire des métadonnées n’est pas une fin en soi et les catalogues de données sont bien trop souvent des interfaces dédiées à des techniciens et loin de respecter les règles de l’ergonomie.
 
@@ -15,9 +15,9 @@ C’est pourquoi le portail allie l’expertise d’Isogeo en matière de gouver
 
 ### Des portails orientés usages à portée de tous
 
-L’objectif n’est pas de mettre un simple catalogue en consultation mais d’implémenter des fonctionnalités dédiées à l’animation autour du patrimoine de données : retours d’expériences, commentaires, suivi des modifications, comptes utilisateurs, etc.
+L’objectif n’est pas de mettre un simple catalogue en consultation mais d’implémenter des fonctionnalités dédiées à l’animation autour du patrimoine de données : retours d’expériences, commentaires, suivi des modifications, comptes utilisateurs, actualités, mise en valeur du SIG etc.
 
-Par ailleurs, il est possible de tirer parti de la modularité d’Isogeo et de servir un ou plusieurs portails selon les besoins. Par exemple dans le cas où vous avez besoin de diffuser certaines de vos données en interne d’une certaine façon et d’autres en externe d’une autre façon. C’est très facile à réaliser et tout à fait transparent d’un point de vue de l'administration.
+Par ailleurs, il est possible de tirer parti de l'API Isogeo et de proposer un portail selon le profil d'utilisateur. Par exemple, si vous souhaitez diffuser certaines données qu'en interne et non en externe, c’est très facile à réaliser depuis l'administration.
 
 ![&quot;Les données sont consommées et produites par différents types de personnes - L&apos;accès doit être simple pour tous&quot;](/assets/misc_data_people.png)
 
@@ -29,29 +29,21 @@ Le portail intègre évidemment toute la puissance du [moteur de recherche Isoge
 
 ![&quot;Interface de recherche - Options de filtre et de tri&quot;](/assets/front_search_filters_catalog.png)
 
-Voir :
-
-* [option de tri des résultats par défaut](/settings/search-map/searchtext.md) ;
-* [créer des thématiques personnalisées regroupant des données pour proposer des filtres pertinents](/homepage/thematics.md) ;
 
 #### Une gestion de contenus dynamiques et statiques
 
-Focalisé sur les données, le portail permet d'insérer en page d'acceuil les informations sur celles-ci \(comme par exemple les nouvelles données publiées, les données recemment mises à jour, les données à la une, la sélection de l'administrateur, etc.\). Au-delà des données, le portail  intègre un CMS \(_Content Management System_ ou SGC - Système de Gestion de Contenus\) et permet ainsi l'édition de contenus éditoriaux, comme par exemple :
+Le portail n'est pas uniquement focalisé sur les données. En effet, le portail intègre un CMS \(_Content Management System_ ou SGC - Système de Gestion de Contenus\) et permet ainsi l'édition de contenus éditoriaux, comme par exemple :
 
-* gestion des rubriques et des menus ;
-* gestionnaire d’actualités \(création, édition, publication, mise en avant en page d’accueil…\) ;
-* gestionnaire de médias et de fichiers pour enrichir vos contenus facilement ;
+* gestion des [menus](/menu/elements.md) ;
+* gestion de widgets pour les pages [marketing](/homepage-marketing/widgets-marketing/titles.md) et [métiers](/homepage-jobs/titles.md) ;
+* gestion des [actualités](/actualite/article.md) (création, édition, publication, mise en avant en page d’accueil métier) ;
+* gestion des [Dataviz](/dataviz/dataviz.md) ;
+* gestion des [pages](/pages-iframes/pages.md) et [iframes](/pages-iframes/iframes.md) du site ;
+* ou encore un gestionnaire fichiers intégré etc...
 
-![&quot;Articles et catégories - Exemple du SMAVD&quot;](/assets/front_news_smavd.png)
+![Exemple des widgets de la page d'accueil métiers](/assets/portal_homepage_job.png)
 
-Voir :
-
-* [gérer les pavés de flux dynamiques en page d'accueil](/homepage/dyn-sections.md) ;
-* [créer une actualité](/actualites/newarticle.md) ;
-* [créer une page statique](/pages/pageseditor.md) ;
-* [utiliser l'éditeur de texte WYSIWYG](/appendices/editorwysiwyg.md).
-
-#### Dimension géographique et interface cartographique
+<!-- #### Dimension géographique et interface cartographique
 
 La dimension géographique est au coeur de l’expertise Isogeo et des fonctionnalités spécifiques sont intégrées pour la valoriser facilement :
 
@@ -65,23 +57,21 @@ La dimension géographique est au coeur de l’expertise Isogeo et des fonctionn
 Voir :
 
 * [paramétrer l'interface cartographique et la recherche géographique](/settings/search-map/searchmap.md) ;
-* [définir des emprises géographiques de recherche personnalisées](/settings/search-map/searchbbox.md) ;
+* [définir des emprises géographiques de recherche personnalisées](/settings/search-map/searchbbox.md) ; -->
 
 ### Dimension participative pour animer le patrimoine immatériel
 
-Un espace et des options sont dédiées aux utilisateurs authentifiés : accéder à des pages réservées ou à des détails supplémentaires sur les fiches de métadonnées, accéder aux fonctionnalités participatives, créer dse listes de données personnalisées...
+Un espace et des options sont dédiées aux utilisateurs authentifiés : accéder à des pages réservées ou à des détails supplémentaires sur les fiches de métadonnées, accéder aux fonctionnalités participatives, créer des listes de données personnalisées...
 
 Un outil de travail optimisé grâce aux notifications : un utilisateur peut choisir de s’abonner à certaines données \(via les listes\) toutes les semaines \(période personnalisable\) il reçoit un rapport par mail lui indiquant quelles données ont été modifiées entre temps sans aucune intervention de la part de l’administrateur.
 
-Partager ses listes aux autres utilisateurs, en public ou bien les garder privées,
-
-* personnaliser l’affichage des informations \(par exemple, masquer / afficher systématiquement le tableau des attributs\)
+![Page de gestion du compte pour les utilisateurs authentifiés](/assets/front_my_account.png)
 
 Voir :
 
-* [modérer les commentaires](/messages-recus/comment.md) ;
+<!-- * [modérer les commentaires](/messages-recus/comment.md) ;
 * [consulter les données évaluées](/stats/evaluations.md) ;
-* [paramétrer les emails](/settings/emails.md) ;
+* [paramétrer les emails](/settings/emails.md) ; -->
 
 ## Une administration simple mais puissante
 
@@ -89,26 +79,22 @@ L'interface d'administration permet de gérer l'accès au portail mais aussi l'a
 
 Voir :
 
-* [rendre l'authentification au portail obligatoire](/settings/general.md) ;
-* [gérer les utilisateurs](/users/user-management.md) ;
-* [gérer l'affichage selon le type d'utilisateur](/settings/display.md).
+* [rendre l'authentification au portail obligatoire](/settings/general#site_access.md) ;
+* [gérer les utilisateurs](/users/users.md) ;
+* [gérer l'affichage selon le type d'utilisateur](/settings/user-display.md).
 
 ### Un portail personnalisable
 
-Le portail de données peut être personnalisé aux couleurs de votre organisme \(charte graphique, logo, menu affichés, authentification, etc.\). Ci-dessous quelques-unes de nos réalisations :
+Le portail de données peut être personnalisé aux couleurs de votre organisme (charte graphique, logo, menu affichés, authentification, etc.). Ci-dessous quelques-unes de nos réalisations :
 
-* Créteil Géo Open Data : [http://geodata.ville-creteil.fr](http://geodata.ville-creteil.fr)
-* Plaine Centrale Géo Open Data : [http://geodata.agglo-plainecentrale94.fr](http://geodata.agglo-plainecentrale94.fr)
-* GéoLorient : [http://geocatalogue.lorient-agglo.bzh/](http://geocatalogue.lorient-agglo.bzh/)
-* Grand Port Maritime de Nantes Saint-Nazaire \(privé\) [http://gpmnsn.isogeo.net](http://gpmnsn.isogeo.net)
-* Syndicat Mixte d’Aménagement de la Vallée de la Durance \(privé\) [http://smavd.isogeo.net](http://smavd.isogeo.net)
+* Syndicat Mixte d’Aménagement de la Vallée de la Durance \(privé\) [http://geocatalogue.smavd.org/](http://geocatalogue.smavd.org/)
 * Le portail de démonstration \(parfois en travaux\) : [http://demo.isogeo.net](http://demo.isogeo.net)
 
 #### Interface multi-supports
 
-L'interface du portail est responsive design pour s'adapter aux différents formats des supports de consultation \(ordinateur, smartphone, tablette...\).
+L'interface du portail est responsive design pour s'adapter aux différents formats des supports de consultation (ordinateur, smartphone, tablette...).
 
-![](/assets/front_misc_responsive_smartphone_homepage.jpg)
+![](/assets/portal_mobile.jpg)
 
 ### Un champ fonctionnel large, complet et cohérént
 
@@ -120,8 +106,9 @@ Beaucoup d’autres fonctionnalités viennent compléter l'expérience utilisate
 * lien direct vers l’édition de la fiche de métadonnées pour les éditeurs Isogeo ;
 * interprétation du [langage Markdown](http://help.isogeo.com/fr/features/documentation/syntax_markdown.html) disponible dans Isogeo ;
 * bouton pour copier le chemin d’une donnée fichier dans le presse-papiers directement depuis la métadonnée ;
-* générer un code d’intégration iFrame à partir de chaque fiche de métadonnées ;
-* des liens universels basés sur l'identifiant Isogeo. Exemple : [http://demo.isogeo.net/?muid=56ed291af72f46dc9835fc9ae29fe938](http://demo.isogeo.net/?muid=56ed291af72f46dc9835fc9ae29fe938)
+<!-- * générer un code d’intégration iFrame à partir de chaque fiche de métadonnées ; -->
+* accéder directement à la donnée en utilisant uniquement son identifiant selon le format d'url suivant : https://{domaine}/les-donnees-isogeo/{id-de-la-donnee}
+Exemple : [https://demo.isogeo.net/les-donnees-isogeo/472abd6ff9204c31aa1f3b9eae30e566](https://demo.isogeo.net/les-donnees-isogeo/472abd6ff9204c31aa1f3b9eae30e566)
 
 
 
