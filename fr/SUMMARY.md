@@ -73,7 +73,7 @@
 ## Voir aussi
 
 * [Voir aussi Isogeo](see-as-well/s_a_w_isogeo.md)
-* [Voir aussi Dawizz](see-as-well/s_a_w_Dawizz.md)
+* [Voir aussi Dawizz](see-as-well/s_a_w_dawizz.md)
 
 ## Utilisateurs
 
