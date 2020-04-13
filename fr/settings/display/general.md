@@ -20,7 +20,7 @@ Il est possible de paramétrer 5 couleurs qui vont s'appliquer à différents é
 
 ## CSS
 
-Cet item est réservé aux utilisateurs avancés et permet de personnaliser l'apparence de n'importe quel élément du site avec des [commandes CSS](https://developer.mozilla.org/fr/docs/Web/CSS). 
+Cet item est réservé aux utilisateurs avancés et permet de personnaliser l'apparence de n'importe quel élément du site avec des [commandes CSS](https://developer.mozilla.org/fr/docs/Web/CSS).
 
 Cette fonctionnalité ne doit évidemment être utilisé que pour des éléments qui ne sont pas paramétrables dans les autres menus d'administration du site.
 

@@ -109,6 +109,3 @@ Beaucoup d’autres fonctionnalités viennent compléter l'expérience utilisate
 <!-- * générer un code d’intégration iFrame à partir de chaque fiche de métadonnées ; -->
 * accéder directement à la donnée en utilisant uniquement son identifiant selon le format d'url suivant : https://{domaine}/les-donnees-isogeo/{id-de-la-donnee}
 Exemple : [https://demo.isogeo.net/les-donnees-isogeo/472abd6ff9204c31aa1f3b9eae30e566](https://demo.isogeo.net/les-donnees-isogeo/472abd6ff9204c31aa1f3b9eae30e566)
-
-
-

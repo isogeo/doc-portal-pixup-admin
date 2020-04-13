@@ -69,10 +69,15 @@
 * [Services V2 - WMS](services/wms.md)
 * [Services V2 - WFS](services/wfs.md)
 
+
+## Voir aussi
+
+* [Voir aussi Isogeo](see-as-well/s_a_w_isogeo.md)
+* [Voir aussi Dawizz](see-as-well/s_a_w_Dawizz.md)
+
 ## Utilisateurs
 
-* [Utilisateurs existants](users/users.md)
-* [Edition d'un utilisateur](users/editing-user.md)
+* [Utilisateurs](users/users.md)
 
 ## Annexes
 

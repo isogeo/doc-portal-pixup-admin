@@ -6,7 +6,7 @@
 * au moins un catalogue contenant au moins une métadonnée, partagé à l'application ;
 * des clés d'authentification auprès de l'API Isogeo ;
 
-## Navigateurs supportés
+## Navigateurs recommandés
 
 * Google Chrome \(5 dernières versions\) ;
 * Mozilla Firefox \(ESR et ultérieures\) ;
@@ -28,12 +28,15 @@
 ### Configuration idéale
 
 * Machine physique dédiée
-* Processeur Xeon D1521 2.40 Ghz \(x8\)
-* Système d’exploitation Windows Server 2012 R2 ou 2016
-* IIS v8.5
+* Processeur Xeon D1521 2.40 Ghz (x8)
 * Mémoire 32 Go
 * Disque dur 2x2 To + 2 x 300 Go SSD
 * Cache applicatif activé
+
+Si environnement Microsoft
+
+* Système d’exploitation Windows Server 2012 R2, 2016, 2019
+* IIS minimum v8.5
 
 ## Briques logicielles utilisées
 
