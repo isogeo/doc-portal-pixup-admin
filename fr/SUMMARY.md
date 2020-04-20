@@ -82,7 +82,6 @@
 ## Annexes
 
 * [Accès en HTTPS](appendices/https.md)
-* [Editeur de contenu](appendices/editor.md)
 * [Editeur WYSIWYG](appendices/editorwysiwyg.md)
 * [Gestionnaire de fichier](appendices/filesmanager.md)
 * [Référencement](/appendices/seo.md)

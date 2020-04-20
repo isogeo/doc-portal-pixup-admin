@@ -1,10 +1,10 @@
-# Paramètres généraux {#general_parameters}
+# Paramètres généraux
 
 Cette section comporte les paramètres généraux du site. Tous les paramètres avec une * sont obligatoires.
 
 ## Accès au site {#site_access}
 
-### Maintenance
+### Maintenance {#maintenance}
 
 Valeurs possibles :
 
@@ -15,7 +15,7 @@ Il est donc possible de prévenir l'utilisateur d'une maintenance du portail. Da
 
 ![Message  de maintenance aux utilisateurs](/assets/front_maintenance.png)
 
-### Authentification
+### Authentification {#authentication}
 
 Valeurs possibles :
 
@@ -26,7 +26,7 @@ Il est donc possible de forcer les utilisateurs à s'authentifier au portail pou
 
 ![Authentification obligatoire](/assets/front_authentication.png)
 
-### Nature du géoportail
+### Nature du géoportail {#nature}
 
 Valeurs possibles :
 
@@ -35,7 +35,7 @@ Valeurs possibles :
 
 Selon le choix, la page d'accueil du site sera respectivement la [page d'accueil métier](/homepage-jobs/titles.md) ou la [page d'accueil marketing](/homepage-marketing/widget-marketing/titles.md).
 
-### Nom du site
+### Nom du site {#site-name}
 
 Le nom du site choisi s'affiche dans le titre de l'onglet de votre navigateur. 
 
@@ -113,3 +113,7 @@ Il faut donc renseigner les champs suivants :
 * Identifiant
 * Mot de passe : le mot de passe ne s'affichera plus une fois enregistré. Le laisser donc vide si inchangé.
 * SMTP Secure
+
+## Google Analytics {#ganalytics}
+
+Si votre portail est accessible sur une URL publique, il est possible d'insérer le code de suivi de fréquentation de l'outil de Google dans ce formulaire.

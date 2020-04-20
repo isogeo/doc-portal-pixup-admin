@@ -29,6 +29,11 @@ Le portail intègre évidemment toute la puissance du [moteur de recherche Isoge
 
 ![&quot;Interface de recherche - Options de filtre et de tri&quot;](/assets/front_search_filters_catalog.png)
 
+#### ...et moteur de recherche Dawizz
+
+Depuis la version 3.0, le portail peut également intégrer le catalogue de l'application de cartographie globale des données [Dawizz](https://www.dawizz.fr/). Lorsque c'est le cas, ce n'est plus l'API Isogeo qui est utilisée mais l'API pour le moteur de recherche et la présentation des fiches de métadonnées.
+
+![Interface de recherche Dawizz](/assets/front_search_filters_catalog_dawizz.png)
 
 #### Une gestion de contenus dynamiques et statiques
 
@@ -79,15 +84,15 @@ L'interface d'administration permet de gérer l'accès au portail mais aussi l'a
 
 Voir :
 
-* [rendre l'authentification au portail obligatoire](/settings/general#site_access.md) ;
+* [rendre l'authentification au portail obligatoire](/settings/general.md#authentication) ;
 * [gérer les utilisateurs](/users/users.md) ;
-* [gérer l'affichage selon le type d'utilisateur](/settings/user-display.md).
+* [gérer l'affichage selon le type d'utilisateur](/settings/display/user-display.md).
 
 ### Un portail personnalisable
 
 Le portail de données peut être personnalisé aux couleurs de votre organisme (charte graphique, logo, menu affichés, authentification, etc.). Ci-dessous quelques-unes de nos réalisations :
 
-* Syndicat Mixte d’Aménagement de la Vallée de la Durance \(privé\) [http://geocatalogue.smavd.org/](http://geocatalogue.smavd.org/)
+* Syndicat Mixte d’Aménagement de la Vallée de la Durance [http://geocatalogue.smavd.org/](http://geocatalogue.smavd.org/)
 * Le portail de démonstration \(parfois en travaux\) : [http://demo.isogeo.net](http://demo.isogeo.net)
 
 #### Interface multi-supports

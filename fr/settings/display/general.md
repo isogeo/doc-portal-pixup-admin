@@ -4,7 +4,7 @@
 
 Dans cette partie, il est possible de personnaliser l'apparence du portail.
 
-## Couleurs
+## Couleurs {#colors}
 
 Il est possible de paramétrer 5 couleurs qui vont s'appliquer à différents éléments du site. Les couleurs doivent être renseignées au format hexadécimal.
 
@@ -18,13 +18,13 @@ Il est possible de paramétrer 5 couleurs qui vont s'appliquer à différents é
 * Couleur 4 : alertes
 * Couleur 5 : filets et certains fonds (chat...)
 
-## CSS
+## CSS {#css}
 
 Cet item est réservé aux utilisateurs avancés et permet de personnaliser l'apparence de n'importe quel élément du site avec des [commandes CSS](https://developer.mozilla.org/fr/docs/Web/CSS).
 
 Cette fonctionnalité ne doit évidemment être utilisé que pour des éléments qui ne sont pas paramétrables dans les autres menus d'administration du site.
 
-## Visuels
+## Visuels {#visuals}
 
 Pour chaque item ci-dessous, il est possible de choisir une image. Pour cela, cliquer sur *Ajouter* ou *Effacer puis Ajouter* pour insérer une image depuis le [gestionnaire de média](/appendices/filesmanager.md).
 
@@ -32,10 +32,10 @@ Pour chaque item ci-dessous, il est possible de choisir une image. Pour cela, cl
 * Logo
 * Frise
 
-### Exemple de paramétrage dans le back-office
+### Exemple de paramétrage dans le back-office {#example}
 
 ![](/assets/back_display_general_visual.png)
 
-### Résultat dans le front-office
+### Résultat dans le front-office {#result}
 
 ![](/assets/front_visual.png)
