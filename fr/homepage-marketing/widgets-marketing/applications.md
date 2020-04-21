@@ -28,7 +28,7 @@ Les méta-balises permettent d'améliorer le référencement dans les moteurs de
 
 Cet onglet permet de gérer le nom de l'application et le visuel.
 
-* **Icône** : *Insérer une image avec le [gestionnaire de fichiers](/appendices/filesmanager.md) intégré au portail.*
+* **Icône** : *Insérer une image avec le [gestionnaire de fichiers](/medias/filesmanager.md) intégré au portail.*
 * **Nom** : *Nom de l'application* (Exemple : *Gestion des réseaux*)
 * Affichage : *Choisir entre afficher l'**icône** ou le **nom** dans le [widget application](#widget-applications)*.
 

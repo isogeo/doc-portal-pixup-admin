@@ -13,7 +13,7 @@ Ce menu permet d'afficher la liste de tous les membres. Une barre de recherche (
 Pour créer un membre, il suffit de cliquer sur `Édition d'un membre` dans le menu d'accès. Pour éditer un membre existant, il suffit de le sélectionner dans le menu précédent.
 L'éditeur permet de modifier les champs suivants (ceux en **gras** étant obligatoires):
 
-* **Photo** : Vous pouvez ajouter une photo avec le [gestionnaire de fichiers](/appendices/filesmanager.md) intégré au portail.
+* **Photo** : Vous pouvez ajouter une photo avec le [gestionnaire de fichiers](/medias/filesmanager.md) intégré au portail.
 * **Nom**
 * **Prénom**
 * **Fonction**

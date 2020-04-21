@@ -28,7 +28,7 @@ Les méta-balises permettent d'améliorer le référencement dans les moteurs de
 
 Cet onglet permet de gérer le titre du groupe de travail et le visuel dans le [widget Groupe de travail](#widget-groups) de la page d'accueil marketing.
 
-* **Icône** : *Insérer une image avec le [gestionnaire de fichiers](/appendices/filesmanager.md) intégré au portail.*
+* **Icône** : *Insérer une image avec le [gestionnaire de fichiers](/medias/filesmanager.md) intégré au portail.*
   * Exemple : *Logo du groupe de travail*
 * **Titre** : *Nom du groupe de travail*
   * Exemple : *Inspire*

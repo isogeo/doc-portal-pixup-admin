@@ -14,7 +14,7 @@ Pour créer une mise en avant, il suffit de cliquer sur `Édition d'une mise en 
 
 L'éditeur permet de modifier les champs suivants (ceux en **gras** étant obligatoires):
 
-* **Visuel** : Vous pouvez ajouter une image avec le [gestionnaire de fichiers](/appendices/filesmanager.md) intégré au portail.
+* **Visuel** : Vous pouvez ajouter une image avec le [gestionnaire de fichiers](/medias/filesmanager.md) intégré au portail.
 * **Titre**
 * Texte : Description de la mise en avant.
 * Lien : URL de la page concernée par la mise en avant.

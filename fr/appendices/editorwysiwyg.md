@@ -13,7 +13,7 @@ Pour faciliter la rédaction des différents contenus éditoriaux et HTML, le po
 
 ![Interface de l'éditeur WYSIWYG](/assets/back_editor_wysiwyg.png)
 
-## Détail des fonctionnalités de l'éditeur
+## Détail des fonctionnalités de l'éditeur {#detail}
 
 | Bouton / menu | Description |
 | :---: | :--- |

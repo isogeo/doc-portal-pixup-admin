@@ -26,7 +26,7 @@ Cette fonctionnalité ne doit évidemment être utilisé que pour des éléments
 
 ## Visuels {#visuals}
 
-Pour chaque item ci-dessous, il est possible de choisir une image. Pour cela, cliquer sur *Ajouter* ou *Effacer puis Ajouter* pour insérer une image depuis le [gestionnaire de média](/appendices/filesmanager.md).
+Pour chaque item ci-dessous, il est possible de choisir une image. Pour cela, cliquer sur *Ajouter* ou *Effacer puis Ajouter* pour insérer une image depuis le [gestionnaire de média](/medias/filesmanager.md).
 
 * Zone de recherche
 * Logo

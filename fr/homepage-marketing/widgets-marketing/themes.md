@@ -13,7 +13,7 @@ Ce menu permet d'afficher la liste de tous les thématiques. Une barre de recher
 Pour créer un thématique, il suffit de cliquer sur `Édition d'une thématique` dans le menu d'accès. Pour éditer une thématique existante, il suffit de la sélectionner dans le menu précédent.
 L'éditeur permet de modifier les champs suivants (ceux en **gras** étant obligatoires):
 
-* **Icône** : Vous pouvez ajouter une icone personnalisée avec le [gestionnaire de fichiers](/appendices/filesmanager.md) intégré au portail.
+* **Icône** : Vous pouvez ajouter une icone personnalisée avec le [gestionnaire de fichiers](/medias/filesmanager.md) intégré au portail.
 * **Titre**
 * Expression : En renseignant une expression, vous pourrez orienter automatiquement l'utilisateur du portail vers une recherche filtrée sur cette expression (attention à bien séparer par une virgule les termes) 
 * Catalogue de données : En renseignant l'identifiant d'un catalogue thématique, vous pourrez orienter automatiquement l'utilisateur du portail vers les données du catalogue saisi.

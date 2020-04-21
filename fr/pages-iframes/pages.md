@@ -2,13 +2,13 @@
 
 Ce menu permet de gérer les pages du pied de page du site ou tout autre page qui n'est pas configurables dans les menus précédents. Vous pouvez donc créer, modifier, supprimer des pages et les ajouter au pied de page si besoin.
 
-## Pages existantes
+## Pages existantes {#list-pages}
 
 Ce menu permet d'afficher la liste de toutes les pages rédigées. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer une page ou en supprimer par lot.
 
 !["Menu Pages existantes"](/assets/back_list_page.png)
 
-## Edition d'une page
+## Edition d'une page {#editing-page}
 
 Pour créer une page, il suffit de cliquer sur `Édition d'une page` dans le menu d'accès. Pour éditer une page existante, il suffit de la sélectionner dans le menu précédent.
 
@@ -59,7 +59,7 @@ Cet onglet permet de gérer la publication de l'actualité.
 * Cette page est présente dans le pied de page : *Si oui, la page est accesssible depuis le pied de page du portail.*
   * Exemple : *Oui*
 
-## Résultat sur le front-office
+## Résultat sur le front-office {#result}
 
 Voici le résultat de l'exemple de la page "A propos du Géoportail" avec la configuration ci-dessus. Cette capture permet d'illustre également le pied de page du portail dont la page en exemple fait partie.
 

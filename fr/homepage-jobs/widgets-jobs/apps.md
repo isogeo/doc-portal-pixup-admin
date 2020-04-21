@@ -15,7 +15,7 @@ Pour créer une app, il suffit de cliquer sur `Édition d'une App` dans le menu 
 
 L'éditeur permet de modifier les champs suivants (ceux en **gras** étant obligatoires):
 
-* **Icône** : Vous pouvez ajouter une icône avec le [gestionnaire de fichiers](/appendices/filesmanager.md) intégré au portail.
+* **Icône** : Vous pouvez ajouter une icône avec le [gestionnaire de fichiers](/medias/filesmanager.md) intégré au portail.
 * **Titre**
 * Lien : URL de la page concernée par l'app.
 * Case à cocher pour activer le mode *brouillon* qui permet de ne pas publier l'app.

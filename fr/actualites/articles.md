@@ -20,7 +20,7 @@ Le menu d'édition d'un article présente donc 4 onglets.
 
 Cet onglet permet de compléter les informations contenues dans l'étiquette de présentation de l'article dans la page de [présentation des articles](#front-news-page).
 
-* Visuel : *Insérer une image avec le [gestionnaire de fichiers](/appendices/filesmanager.md) intégré au portail.*
+* Visuel : *Insérer une image avec le [gestionnaire de fichiers](/medias/filesmanager.md) intégré au portail.*
 * Titre : *Nouveau module de Dataviz !*
 * Date : *01/10/2019*
 * Résumé : *Les données sont une chose, leur représentation en est une autre. Pour dépasser les limites d'un affichage purement textuel, nous avons préparé plusieurs exemples de visualisations graphiques de vos données géographiques.*

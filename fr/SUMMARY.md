@@ -49,6 +49,10 @@
 * [Contacts](messages-recus/contacts.md)
 * [A propos d'une donnée](messages-recus/about-data.md)
 
+## Médias
+
+* [Gérer les médias](medias/filesmanager.md)
+
 ## Pages & iFrames
 
 * [Gestion des pages](pages-iframes/pages.md)
@@ -83,6 +87,5 @@
 
 * [Accès en HTTPS](appendices/https.md)
 * [Editeur WYSIWYG](appendices/editorwysiwyg.md)
-* [Gestionnaire de fichier](appendices/filesmanager.md)
 * [Référencement](/appendices/seo.md)
 * [Figures et images](pictures.md)

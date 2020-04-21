@@ -13,7 +13,7 @@ Ce menu permet d'afficher la liste de tous les usages. Une barre de recherche (s
 Pour éditer un usage existant, il suffit de le sélectionner dans le menu précédent. 
 L'éditeur permet de modifier les champs suivants (ceux en **gras** étant obligatoires):
 
-* **Icône** : Vous pouvez ajouter une icône personnalisée avec le [gestionnaire de fichiers](/appendices/filesmanager.md) intégré au portail.
+* **Icône** : Vous pouvez ajouter une icône personnalisée avec le [gestionnaire de fichiers](/medias/filesmanager.md) intégré au portail.
 * **Titre**
 * **Description**
 * Url

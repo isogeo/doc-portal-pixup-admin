@@ -28,7 +28,7 @@ Les méta-balises permettent d'améliorer le référencement dans les moteurs de
 
 Cet onglet permet de gérer le titre de l'application et le visuel dans le [widget Partenaires](#widget-partners) de la page d'accueil marketing.
 
-* **Icône** : *Insérer une image avec le [gestionnaire de fichiers](/appendices/filesmanager.md) intégré au portail.*
+* **Icône** : *Insérer une image avec le [gestionnaire de fichiers](/medias/filesmanager.md) intégré au portail.*
   * Exemple : *Logo du partenaire*
 * **Titre** : *Nom du partenaire*
   * Exemple : *Isogeo*
