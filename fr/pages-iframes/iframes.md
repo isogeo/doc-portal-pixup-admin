@@ -1,3 +1,6 @@
+---
+description: Gérer les iFrames intégrés au portail Isogeo
+---
 # iFrames
 
 Ce menu permet de gérer les pages que vous souhaitez intégréer en iFrame à votre portail. Vous pouvez donc créer, modifier, supprimer des iFrames.

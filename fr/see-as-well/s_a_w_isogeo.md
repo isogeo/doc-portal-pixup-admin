@@ -1,3 +1,6 @@
+---
+description: Gérer les Voir aussi Isogeo du portail Isogeo
+---
 # Voir aussi Isogeo
 
 Cette section permet de gérer les **Voir aussi** des fiches de métadonnées du portail.

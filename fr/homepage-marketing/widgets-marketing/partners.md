@@ -1,3 +1,6 @@
+---
+description: Gérer le widget Partenaires de la page marketing du portail Isogeo
+---
 # Partenaires
 
 Ce widget permet de présenter les différents partenaires du SIG au sein de votre structure. Vous pouvez créer, modifier des articles pour présenter ces différents partenaires et gérer leur ordre d'affichage.

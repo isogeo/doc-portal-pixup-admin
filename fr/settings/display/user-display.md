@@ -1,3 +1,6 @@
+---
+description: Gérer les paramètres d'affichage selon les profils utilisateurs dans le portail Isogeo
+---
 # Paramètres d'affichage selon le type d'utilisateur
 
 Pour chaque niveau de droit, *Super Admin*, *Admin Rédacteur*, *Utilisateur avec privilèges*, *Utilisateur authentifié* et *Utilisateur public* il est possible de paramétrer toutes les paramètres ci-dessous.

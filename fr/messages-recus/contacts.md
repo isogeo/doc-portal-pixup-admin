@@ -1,3 +1,6 @@
+---
+description: Gérer les messages reçus à partir du formulaire de contact du portail Isogeo
+---
 # Contacts
 
 Ce menu concerne les messages envoyés par les utilisateurs via le formulaire de contact dans le menu du site `Contact`(cf. capture ci-dessous).

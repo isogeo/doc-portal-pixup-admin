@@ -1,3 +1,6 @@
+---
+description: Gérer le widget Equipe de la page marketing du portail Isogeo
+---
 # Équipe
 
 Ce widget permet de présenter l'équipe SIG de votre structure. Vous pouvez ajouter, modifier des membres et gérer leur ordre d'affichage.

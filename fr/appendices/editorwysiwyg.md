@@ -1,3 +1,6 @@
+---
+description: Editeur WYSIWYG intégré au portail Isogeo
+---
 # Editeur WYSIWYG
 
 Pour faciliter la rédaction des différents contenus éditoriaux et HTML, le portail intègre un éditeur WYSIWYG pour _**W**hat **Y**ou **S**ee **I**s **W**hat **Y**ou **G**et_, c'est-à-dire que l'interface de saisie ne requiert aucune compétence en HTML et qu'elle s'apparente à un logiciel de traitement de texte pour faciliter la prise en main.

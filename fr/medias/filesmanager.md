@@ -1,3 +1,6 @@
+---
+description: Gérer les médias (fichiers) hébergés sur le portail Isogeo
+---
 # Gérer les médias
 
 Ce menu donne accès à l'outil d'ajout et de gestion des fichiers [

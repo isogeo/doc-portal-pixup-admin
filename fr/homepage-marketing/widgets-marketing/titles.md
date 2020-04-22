@@ -1,3 +1,6 @@
+---
+description: Gérer les titres de la page marketing du portail Isogeo
+---
 # Titres et affichage des zones
 
 Ce menu permet de définir le titre et la description des différents widgets intégrables à la page d'accueil marketing.

@@ -1,3 +1,6 @@
+---
+description: Gérer les paramètres généraux du portail Isogeo
+---
 # Paramètres généraux
 
 Cette section comporte les paramètres généraux du site. Tous les paramètres avec une * sont obligatoires.

@@ -1,3 +1,6 @@
+---
+description: Gérer le widget Thématiques de la page marketing du portail Isogeo
+---
 # Thématiques
 
 Ce widget permet de présenter les thématiques de ce portail. Vous pouvez ajouter, modifier des thématiques et gérer leur ordre d'affichage.

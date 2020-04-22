@@ -1,3 +1,6 @@
+---
+description: Gérer le widget Usages de la page marketing du portail Isogeo
+---
 # Usages
 
 Ce widget permet de présenter les usages de ce portail. Vous pouvez ajouter, modifier des usages et gérer leur ordre d'affichage.
@@ -38,4 +41,4 @@ N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></
 
 Les usages sont donc présentés dans un widget de type "Slider". Il n'y a pas de page personnalisée pour chaque usage, ces-derniers ne sont donc pas "clickables".
 
-!["Widget usage - côté front"](/assets/front_widget_usage.png)
+!["Widget usage - côté front"](/assets/front_widget_usages.png)

@@ -1,3 +1,6 @@
+---
+description: Gérer les dataviz affichées sur le portail Isogeo
+---
 # Choix des dataviz 
 
 Ce menu permet de choisir les dataviz visualisable dansla page Dataviz.

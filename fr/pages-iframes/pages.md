@@ -1,3 +1,6 @@
+---
+description: Gérer les autres pages du portail Isogeo
+---
 # Pages
 
 Ce menu permet de gérer les pages du pied de page du site ou tout autre page qui n'est pas configurables dans les menus précédents. Vous pouvez donc créer, modifier, supprimer des pages et les ajouter au pied de page si besoin.

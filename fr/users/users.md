@@ -1,3 +1,6 @@
+---
+description: Administrer les utilisateurs du portail Isogeo
+---
 # Utilisateurs
 
 Ce menu permet de créer, modifier et supprimer les utilisateurs du portail.

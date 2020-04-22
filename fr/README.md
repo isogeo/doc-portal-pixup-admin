@@ -1,3 +1,6 @@
+---
+description: Indroduction sur le portail Isogeo
+---
 ![Logo d'Isogeo](https://www.isogeo.com/images/isogeo/logo-isogeo.png)
 
 # Guide d'administration du portail de données basé sur Isogeo

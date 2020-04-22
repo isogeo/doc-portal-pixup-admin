@@ -1,3 +1,6 @@
+---
+description: Gérer le widget Applications de la page marketing du portail Isogeo
+---
 # Applications
 
 Ce widget permet de présenter les différentes applications SIG mises en place au sein de votre structure. Vous pouvez créer, modifier des articles sur des applications et gérer leur ordre d'affichage.

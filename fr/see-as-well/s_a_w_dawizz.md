@@ -1,3 +1,6 @@
+---
+description: Gérer les Voir aussi Dawizz du portail Isogeo
+---
 # Voir aussi Dawizz
 
 Cette section permet de gérer les **Voir aussi** Dawizz des fiches de métadonnées du portail lorsque l'API Dawizz est activée. Il s'agit d'un onglet qui présente à l'utilisateur des fiches liées à celle qu'il est en train de consulter et qui pourrait l'intéresser (cf. capture en bas de la page).

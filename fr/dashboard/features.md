@@ -1,3 +1,6 @@
+---
+description: Consulter des statistiques sur le portail Isogeo
+---
 # Fonctionnement du tableau de bord
 
 Le dashboard \(ou tableau de bord\) est la page d’accueil de l’administration du portail \(ou back-office\). Il affiche un certain nombre d’informations statistiques. 

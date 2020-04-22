@@ -1,3 +1,6 @@
+---
+description: Gérer les messages reçus à partir d'une donnée du portail Isogeo
+---
 # A propos d'une donnée
 
 Ce menu concerne les messages envoyés par les utilisateurs qui ne peuvent pas participer aux fils de discussion, c'est-à-dire :

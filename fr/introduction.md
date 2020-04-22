@@ -1,3 +1,6 @@
+---
+description: Présentation générale du portail Isogeo
+---
 # Présentation générale du portail
 
 Le portail présente 2 interfaces :

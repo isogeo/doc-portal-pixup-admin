@@ -1,3 +1,6 @@
+---
+description: Gérer le widget Applications de la page métier du portail Isogeo
+---
 # Apps
 
 Sur le même principe que les écrans d'accueil de nos smartphones, ce widget permer de mettre en valeurs des apps contenant des raccourcis vers d'autres pages du site. 

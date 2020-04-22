@@ -1,3 +1,6 @@
+---
+description: Gérer le widget Groupes de travail de la page marketing du portail Isogeo
+---
 # Groupes de travail
 
 Ce widget permet de présenter les différents groupes mis en place au sein de votre structure autour du SIG. Vous pouvez créer, modifier des articles pour présenter ces différents groupes de travail et gérer leur ordre d'affichage.

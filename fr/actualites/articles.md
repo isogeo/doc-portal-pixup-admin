@@ -1,3 +1,6 @@
+---
+description: Ecrire un article présentant une actualité dans le portail Isogeo
+---
 # Actualités
 
 Ce menu permet de rédiger des articles autour du SIG. Vous pouvez créer, modifier ou supprimer des articles et les ranger par catégories.

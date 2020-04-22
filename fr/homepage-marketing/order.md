@@ -1,3 +1,6 @@
+---
+description: Gérer l'ordre des widget de la page marketing du portail Isogeo
+---
 # Accueil marketing : gestion de l'ordre d'affichage des widgets
 
 Ce menu permet de modifier simplement l'ordre d'affichage des widgets.

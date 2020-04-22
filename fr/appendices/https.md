@@ -1,3 +1,6 @@
+---
+description: Hébergement et accès des portails Isogeo
+---
 # Accès au portail en HTTPS
 
 Afin de garantir la sécurité des informations transmises lors de l'authentification des utillisateurs ou des requêtes à l'API Isogeo ainsi que pour optimiser le [référencement](//appendices/seo.md), le portail de données gère le HTTPS \(depuis la [version 2.4](/versions.md#version24)\).

@@ -1,3 +1,6 @@
+---
+description: Gérer la frise (slider) du widget Mises en avant de la page marketing du portail Isogeo
+---
 # Mises en avant
 
 Ce widget permet de mettre en avant des pages du portail. Vous pouvez créer, modifier des mises en avant et gérer leur ordre d'affichage.

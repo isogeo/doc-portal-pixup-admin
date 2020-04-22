@@ -1,3 +1,6 @@
+---
+description: Gérer les paramètres d'affichage généraux du portail Isogeo
+---
 # Paramètres d'affichage généraux
 
 > Attention, ce menu est réservé aux utilisateurs avancés. Contacter Isogeo en cas de besoin.

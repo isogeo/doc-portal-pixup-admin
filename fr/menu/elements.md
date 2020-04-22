@@ -1,3 +1,6 @@
+---
+description: Gérer les menus du portail Isogeo
+---
 # Menus du site
 
 Ce menu permet de gérer les menus de ce portail. Vous pouvez ajouter, modifier des menus et gérer leur ordre d'affichage.
