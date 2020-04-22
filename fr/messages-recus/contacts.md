@@ -8,13 +8,14 @@ Ce menu concerne les messages envoyés par les utilisateurs via le formulaire de
 
 ![Notification par mail](/assets/notif_mail_contact.png)
 
-## Liste des messages
+## Liste des messages {#list-messages}
 
 Vous retrouvez dans ce menu la liste de tous les messages recus. En un clin d'oeil, il est possible de visualiser les messages qui n'ont pas été traités.
 
 ![Liste des messages](/assets/back_list_message.png)
 
-## Détail d'un message
+## Détail d'un message {#detail}
+
 
 Cliquer sur un message pour afficher les détails. Vous retrouverez les informations suivantes sur celui-ci :
 

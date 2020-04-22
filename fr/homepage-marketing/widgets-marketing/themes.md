@@ -2,13 +2,13 @@
 
 Ce widget permet de présenter les thématiques de ce portail. Vous pouvez ajouter, modifier des thématiques et gérer leur ordre d'affichage.
 
-## Thématiques existantes
+## Thématiques existantes {#list-themes}
 
 Ce menu permet d'afficher la liste de tous les thématiques. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer un thématique ou en supprimer une ou plusieurs si besoin. 
 
 !["Menu thématiques existants"](/assets/back_list_theme.png)
 
-## Edition d'une thématique
+## Edition d'une thématique {#editing-theme}
 
 Pour créer un thématique, il suffit de cliquer sur `Édition d'une thématique` dans le menu d'accès. Pour éditer une thématique existante, il suffit de la sélectionner dans le menu précédent.
 L'éditeur permet de modifier les champs suivants (ceux en **gras** étant obligatoires):
@@ -21,7 +21,7 @@ L'éditeur permet de modifier les champs suivants (ceux en **gras** étant oblig
 
 !["Editer un thématique"](/assets/back_edit_theme.png)
 
-## Gérer l'ordre
+## Gérer l'ordre {#order}
 
 Ce menu permet de modifier simplement l'ordre d'affichage des thématiques. 
 En effet, il suffit de sélectionner un thématique et de la glisser déposer avant ou après les autres.
@@ -31,15 +31,15 @@ N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></
 
 !["Changer l'ordre d'affichage des thématiques"](/assets/back_order_theme.png)
 
-## Résultat sur le front-office
+## Résultat sur le front-office {#result}
 
-### Widget dans la page d'accueil marketing
+### Widget dans la page d'accueil marketing {#front-widget-theme}
 
 Les thématiques sont donc "clickables" ce qui permet dorienter l'utilisateur directement vers des recherches filtrées.
 
 !["Widget thématique - côté front"](/assets/front_widget_theme.png)
 
-### Résultat du clic sur une thématique
+### Résultat du clic sur une thématique {result-clic}
 
 Voici ci-dessous le résultat du clic sur la thématique *Réseaux de transport*.
 

@@ -2,13 +2,13 @@
 
 Ce menu permet de gérer les pages que vous souhaitez intégréer en iFrame à votre portail. Vous pouvez donc créer, modifier, supprimer des iFrames.
 
-## iFrames existantes
+## iFrames existantes {#list-iframes}
 
 Ce menu permet d'afficher la liste de toutes les iFrames. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer une iFrame ou les supprimer par lot.
 
 !["Menu iFrames existantes"](/assets/back_list_iframe.png)
 
-## Edition d'une iFrame
+## Edition d'une iFrame {#editing-iframe}
 
 Pour créer une iFrame, il suffit de cliquer sur `Édition d'une iFrame` dans le menu d'accès. Pour éditer une iFrame existante, il suffit de la sélectionner dans le menu précédent.
 Dans les deux cas, vous pourrez utiliser l'éditeur personnalisé dont les champs à renseigner sont les suivants (en **gras** ceux qui sont obligatoires) :
@@ -28,7 +28,7 @@ __Onglet Publication__
 
 !["Editer une iFrame"](/assets/back_edit_iframe.png)
 
-## Résultat sur le front-office
+## Résultat sur le front-office {#result}
 
 Dans cet exemple, nous avons voulu intégrer en iFrame notre widget Web App Builder de démonstration. Voici le résultat :
 

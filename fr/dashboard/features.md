@@ -2,7 +2,7 @@
 
 Le dashboard \(ou tableau de bord\) est la page d’accueil de l’administration du portail \(ou back-office\). Il affiche un certain nombre d’informations statistiques. 
 
-## Contenus
+## Contenus {#contents}
 
 Pour chaque type de contenu, le nombre de contenu et le nombre d'entre eux publié est affiché. En cliquant sur le nombre, l'administrateur est redirigé automatiquement vers la liste de contenus correspondante.
 
@@ -10,7 +10,7 @@ Pour chaque type de contenu, le nombre de contenu et le nombre d'entre eux publi
 
 ---
 
-## Messages reçus
+## Messages reçus {#messages}
 
 Comme pour les contenus, on retrouve les mêmes fonctionnalités pour les messages reçus.
 
@@ -28,7 +28,7 @@ Donne des indicateurs de base sur la répartition des données
 
 ---
 
-## Statistiques des usages
+## Statistiques des usages {#usages}
 
 Résumé des statistiques d'usage et de consultation du portail.
 

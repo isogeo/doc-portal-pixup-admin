@@ -20,7 +20,7 @@ Par défaut, on retrouve les dossiers suivants :
 * dataviz : contient les prévisualisations des [Dataviz](/dataviz/dataviz.md)
 * actualites : contient les images utilisées dans les [actualités](/actualites/articles.md)
 
-## Détail des fonctionnalités du gestionnaire
+## Détail des fonctionnalités du gestionnaire {#detail}
 
 | Bouton / menu | Description |
 | :---: | :--- |

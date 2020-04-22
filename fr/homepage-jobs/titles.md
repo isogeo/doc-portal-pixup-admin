@@ -4,7 +4,7 @@ Ce menu permet de définir le titre et le sous-titre de la page d'accueil *Méti
 
 !["Paramétrage du titre de la page d'accueil métiers"](/assets/back_title_homepage.png)
 
-## Résultat
+## Résultat {#result}
 
 La zone de recherche de la page d'accueil contient le titre et le sous-titre renseigné.
 

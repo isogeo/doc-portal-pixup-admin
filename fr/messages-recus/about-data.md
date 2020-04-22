@@ -9,13 +9,13 @@ Ce menu concerne les messages envoyés par les utilisateurs qui ne peuvent pas p
 
 > Pour information, les administrateurs ne reçoivent pas de notification par mail pour les messages concernant les données.  
 
-## Liste des messages
+## Liste des messages {#list-messages}
 
 Vous retrouvez dans ce menu la liste de tous les messages recus. En un clin d'oeil, il est possible de visualiser les messages qui n'ont pas été traités.
 
 ![Liste des messages](/assets/back_list_aboutdata.png)
 
-## Détail d'un message
+## Détail d'un message {#detail}
 
 Cliquer sur un message pour afficher les détails. Vous retrouverez les informations suivantes sur celui-ci :
 

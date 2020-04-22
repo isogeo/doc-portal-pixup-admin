@@ -2,13 +2,13 @@
 
 Cette section permet de gérer les **Voir aussi** Dawizz des fiches de métadonnées du portail lorsque l'API Dawizz est activée. Il s'agit d'un onglet qui présente à l'utilisateur des fiches liées à celle qu'il est en train de consulter et qui pourrait l'intéresser (cf. capture en bas de la page).
 
-## Eléments existants {#elements}
+## Eléments existants {#list-elements}
 
 Ce menu permet d'afficher la liste de tous les **Voir aussi**. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer un menu ou en supprimer un ou plusieurs si besoin.
 
 !["Menu Eléments existants"](/assets/back_list_saw_dawizz.png)
 
-## Edition d'un élément
+## Edition d'un élément {#editing-element}
 
 Pour créer un **Voir Aussi**, il suffit de cliquer sur `Édition d'un élément` dans le menu d'accès. Pour éditer un **Voir Aussi** existant, il suffit de le sélectionner dans le menu précédent.
 

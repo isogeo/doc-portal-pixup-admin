@@ -1,12 +1,12 @@
 # Prérequis
 
-## Isogeo
+## Isogeo {#isogeo}
 
 * au moins un groupe de travail Isogeo ;
 * au moins un catalogue contenant au moins une métadonnée, partagé à l'application ;
 * des clés d'authentification auprès de l'API Isogeo ;
 
-## Navigateurs recommandés
+## Navigateurs recommandés {#navigators}
 
 * Google Chrome \(5 dernières versions\) ;
 * Mozilla Firefox \(ESR et ultérieures\) ;
@@ -15,7 +15,7 @@
 
 ---
 
-# Environnement technique
+# Environnement technique {#environment}
 
 ## Spécifications serveur
 
@@ -25,7 +25,7 @@
   * [https://id.api.isogeo.com/\*](https://v1.api.isogeo.com/)
 <!-- * accès à l'API nominatim : [https://nominatim.openstreetmap.org/](https://nominatim.openstreetmap.org/) ; -->
 
-### Configuration idéale
+### Configuration idéale {#config}
 
 * Machine physique dédiée
 * Processeur Xeon D1521 2.40 Ghz (x8)
@@ -38,7 +38,7 @@ Si environnement Microsoft
 * Système d’exploitation Windows Server 2012 R2, 2016, 2019
 * IIS minimum v8.5
 
-## Briques logicielles utilisées
+## Briques logicielles utilisées {#softwares}
 
 * PHP : version 7.x minimum ; 
 * MySQL 5.6.26 ;

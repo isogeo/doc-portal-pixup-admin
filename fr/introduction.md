@@ -13,7 +13,7 @@ Dans la vision d’Isogeo, le catalogage n’est qu’une étape intermédiaire 
 
 C’est pourquoi le portail allie l’expertise d’Isogeo en matière de gouvernance et de valorisation des données, la puissance de la plate-forme qui permet de servir les \(méta\)données via son API et le savoir-faire d’une agence de développement et de design web : [PixUp](http://www.pixup.com).
 
-### Des portails orientés usages à portée de tous
+### Des portails orientés usages à portée de tous {#usages}
 
 L’objectif n’est pas de mettre un simple catalogue en consultation mais d’implémenter des fonctionnalités dédiées à l’animation autour du patrimoine de données : retours d’expériences, commentaires, suivi des modifications, comptes utilisateurs, actualités, mise en valeur du SIG etc.
 
@@ -21,21 +21,21 @@ Par ailleurs, il est possible de tirer parti de l'API Isogeo et de proposer un p
 
 ![&quot;Les données sont consommées et produites par différents types de personnes - L&apos;accès doit être simple pour tous&quot;](/assets/misc_data_people.png)
 
-### Au service de la stratégie de diffusion
+### Au service de la stratégie de diffusion {#diffusion}
 
-#### Moteur de recherche Isogeo
+#### Moteur de recherche Isogeo {#search-isogeo}
 
 Le portail intègre évidemment toute la puissance du [moteur de recherche Isogeo](http://help.isogeo.com/fr/features/inventory/search.html) : filtres dynamiques, options de tri des résultats, pagination, etc. le tout dans une interface claire et proche des outils utilisés quotidiennement.
 
 ![&quot;Interface de recherche - Options de filtre et de tri&quot;](/assets/front_search_filters_catalog.png)
 
-#### ...et moteur de recherche Dawizz
+#### ...et moteur de recherche Dawizz {#search-dawizz}
 
 Depuis la version 3.0, le portail peut également intégrer le catalogue de l'application de cartographie globale des données [Dawizz](https://www.dawizz.fr/). Lorsque c'est le cas, ce n'est plus l'API Isogeo qui est utilisée mais l'API pour le moteur de recherche et la présentation des fiches de métadonnées.
 
 ![Interface de recherche Dawizz](/assets/front_search_filters_catalog_dawizz.png)
 
-#### Une gestion de contenus dynamiques et statiques
+#### Une gestion de contenus dynamiques et statiques {#cms}
 
 Le portail n'est pas uniquement focalisé sur les données. En effet, le portail intègre un CMS \(_Content Management System_ ou SGC - Système de Gestion de Contenus\) et permet ainsi l'édition de contenus éditoriaux, comme par exemple :
 
@@ -64,7 +64,7 @@ Voir :
 * [paramétrer l'interface cartographique et la recherche géographique](/settings/search-map/searchmap.md) ;
 * [définir des emprises géographiques de recherche personnalisées](/settings/search-map/searchbbox.md) ; -->
 
-### Dimension participative pour animer le patrimoine immatériel
+### Dimension participative pour animer le patrimoine immatériel {#animation}
 
 Un espace et des options sont dédiées aux utilisateurs authentifiés : accéder à des pages réservées ou à des détails supplémentaires sur les fiches de métadonnées, accéder aux fonctionnalités participatives, créer des listes de données personnalisées...
 
@@ -78,7 +78,7 @@ Voir :
 * [consulter les données évaluées](/stats/evaluations.md) ;
 * [paramétrer les emails](/settings/emails.md) ; -->
 
-## Une administration simple mais puissante
+## Une administration simple mais puissante {#administration}
 
 L'interface d'administration permet de gérer l'accès au portail mais aussi l'affichage des différents champs de métadonnées selon les types d'utilisateurs.
 
@@ -88,20 +88,20 @@ Voir :
 * [gérer les utilisateurs](/users/users.md) ;
 * [gérer l'affichage selon le type d'utilisateur](/settings/display/user-display.md).
 
-### Un portail personnalisable
+### Un portail personnalisable {#personnalisation}
 
 Le portail de données peut être personnalisé aux couleurs de votre organisme (charte graphique, logo, menu affichés, authentification, etc.). Ci-dessous quelques-unes de nos réalisations :
 
 * Syndicat Mixte d’Aménagement de la Vallée de la Durance [http://geocatalogue.smavd.org/](http://geocatalogue.smavd.org/)
 * Le portail de démonstration \(parfois en travaux\) : [http://demo.isogeo.net](http://demo.isogeo.net)
 
-#### Interface multi-supports
+#### Interface multi-supports {#multi-support}
 
 L'interface du portail est responsive design pour s'adapter aux différents formats des supports de consultation (ordinateur, smartphone, tablette...).
 
 ![](/assets/portal_mobile.jpg)
 
-### Un champ fonctionnel large, complet et cohérént
+### Un champ fonctionnel large, complet et cohérént {#panoply}
 
 Beaucoup d’autres fonctionnalités viennent compléter l'expérience utilisateur :
 

@@ -2,7 +2,7 @@
 
 # Guide d'administration du portail de données basé sur Isogeo
 
-## Description
+## Description {#description}
 
 Le portail de données est une application tierce de la plateforme Isogeo dont le principal objectif est d'offrir une interface d'accès et de valorisation des données orientée usages : recherche, consultation, téléchargement, abonnement, commentaires, évaluations, etc mais aussi de promouvoir le SIG au travers de widgets, d'articles et de pages web entièrement éditables.
 
@@ -10,7 +10,7 @@ Ce livre est le guide d'administration du portail. Il se base sur le portail de 
 
 ![&quot;Patchwork de portails Isogeo - Image de couverture&quot;](/assets/cover_portfolio.png)
 
-## Caractéristiques
+## Caractéristiques {#characteristics}
 
 Le portail de données est développé par Isogeo et [Pixup](http://www.pixup.com/). Il est mis en place de préférence en mode hébergé par Isogeo, dans le cadre d'une prestation de développement, accompagnée d'une offre de maintenance qui inclue la mise à jour au fur et à mesure des évolutions \(plus de 2 versions par an\). Il est alors soumis aux conditions de licence de la plateforme Isogeo.
 

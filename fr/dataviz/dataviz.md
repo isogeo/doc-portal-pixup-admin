@@ -6,7 +6,7 @@ Chaque Dataviz permet de filtrer automatiquement sur une recherche. Par exemple 
 
 ![Dataviz Isogeo](/assets/front_dataviz_cloud_keywords.png)
 
-## Dataviz Isogeo
+## Dataviz Isogeo {#isogeo-dataviz}
 
 **Nuages de mots**
 * Principaux mots-clés associés aux données
@@ -30,7 +30,7 @@ Chaque Dataviz permet de filtrer automatiquement sur une recherche. Par exemple 
 
 ![Dataviz Isogeo](/assets/front_dataviz_isogeo.png)
 
-## Dataviz Dawizz
+## Dataviz Dawizz {#dawizz-dataviz}
 
 **Arbre**
 * Sources de données et concepts

@@ -2,13 +2,13 @@
 
 Ce menu permet de gérer les menus de ce portail. Vous pouvez ajouter, modifier des menus et gérer leur ordre d'affichage.
 
-## Eléments existants
+## Eléments existants {#list-elements}
 
 Ce menu permet d'afficher la liste de tous les menus. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer un menu ou en supprimer un ou plusieurs si besoin. 
 
 !["Menu Eléments existants"](/assets/back_list_menu.png)
 
-## Edition d'un menu
+## Edition d'un menu {#editing-element}
 
 Pour créer un menu, il suffit de cliquer sur `Édition d'un élément` dans le menu d'accès. Pour éditer un menu existant, il suffit de le sélectionner dans le menu précédent.
 L'éditeur permet de modifier les champs suivants (ceux en **gras** étant obligatoires):
@@ -32,7 +32,7 @@ L'éditeur permet de modifier les champs suivants (ceux en **gras** étant oblig
 
 !["Editer un menu"](/assets/back_edit_menu.png)
 
-## Gérer l'ordre
+## Gérer l'ordre {#order}
 
 Ce menu permet de modifier simplement l'ordre d'affichage des menus.
 En effet, il suffit de sélectionner un menu et de le glisser déposer avant ou après les autres.
@@ -42,7 +42,7 @@ N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></
 
 !["Changer l'ordre d'affichage des menus"](/assets/back_order_menu.png)
 
-## Résultat sur le front-office
+## Résultat sur le front-office {#result}
 
 Les menus sont accessibles en permanence lors de la navigation sur le portail car ils sont ajoutés à l'en-tête du site.
 

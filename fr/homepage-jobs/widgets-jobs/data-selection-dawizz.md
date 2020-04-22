@@ -4,13 +4,13 @@ Lorsque l'API Dawizz est [activée](/settings/general.md#api), le widget de sél
 
 Ce widget permet de sélectionner les données du catalogue que vous souhaitez mettre en avant depuis la page d'accueil du site. Vous pouvez personnaliser cette sélection dans les menus suivants.
 
-## Sélections existantes
+## Sélections existantes {#list-selections}
 
 Ce menu permet d'afficher la liste de toutes les données sélectionnées. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer une sélection ou en supprimer une ou plusieurs si besoin. 
 
 !["Menu Sélections existantes"](/assets/back_list_selection_dawizz.png)
 
-## Edition d'une sélection
+## Edition d'une sélection {editing-selection}
 
 Pour créer une sélection, il suffit de cliquer sur `Ajout d'une sélection` dans le menu d'accès. Pour éditer une sélection existante, il suffit de la sélectionner dans le menu précédent.
 
@@ -22,9 +22,9 @@ Un fois l'ID récupéré, cliquer sur mettre à jour pour générer automatiquem
 
 ![Fiche générée](/assets/back_edit_selection_dawizz.png)
 
-## Résultat sur le front-office
+## Résultat sur le front-office {#result}
 
-### Widget dans la page d'accueil métier
+### Widget dans la page d'accueil métier {front-widget-selection}
 
 Les sélections sont présentées dans un widget de type "Slider". En cliquant sur le titre, l'utilisateur accède directement à la fiche concernée dans le portail.
 

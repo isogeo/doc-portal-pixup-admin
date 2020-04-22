@@ -2,13 +2,13 @@
 
 Ce menu permet de créer, modifier et supprimer les utilisateurs du portail.
 
-## Utilisateurs existants
+## Utilisateurs existants {#list-users}
 
 Ce menu permet d'afficher la liste de tous les utilisateurs. La recherche fonctionne sur tous les champs du tableau (Nom, Prénom, Email et Droit), un système de pagination a également été implémenté. Vous pouvez éditer un utilisateur en le sélectionnant mais aussi supprimer un ou plusieurs utilisateurs.
 
 !["Menu Utilisateurs existants"](/assets/back_list_user.png)
 
-## Edition d'un utilisateur
+## Edition d'un utilisateur {editing-user}
 
 Pour créer un utilisateur, il suffit de cliquer sur `Édition d'un utilisateur` dans le menu d'accès. Pour éditer un utilisateur existant, il suffit de la sélectionner dans le menu précédent.
 
