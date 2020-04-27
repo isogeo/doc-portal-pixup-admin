@@ -32,13 +32,19 @@ Le portail intègre évidemment toute la puissance du [moteur de recherche Isoge
 
 ![&quot;Interface de recherche - Options de filtre et de tri&quot;](/assets/front_search_filters_catalog.png)
 
-#### ...et moteur de recherche Dawizz {#search-dawizz}
+#### ...ou moteur de recherche Dawizz {#search-dawizz}
 
 Depuis la version 3.0, le portail peut également intégrer le catalogue de l'application de cartographie globale des données [Dawizz](https://www.dawizz.fr/). Lorsque c'est le cas, ce n'est plus l'API Isogeo qui est utilisée mais l'API pour le moteur de recherche et la présentation des fiches de métadonnées.
 
 ![Interface de recherche Dawizz](/assets/front_search_filters_catalog_dawizz.png)
 
-#### Une gestion de contenus dynamiques et statiques {#cms}
+#### ...et moteur de recherche transverse {#search-transverse}
+
+La barre de recherche permet de rechercher à la fois dans les données mais aussi sur l'ensemble des éléments du site (widgets, actualités, pages...).
+
+![Barre de recherche sur tout le site](/assets/front_search_transverse.png)
+
+### Une gestion de contenus dynamiques et statiques {#cms}
 
 Le portail n'est pas uniquement focalisé sur les données. En effet, le portail intègre un CMS \(_Content Management System_ ou SGC - Système de Gestion de Contenus\) et permet ainsi l'édition de contenus éditoriaux, comme par exemple :
 
@@ -67,19 +73,31 @@ Voir :
 * [paramétrer l'interface cartographique et la recherche géographique](/settings/search-map/searchmap.md) ;
 * [définir des emprises géographiques de recherche personnalisées](/settings/search-map/searchbbox.md) ; -->
 
+### Un système de double-page d'accueil {#double-homepage}
+
+Nous avons repensé notre portail pour qu'il offre la possibilité à l'équipe SIG de présenter à la fois les données mais aussi d'autres informations sur leur travail, les usages, l'écosystème etc... dans le but d'élargir le public suceptible de consulter le portail. C'est pourquoi, nous avons mis en place deux pages d'accueil :
+
+* l'une orientée "Métiers", pour les utilisateurs quotidiens du SIG,
+* et l'autre orientée "Marketing", qui valorise le SIG auprès d'un public plus large.
+
+Voir :
+
+* [Les widgets de la page d'accueil Marketing](/homepage-marketing/widgets-marketing/titles.md) ;
+* [Les widgets de la page d'accueil Métiers](/homepage-jobs/titles.md) ;
+* [Choisir la page d'accueil principale](/settings/general.md#nature).
+
 ### Dimension participative pour animer le patrimoine immatériel {#animation}
 
 Un espace et des options sont dédiées aux utilisateurs authentifiés : accéder à des pages réservées ou à des détails supplémentaires sur les fiches de métadonnées, accéder aux fonctionnalités participatives, créer des listes de données personnalisées...
 
-Un outil de travail optimisé grâce aux notifications : un utilisateur peut choisir de s’abonner à certaines données \(via les listes\) toutes les semaines \(période personnalisable\) il reçoit un rapport par mail lui indiquant quelles données ont été modifiées entre temps sans aucune intervention de la part de l’administrateur.
+Un outil de travail optimisé grâce aux notifications : un utilisateur peut choisir de s’abonner à certaines données (via les listes) toutes les semaines (période personnalisable) il reçoit un rapport par mail lui indiquant quelles données ont été modifiées entre temps sans aucune intervention de la part de l’administrateur.
 
 ![Page de gestion du compte pour les utilisateurs authentifiés](/assets/front_my_account.png)
 
 Voir :
 
-<!-- * [modérer les commentaires](/messages-recus/comment.md) ;
-* [consulter les données évaluées](/stats/evaluations.md) ;
-* [paramétrer les emails](/settings/emails.md) ; -->
+* [modérer les commentaires](/messages-recus/about-data.md) ;
+* [paramétrer les emails](/settings/general.md#reception_emails) ;
 
 ## Une administration simple mais puissante {#administration}
 
