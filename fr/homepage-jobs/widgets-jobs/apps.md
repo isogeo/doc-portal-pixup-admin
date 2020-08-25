@@ -1,5 +1,5 @@
 ---
-description: Gérer le widget Applications de la page métier du portail Isogeo
+description: Gérer le widget Apps de la page métier du portail Isogeo
 ---
 # Apps
 
@@ -8,7 +8,7 @@ Vous pouvez créer, modifier des apps et gérer leur ordre d'affichage.
 
 ## Apps existantes {#list-apps}
 
-Ce menu permet d'afficher la liste de toutes les apps. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer une app ou en supprimer une ou plusieurs si besoin. Pour information, le portail est livré avec des apps par défault.
+Ce menu permet d'afficher la liste de toutes les apps. Une barre de recherche (sur le nom) et un système de pagination ont été implémentés. Vous pouvez éditer une app ou en supprimer une ou plusieurs si besoin. Pour information, le portail est livré avec des apps par défaut.
 
 !["Menu apps existantes"](/assets/back_list_app.png)
 

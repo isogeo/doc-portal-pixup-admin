@@ -36,7 +36,7 @@ Valeurs possibles :
 * Portail géomatique
 * Portail marketing
 
-Selon le choix, la page d'accueil du site sera respectivement la [page d'accueil métier](/homepage-jobs/titles.md) ou la [page d'accueil marketing](/homepage-marketing/widget-marketing/titles.md).
+Selon le choix, la page d'accueil du site sera respectivement la [page d'accueil métiers](/homepage-jobs/titles.md) ou la [page d'accueil marketing](/homepage-marketing/widget-marketing/titles.md).
 
 ### Nom du site {#site-name}
 
@@ -50,13 +50,13 @@ Le nom du site choisi s'affiche dans le titre de l'onglet de votre navigateur.
 
 Il s'agit de tous les paramètres concernant les API Isogeo et Dawizz.
 
-* API utilisée : cocher la case `Dawizz` pour activer l'API Dawizz. Sinon, seule l'API Isogeo est utilisée par défault.
+* API utilisée : cocher la case `Dawizz` pour activer l'API Dawizz. Sinon, seule l'API Isogeo est utilisée par défaut.
 * Isogeo Consumer Key : Identifiant d'authentification à l'API Isogeo
-* Isogeo Consumer Secret : Clé d'authentificaiton à l'API Isogeo
+* Isogeo Consumer Secret : Clé d'authentification à l'API Isogeo
 * Dawizz API Key : Clé de l'API Dawizz. Ce champ est obligatoire si vous utilisez l'API Dawizz pour accéder à votre catalogue de données.
-* Isogeo URL oAuth : URL de l'API Isogeo (par défault : https://id.api.isogeo.com/oauth/token)
-* Isogeo URL APP : URL de l'application Isogeo (par défault : http://app.isogeo.com)
-* Isogeo Protocole API * : URL du protocole de l'API Isogeo (par défault : https://v1.api.isogeo.com)
+* Isogeo URL oAuth : URL de l'API Isogeo (par défaut: https://id.api.isogeo.com/oauth/token)
+* Isogeo URL APP : URL de l'application Isogeo (par défaut: http://app.isogeo.com)
+* Isogeo Protocole API * : URL du protocole de l'API Isogeo (par défaut: https://v1.api.isogeo.com)
 
 ----
 
@@ -106,7 +106,7 @@ Voici le résultat de la notification par mail avec les paramètres par défaut.
 
 ## Serveur de courriels {#mail_server}
 
-Il est possible d'utiliser son propre serveur de mail pour l'envoi des notifications ci-dessus.
+Il est possible d'utiliser son propre serveur de mails pour l'envoi des notifications ci-dessus.
 Ceci est très pratique pour passer les multiples sécurités informatiques mises en place au sein de votre organisme.
 
 Il faut donc renseigner les champs suivants :

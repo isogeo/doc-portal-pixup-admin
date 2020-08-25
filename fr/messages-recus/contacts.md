@@ -7,7 +7,7 @@ Ce menu concerne les messages envoyés par les utilisateurs via le formulaire de
 
 !["Formulaire de contact](/assets/front_contact.png)
 
-> Pour information, les administrateurs reçoivent également une notification par mail. La configuration des emails de reception s'effectue dans les [paramètres](/settings/general.md#reception_emails).  
+> Pour information, les administrateurs reçoivent également une notification par mail. La configuration des emails de réception s'effectue dans les [paramètres](/settings/general.md#reception_emails).  
 
 ![Notification par mail](/assets/notif_mail_contact.png)
 
@@ -19,10 +19,9 @@ Vous retrouvez dans ce menu la liste de tous les messages recus. En un clin d'oe
 
 ## Détail d'un message {#detail}
 
-
 Cliquer sur un message pour afficher les détails. Vous retrouverez les informations suivantes sur celui-ci :
 
-* Date et heure de reception
+* Date et heure de réception
 * Nom de l'expéditeur
 * Email de l'expéditeur
 * Objet du message

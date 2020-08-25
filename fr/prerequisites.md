@@ -5,9 +5,13 @@ description: Pré-requis techniques du portail Isogeo
 
 ## Isogeo {#isogeo}
 
+Un paramétrage de la plateforme Isogeo est nécéssaire, il faut : 
+
 * au moins un groupe de travail Isogeo ;
 * au moins un catalogue contenant au moins une métadonnée, partagé à l'application ;
 * des clés d'authentification auprès de l'API Isogeo ;
+
+Ce paramétrage est généralement réalisé par l'équipe Isogeo.
 
 ## Navigateurs recommandés {#navigators}
 

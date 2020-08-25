@@ -7,7 +7,7 @@ Ce widget permet de mettre en avant des pages du portail. Vous pouvez créer, mo
 
 ## Mises en avant existantes {#list-frieze}
 
-Ce menu permet d'afficher la liste de toutes les mises en avant documentées. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer une mise en avant ou en supprimer une ou plusieurs si besoin. 
+Ce menu permet d'afficher la liste de toutes les mises en avant documentées. Une barre de recherche (sur le nom) et un système de pagination ont été implémentés. Vous pouvez éditer une mise en avant ou en supprimer une ou plusieurs si besoin. 
 
 !["Menu apps existantes"](/assets/back_list_frieze.png)
 

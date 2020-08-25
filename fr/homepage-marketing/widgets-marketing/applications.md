@@ -7,7 +7,7 @@ Ce widget permet de présenter les différentes applications SIG mises en place 
 
 ## Apps existantes {#list-apps}
 
-Ce menu permet d'afficher la liste de toutes les applications documentées. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer une application ou en supprimer une ou plusieurs si besoin. 
+Ce menu permet d'afficher la liste de toutes les applications documentées. Une barre de recherche (sur le nom) et un système de pagination ont été implémentés. Vous pouvez éditer une application ou en supprimer une ou plusieurs si besoin. 
 
 !["Menu apps existantes"](/assets/back_list_application.png)
 

@@ -8,7 +8,7 @@
 
 * Refonte de l'apparence générale du site
 * Mise en place du concept de double page d'accueil avec des widgets paramétrables
-  * Page orientée Métier
+  * Page orientée Métiers
   * Page orientée Marketing
 * Ajout d'un module de Dataviz
 * Intégration de l'API Dawizz

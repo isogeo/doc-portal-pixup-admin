@@ -3,11 +3,11 @@ description: Ecrire un article présentant une actualité dans le portail Isogeo
 ---
 # Actualités
 
-Ce menu permet de rédiger des articles autour du SIG. Vous pouvez créer, modifier ou supprimer des articles et les ranger par catégories.
+Ce menu permet de rédiger des articles autour du SIG. Vous pouvez créer, modifier ou supprimer des articles et les ranger par catégorie.
 
 ## Articles existants {#list-news}
 
-On retrouve ici la liste de tous les articles rédigés. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer un article ou en supprimer un ou plusieurs si besoin.
+On retrouve ici la liste de tous les articles rédigés. Une barre de recherche (sur le nom) et un système de pagination ont été implémentés. Vous pouvez éditer un article ou en supprimer un ou plusieurs si besoin.
 
 !["Menu articles existants"](/assets/back_list_article.png)
 

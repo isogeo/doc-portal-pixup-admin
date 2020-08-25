@@ -11,9 +11,9 @@ Ce menu permet d'afficher la liste de tous les utilisateurs. La recherche foncti
 
 !["Menu Utilisateurs existants"](/assets/back_list_user.png)
 
-## Edition d'un utilisateur {editing-user}
+## Edition d'un utilisateur {#editing-user}
 
-Pour créer un utilisateur, il suffit de cliquer sur `Édition d'un utilisateur` dans le menu d'accès. Pour éditer un utilisateur existant, il suffit de la sélectionner dans le menu précédent.
+Pour créer un utilisateur, il suffit de cliquer sur `Édition d'un utilisateur` dans le menu d'accès. Pour éditer un utilisateur existant, il suffit de le sélectionner dans le menu précédent.
 
 Dans les deux cas, vous pourrez utiliser l'éditeur personnalisé dont les champs à renseigner sont les suivants (en **gras** ceux qui sont obligatoires) :
 
@@ -36,7 +36,7 @@ Dans les deux cas, vous pourrez utiliser l'éditeur personnalisé dont les champ
   * Au moins une parenthèse ([,],{,},(,),<,>)
 * **Confirmation du mot de passe** : Confirmer le mot de passe
 * Remarques : Remarques associées à l'utilisateur
-* Utilisateur Isogeo : L'utilisateur a t'il accès à la plateforme d'administration et d'édition des métadonnées (app.isogeo.com) ?
+* Utilisateur Isogeo : L'utilisateur a-t-il accès à la plateforme d'administration et d'édition des métadonnées (app.isogeo.com) ?
 * Utilisateur actif : L'utilisateur est-il actif sur le portail ?
 
 !["Editer un utilisateur"](/assets/back_edit_user.png)
@@ -51,7 +51,7 @@ Le super Admin peut administrer et configurer tout le portail Isogeo via l'[inte
 
 * Admin rédacteur
 
-L' admin rédacteur a lui aussi accès à l'[interface d'administration](http://demo.isogeo.net/admin/menu.php?menu_item=dashboard). Cependant il ne peut modifier que le contenu du portail \(actualités, menus...\). 
+L'admin rédacteur a lui aussi accès à l'[interface d'administration](http://demo.isogeo.net/admin/menu.php?menu_item=dashboard). Cependant, il ne peut modifier que le contenu du portail \(actualités, menus...\). 
 
 * Utilisateur privilégié
 
@@ -59,7 +59,7 @@ L'utilisateur privilégié est un utilisateur particulier qui peut jongler entre
 
 * Utilisateur authentifié
 
-L' utilisateur authentifié peut utiliser la plupart des fonctionnalités du portail. Il peut consulter les fiches de métadonnées, les actualités, créer des listes, noter les fiches etc...
+L' utilisateur authentifié peut utiliser la plupart des fonctionnalités du portail. Il peut consulter les fiches de métadonnées, les actualités, créer des listes, noter les fiches, etc...
 
 ## Matrice des droits utilisateurs {#matrice}
 

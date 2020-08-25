@@ -7,7 +7,7 @@ Ce widget permet de présenter les différents groupes mis en place au sein de v
 
 ## Groupes existants {#list-groups}
 
-Ce menu permet d'afficher la liste de tous les groupes de travail documentés. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer un groupe de travail ou en supprimer un ou plusieurs si besoin. 
+Ce menu permet d'afficher la liste de tous les groupes de travail documentés. Une barre de recherche (sur le nom) et un système de pagination ont été implémentés. Vous pouvez éditer un groupe de travail ou en supprimer un ou plusieurs si besoin. 
 
 !["Menu groupe existants"](/assets/back_list_group.png)
 

@@ -3,17 +3,17 @@ description: Gérer les paramètres d'affichage selon les profils utilisateurs d
 ---
 # Paramètres d'affichage selon le type d'utilisateur
 
-Pour chaque niveau de droit, *Super Admin*, *Admin Rédacteur*, *Utilisateur avec privilèges*, *Utilisateur authentifié* et *Utilisateur public* il est possible de paramétrer toutes les paramètres ci-dessous.
+Pour chaque niveau de droit, *Super Admin*, *Admin Rédacteur*, *Utilisateur avec privilèges*, *Utilisateur authentifié* et *Utilisateur public* il est possible de paramétrer tous les paramètres ci-dessous.
 
 ## Nombre de résultats par page {#nb-result-page}
 
-Le nombre doit être compris entre 10 et 100 par pas de 10.
+Le nombre doit être compris entre 10 et 100 avec un pas de 10.
 
 ## Partages accessibles {#shares}
 
 Il est possible de créer plusieurs partages dans l'[interface d'administration d'Isogeo](https://app.isogeo.com/admin/shares) puis de choisir le ou les partages accessibles par niveau de droit.
 
-Si aucun partage n'est sélectionné, toutes les données partagée à l'application *Portail* sont accessibles.
+Si aucun partage n'est sélectionné, toutes les données partagées à l'application *Portail* sont accessibles.
 
 ### Exemple d'utilisation de la fonctionnalité {#shares-example}
 
@@ -41,7 +41,7 @@ Lorsque le partage avec iFrame est activé, le bouton ci-après s'affiche à cot
 
 En cliquant, un code intégrable en iFrame dans un site web est automatiquement généré (cf. Capture ci-dessous).
 
-!["Code iFrame à intégré dans une page web"](/assets/front_button_copy_iframe.png)
+!["Code iFrame à intégrer dans une page web"](/assets/front_button_copy_iframe.png)
 
 ## Noter une fiche {#note}
 
@@ -55,7 +55,7 @@ Si oui, l'utilisateur peut visualiser les notes sur les fiches de métadonnée.
 
 ## Masquer les données de type "Services" (API Isogeo) {#services}
 
-Cette fonctionnalité permet de masquer les fiches de services dans le catalogue et le filtre correspondant. En revanche, elles sont toujours comptabilisées dans le nombre de résultat de la recherche.
+Cette fonctionnalité permet de masquer les fiches de services dans le catalogue et le filtre correspondant. En revanche, elles sont toujours comptabilisées dans le nombre de résultats de la recherche.
 
 !["Résultats dans le front office lorsque les fiches de services sont masquées"](/assets/front_without_services.png)
 
@@ -118,7 +118,7 @@ Vous pouvez choisir ici d'afficher ou non les onglets ci-dessous selon le profil
 
 ##### Fiches Isogeo {#isogeo-description}
 
-Pour les fiches Isogeo, l'onglet description présente la plupart des champs de métadonnées
+Pour les fiches Isogeo, l'onglet description présente la plupart des champs de métadonnées :
 
 * Résumé
 * Information techniques
@@ -151,7 +151,7 @@ Pour les fiches Isogeo, l'onglet description présente la plupart des champs de 
 
 ##### Fiches Dawizz {#dawizz-description}
 
-Pour les fiches Dawizz, on retrouve les champs suivants
+Pour les fiches Dawizz, on retrouve les champs suivants :
 
 * Description
 * Mots-clés et thématiques
@@ -237,7 +237,7 @@ Cet onglet permet de visualiser les fils de discussion existants ou d'en créer 
 
 #### Voir aussi {#see-as-well}
 
-Cet onglet permet de visualiser les données ajoutées au "Voir-aussi" par l'administrateur. (cf. [Voir Aussi Isogeo](/see-as-well/s_a_w_isogeo.md)).
+Cet onglet permet de visualiser les données ajoutées au "Voir aussi" par l'administrateur. (cf. [Voir Aussi Isogeo](/see-as-well/s_a_w_isogeo.md)).
 
 !["Onglet Voir aussi d'une fiche Isogeo"](/assets/front_metadata_isogeo_saw.png)
 
@@ -248,11 +248,11 @@ Cet onglet permet de visualiser les données ajoutées au "Voir-aussi" par l'adm
 * Conditions : afficher/masquer les conditions (cf. [Onglet Description - Conditions d'accès et d'utilisation](#isogeo-description))
 * Limitations :  afficher/masquer les limitations (cf. [Onglet Description - Limitations](#isogeo-description))
 * Contact :  afficher/masquer les contacts (cf. [Onglet Description - Contacts](#isogeo-description))
-* Chat actif : active/désactive l'accès au tchat. Si le tchat est désactivé, l'utilisateur peut quand même envoyer un message à l'administrateur (cf. Capture ci-dessous).
+* Chat actif : active/désactive l'accès au chat. Si le chat est désactivé, l'utilisateur peut quand même envoyer un message à l'administrateur (cf. Capture ci-dessous).
 
-!["Formulaire de contact de l'onglet Discussion lorsque le tchat est désactivé"](/assets/front_metadata_tchat_desactive.png)
+!["Formulaire de contact de l'onglet Discussion lorsque le chat est désactivé"](/assets/front_metadata_tchat_desactive.png)
 
-> Le *Tchat* ne peut être activé qu'aux utilisateurs authentifiés sur la plateforme. Il n'est donc pas accessible aux utilisateurs publics.
+> Le *chat* ne peut être activé qu'aux utilisateurs authentifiés sur la plateforme. Il n'est donc pas accessible aux utilisateurs publics.
 
 ### Pavés des fiches de métadonnées {#cobblestones}
 

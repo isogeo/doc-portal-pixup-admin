@@ -3,11 +3,11 @@ description: Gérer les iFrames intégrés au portail Isogeo
 ---
 # iFrames
 
-Ce menu permet de gérer les pages que vous souhaitez intégréer en iFrame à votre portail. Vous pouvez donc créer, modifier, supprimer des iFrames.
+Ce menu permet de gérer les pages que vous souhaitez intégrer en iFrame à votre portail. Vous pouvez donc créer, modifier, supprimer des iFrames.
 
 ## iFrames existantes {#list-iframes}
 
-Ce menu permet d'afficher la liste de toutes les iFrames. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer une iFrame ou les supprimer par lot.
+Ce menu permet d'afficher la liste de toutes les iFrames. Une barre de recherche (sur le nom) et un système de pagination ont été implémentés. Vous pouvez éditer une iFrame ou les supprimer par lot.
 
 !["Menu iFrames existantes"](/assets/back_list_iframe.png)
 
@@ -26,7 +26,7 @@ __Onglet Méta-balises__
 * Description : Mini-résumé descriptif de l'iFrame
 
 __Onglet Publication__
-* Rubrique : Menu du site ou vous souhaitez intégré l'iframe
+* Rubrique : Menu du site où vous souhaitez intégrer l'iFrame
 * Case à cocher pour activer le mode *brouillon* qui permet de ne pas publier l'iFrame.
 
 !["Editer une iFrame"](/assets/back_edit_iframe.png)

@@ -4,11 +4,11 @@ description: Gérer les Voir aussi Isogeo du portail Isogeo
 # Voir aussi Isogeo
 
 Cette section permet de gérer les **Voir aussi** des fiches de métadonnées du portail.
-Il s'agit d'un onglet qui présente à l'utilisateur des fiches liées à celle qu'il est en train de consulter et qui pourrait l'intéresser (cf. capture en bas de la page).
+Il s'agit d'un onglet qui présente à l'utilisateur des fiches liées à celle qu'il est en train de consulter et qui pourraient l'intéresser (cf. capture en bas de la page).
 
 ## Eléments existants {#list-elements}
 
-Ce menu permet d'afficher la liste de tous les **Voir aussi**. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer un menu ou en supprimer un ou plusieurs si besoin.
+Ce menu permet d'afficher la liste de tous les **Voir aussi**. Une barre de recherche (sur le nom) et un système de pagination ont été implémentés. Vous pouvez éditer un menu ou en supprimer un ou plusieurs si besoin.
 
 !["Menu Eléments existants"](/assets/back_list_saw.png)
 

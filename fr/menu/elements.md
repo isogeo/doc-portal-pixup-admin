@@ -7,7 +7,7 @@ Ce menu permet de gérer les menus de ce portail. Vous pouvez ajouter, modifier 
 
 ## Eléments existants {#list-elements}
 
-Ce menu permet d'afficher la liste de tous les menus. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer un menu ou en supprimer un ou plusieurs si besoin. 
+Ce menu permet d'afficher la liste de tous les menus. Une barre de recherche (sur le nom) et un système de pagination ont été implémentés. Vous pouvez éditer un menu ou en supprimer un ou plusieurs si besoin. 
 
 !["Menu Eléments existants"](/assets/back_list_menu.png)
 
@@ -19,7 +19,7 @@ L'éditeur permet de modifier les champs suivants (ceux en **gras** étant oblig
 * **Titre**
 * **Type d'entrée**
     * Lien vers accueil du site : soit la page choisie dans les [paramètres](/fr/settings/general.md) du portail
-    * Lien vers la page géomatique : soit la [page d'accueil métier](/homepage-jobs/titles.md)
+    * Lien vers la page géomatique : soit la [page d'accueil métiers](/homepage-jobs/titles.md)
     * Lien vers la page marketing : soit la [page d'accueil marketing](/homepage-marketing/widget-marketing/titles.md)
     * Lien vers la page "Actualités" : soit la [page de présentation des actualités](/actualites/articles.md)
     * Lien vers la page "Contact" : soit la [page de contact](/messages-recus/contacts.md)
@@ -29,7 +29,7 @@ L'éditeur permet de modifier les champs suivants (ceux en **gras** étant oblig
     * Lien vers une actualités : soit une actualité parmi la liste des [actualités existantes](/actualites/articles.md)
     * Saisie d'une url directe : soit une URL externe au portail
         * **Url** : soit l'url en question
-        * Fenetrage : choisir si le lien doit être ouvert dans une nouvelle fenêtre ou dans la fenêtre courante
+        * Fenêtrage : choisir si le lien doit être ouvert dans une nouvelle fenêtre ou dans la fenêtre courante
     * Lien vers une iFrame : soit une iFrame parmi la [liste des iFrames existantes](/pages-iframes/iframes.md)
 * Case à cocher pour activer le mode *brouillon* qui permet de ne pas publier le menu.
 

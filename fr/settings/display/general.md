@@ -25,11 +25,11 @@ Il est possible de paramétrer 5 couleurs qui vont s'appliquer à différents é
 
 Cet item est réservé aux utilisateurs avancés et permet de personnaliser l'apparence de n'importe quel élément du site avec des [commandes CSS](https://developer.mozilla.org/fr/docs/Web/CSS).
 
-Cette fonctionnalité ne doit évidemment être utilisé que pour des éléments qui ne sont pas paramétrables dans les autres menus d'administration du site.
+Cette fonctionnalité ne doit évidemment être utilisée que pour des éléments qui ne sont pas paramétrables dans les autres menus d'administration du site.
 
 ## Visuels {#visuals}
 
-Pour chaque item ci-dessous, il est possible de choisir une image. Pour cela, cliquer sur *Ajouter* ou *Effacer puis Ajouter* pour insérer une image depuis le [gestionnaire de média](/medias/filesmanager.md).
+Pour chaque item ci-dessous, il est possible de choisir une image. Pour cela, cliquer sur *Ajouter* ou *Effacer puis Ajouter* pour insérer une image depuis le [gestionnaire de médias](/medias/filesmanager.md).
 
 * Zone de recherche
 * Logo

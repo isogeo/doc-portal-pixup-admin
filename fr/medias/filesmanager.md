@@ -4,7 +4,7 @@ description: Gérer les médias (fichiers) hébergés sur le portail Isogeo
 # Gérer les médias
 
 Ce menu donne accès à l'outil d'ajout et de gestion des fichiers [
-RESPONSIVE filemanager v.9](https://www.responsivefilemanager.com/index.php). Tout fichier appartenant à ce gestionnaire peut être insérer dans les contenus du portail le permettant (articles, pages, icône ou image de widget...).
+RESPONSIVE filemanager v.9](https://www.responsivefilemanager.com/index.php). Tout fichier appartenant à ce gestionnaire peut être inséré dans les contenus du portail le permettant (articles, pages, icône ou image de widget...).
 
 > **Attention**, si vous utilisez le portail en version internalisée, il est fortement déconseillé d'ajouter des fichiers directement depuis le serveur. Cela engendrerait un problème de droits.
 

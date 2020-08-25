@@ -7,7 +7,7 @@ Ce widget permet de présenter les différents partenaires du SIG au sein de vot
 
 ## Partenaires existants {#list-partners}
 
-Ce menu permet d'afficher la liste de tous les partenaires. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer un partenaire ou en supprimer un ou plusieurs si besoin. 
+Ce menu permet d'afficher la liste de tous les partenaires. Une barre de recherche (sur le nom) et un système de pagination ont été implémentés. Vous pouvez éditer un partenaire ou en supprimer un ou plusieurs si besoin. 
 
 !["Menu partenaires existants"](/assets/back_list_partner.png)
 

@@ -7,7 +7,7 @@ Ce widget permet de présenter les usages de ce portail. Vous pouvez ajouter, mo
 
 ## Usages existants {#list-usages}
 
-Ce menu permet d'afficher la liste de tous les usages. Une barre de recherche (sur le nom) et un système de pagination ont été implémenté. Vous pouvez éditer un usage ou en supprimer un ou plusieurs si besoin.
+Ce menu permet d'afficher la liste de tous les usages. Une barre de recherche (sur le nom) et un système de pagination ont été implémentés. Vous pouvez éditer un usage ou en supprimer un ou plusieurs si besoin.
 
 !["Menu usages existants"](/assets/back_list_usage.png)
 
@@ -39,6 +39,6 @@ N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></
 
 ### Widget dans la page d'accueil marketing {#front-widget-usage}
 
-Les usages sont donc présentés dans un widget de type "Slider". Il n'y a pas de page personnalisée pour chaque usage, ces-derniers ne sont donc pas "clickables".
+Les usages sont donc présentés dans un widget de type "Slider". Il n'y a pas de page personnalisée pour chaque usage, ces derniers ne sont donc pas "clickables".
 
 !["Widget usage - côté front"](/assets/front_widget_usages.png)

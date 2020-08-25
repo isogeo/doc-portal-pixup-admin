@@ -18,7 +18,7 @@ C’est pourquoi le portail allie l’expertise d’Isogeo en matière de gouver
 
 ### Des portails orientés usages à portée de tous {#usages}
 
-L’objectif n’est pas de mettre un simple catalogue en consultation mais d’implémenter des fonctionnalités dédiées à l’animation autour du patrimoine de données : retours d’expériences, commentaires, suivi des modifications, comptes utilisateurs, actualités, mise en valeur du SIG etc.
+L’objectif n’est pas de mettre un simple catalogue en consultation mais d’implémenter des fonctionnalités dédiées à l’animation autour du patrimoine de données : retours d’expériences, commentaires, suivi des modifications, comptes utilisateurs, actualités, mise en valeur du SIG, etc.
 
 Par ailleurs, il est possible de tirer parti de l'API Isogeo et de proposer un portail selon le profil d'utilisateur. Par exemple, si vous souhaitez diffuser certaines données qu'en interne et non en externe, c’est très facile à réaliser depuis l'administration.
 
@@ -30,7 +30,7 @@ Par ailleurs, il est possible de tirer parti de l'API Isogeo et de proposer un p
 
 Le portail intègre évidemment toute la puissance du [moteur de recherche Isogeo](http://help.isogeo.com/fr/features/inventory/search.html) : filtres dynamiques, options de tri des résultats, pagination, etc. le tout dans une interface claire et proche des outils utilisés quotidiennement.
 
-![&quot;Interface de recherche - Options de filtre et de tri&quot;](/assets/front_search_filters_catalog.png)
+![&quot;Interface de recherche - Options de filtres et de tri&quot;](/assets/front_search_filters_catalog.png)
 
 #### ...ou moteur de recherche Dawizz {#search-dawizz}
 
@@ -88,7 +88,7 @@ Voir :
 
 ### Dimension participative pour animer le patrimoine immatériel {#animation}
 
-Un espace et des options sont dédiées aux utilisateurs authentifiés : accéder à des pages réservées ou à des détails supplémentaires sur les fiches de métadonnées, accéder aux fonctionnalités participatives, créer des listes de données personnalisées...
+Un espace et des options sont dédiés aux utilisateurs authentifiés : accéder à des pages réservées ou à des détails supplémentaires sur les fiches de métadonnées, accéder aux fonctionnalités participatives, créer des listes de données personnalisées...
 
 Un outil de travail optimisé grâce aux notifications : un utilisateur peut choisir de s’abonner à certaines données (via les listes) toutes les semaines (période personnalisable) il reçoit un rapport par mail lui indiquant quelles données ont été modifiées entre temps sans aucune intervention de la part de l’administrateur.
 
