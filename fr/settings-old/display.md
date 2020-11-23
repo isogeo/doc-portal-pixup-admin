@@ -28,9 +28,9 @@ Sinon, la modification sera effective au bout d'une heure (tâche planifiée).
 | Paramètre | Description |
 | :-------- | :---------- |
 | Afficher propriétaire | Permet d'indiquer où le nom du groupe de travail ayant créé la métadonnée s'affiche dans les différentes interfaces du portail : page d'accueil \(dans [les pavés dynamiques](/homepage/dyn-sections.md)\), résultats de rechecrhe \(menu Catalogue par défaut\) et sur le détail d'une fiche de métadonnées. |
-| Afficher échelle | Pareil que le paramètre précédent mais avec la valeur du champ [Echelle](http://help.isogeo.com/fr/features/documentation/md_geography.html#echelle) d'Isogeo. |
-| Afficher type | Pareil que le paramètre précédent mais avec la valeur du champ [Type](http://help.isogeo.com/fr/features/documentation/index.html#les-différents-types-de-ressources) d'Isogeo. |
-| Intitulé "Propriétaire" | Permet de changer l'intitulé du groupe de travail qui a créé la fiche de métadonnées dans Isogeo, pour éviter les confusions. Correspond au champ [Propriétaire](http://help.isogeo.com/fr/start/group_switch.html#mon-compte-mes-groupes-de-travail) d'Isogeo. Valeur par défaut : _Propriétaire de la métadonnée_. |
+| Afficher échelle | Pareil que le paramètre précédent mais avec la valeur du champ [Echelle](https://help.isogeo.com/fr/features/documentation/md_geography.html#echelle) d'Isogeo. |
+| Afficher type | Pareil que le paramètre précédent mais avec la valeur du champ [Type](https://help.isogeo.com/fr/features/documentation/index.html#les-différents-types-de-ressources) d'Isogeo. |
+| Intitulé "Propriétaire" | Permet de changer l'intitulé du groupe de travail qui a créé la fiche de métadonnées dans Isogeo, pour éviter les confusions. Correspond au champ [Propriétaire](https://help.isogeo.com/fr/start/group_switch.html#mon-compte-mes-groupes-de-travail) d'Isogeo. Valeur par défaut : _Propriétaire de la métadonnée_. |
 
 ---
 

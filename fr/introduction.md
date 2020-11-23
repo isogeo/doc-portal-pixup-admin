@@ -28,7 +28,7 @@ Par ailleurs, il est possible de tirer parti de l'API Isogeo et de proposer un p
 
 #### Moteur de recherche Isogeo {#search-isogeo}
 
-Le portail intègre évidemment toute la puissance du [moteur de recherche Isogeo](http://help.isogeo.com/fr/features/inventory/search.html) : filtres dynamiques, options de tri des résultats, pagination, etc. le tout dans une interface claire et proche des outils utilisés quotidiennement.
+Le portail intègre évidemment toute la puissance du [moteur de recherche Isogeo](https://help.isogeo.com/fr/features/inventory/search.html) : filtres dynamiques, options de tri des résultats, pagination, etc. le tout dans une interface claire et proche des outils utilisés quotidiennement.
 
 ![&quot;Interface de recherche - Options de filtres et de tri&quot;](/assets/front_search_filters_catalog.png)
 
@@ -130,7 +130,7 @@ Beaucoup d’autres fonctionnalités viennent compléter l'expérience utilisate
 * des statistiques pour le reporting de l'administrateur : généralistes \(Google Analytics\) et spécifiques \(vues, ressources, recherches, etc.\) ;
 * un référencement optimisé pour les moteurs de recherche \(SEO\) ;
 * lien direct vers l’édition de la fiche de métadonnées pour les éditeurs Isogeo ;
-* interprétation du [langage Markdown](http://help.isogeo.com/fr/features/documentation/syntax_markdown.html) disponible dans Isogeo ;
+* interprétation du [langage Markdown](https://help.isogeo.com/fr/features/documentation/syntax_markdown.html) disponible dans Isogeo ;
 * bouton pour copier le chemin d’une donnée fichier dans le presse-papiers directement depuis la métadonnée ;
 <!-- * générer un code d’intégration iFrame à partir de chaque fiche de métadonnées ; -->
 * accéder directement à la donnée en utilisant uniquement son identifiant selon le format d'url suivant : https://{domaine}/les-donnees-isogeo/{id-de-la-donnee}

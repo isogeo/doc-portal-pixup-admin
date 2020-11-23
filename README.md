@@ -20,7 +20,7 @@ It's deployed on Isogeo Azure (Storage v2 Static website) using Azure DevOps ([s
   * <http://help.qa.isogeo.com/pixup-portal/>
 * PROD:
   * <https://prodisogeohelp.z28.web.core.windows.net/pixup-portal/>
-  * <http://help.isogeo.com/pixup-portal/>
+  * <https://help.isogeo.com/pixup-portal/>
 
 Deployment rules:
 
