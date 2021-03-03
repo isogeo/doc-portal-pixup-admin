@@ -311,3 +311,11 @@ Il en est de même pour les filtres Dawizz lorsque l'API Dawizz est utilisée bi
 * Filtre "Statuts"
 * Filtre "Thématiques"
 * Filtre "Types"
+
+#### Intitulé "Propriétaire"
+
+Il est possible de modifier l'intitulé Propriétaire affiché dans la vignette d'aperçu et la fiche détaillée Isogeo. 
+
+Par exemple, si je saisis "Proprétaire Test" et que j'enregistre, le résultat est le suivant : 
+
+!["Configurer l'intitulé du champ Propriétaire"](/assets/back_config_owner_name.png.png)
