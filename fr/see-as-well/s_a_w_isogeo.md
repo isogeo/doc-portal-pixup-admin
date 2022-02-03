@@ -18,7 +18,7 @@ Pour créer un **Voir Aussi**, il suffit de cliquer sur `Édition d'un élément
 
 L'éditeur permet de sélectionner la donnée de référence et la donnée à associer.
 
-1. Pour récupérer l'ID Isogeo d'une fiche, il suffit de l'ouvrir dans le portail et de récupérer l'identifiant à la fin de l'URL. Par exemple : https://demo.isogeo.net/les-donnees-isogeo/Acces-a-la-mer-de-Lorient-Agglomeration/4a130fe959d6447d9b7dc7a472351da6 donne **4a130fe959d6447d9b7dc7a472351da6**
+1. Pour récupérer l'ID Isogeo d'une fiche, il suffit de l'ouvrir dans le portail et de récupérer l'identifiant à la fin de l'URL. Par exemple : [https://demo.isogeo.net/les-donnees-isogeo/Arbres-remarquables-Ville-de-Paris/10383c7f97ba470fbbffdd46d3e99308](https://demo.isogeo.net/les-donnees-isogeo/Arbres-remarquables-Ville-de-Paris/10383c7f97ba470fbbffdd46d3e99308) donne **10383c7f97ba470fbbffdd46d3e99308**
 2. Indiquer l'identifiant de la fiche de référence et celui de la fiche cible et enregistrer. Les titres des métadonnées doivent s'afficher si les identifiants étaient corrects.
 
 
