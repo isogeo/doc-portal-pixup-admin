@@ -65,15 +65,6 @@
     * [Généraux](settings/display/general.md)
     * [Affichage selon le type d'utilisateur](settings/display/user-display.md)
 
-## Services
-
-* [Importer les services](services/import.md)
-* [Services V2 - EMS](services/ems.md)
-* [Services V2 - EFS](services/efs.md)
-* [Services V2 - WMS](services/wms.md)
-* [Services V2 - WFS](services/wfs.md)
-
-
 ## Voir aussi
 
 * [Voir aussi Isogeo](see-as-well/s_a_w_isogeo.md)
