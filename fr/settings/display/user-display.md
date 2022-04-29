@@ -280,7 +280,7 @@ Le pavé *Listes* permet à l'utilisateur de créer des listes ou d'ajouter la d
 
 > Le pavé "Liste" ne peut être activé qu'aux utilisateurs authentifiés sur la plateforme. Il n'est donc pas accessible aux utilisateurs publics.
 
-### Filtre de recherche {research-filters}
+### Filtre de recherche {#research-filters}
 
 #### Filtres Isogeo {#isogeo-filters}
 
@@ -288,12 +288,13 @@ Il est possible de sélectionner les filtres affichés selon l'utilisateur et de
 
 * Filtre "Types de données"
 * Filtre "Mots-clés"
-* Filtre "Thèmes Inspire"
+* Filtre "Thématiques"
+* Filtre "Thèmes Inspire*
 * Filtre "Actions"
 * Filtre "Contacts"
 * Filtre "Formats"
 * Filtre "Licenses"
-* Filtre "Thématiques"
+* Filtre "Thématiques marketing"
 * Filtre "Systèmes de coordonnées"
 
 !["Choisir l'ordre des filtres Isogeo"](/assets/back_order_research_filters.png)
