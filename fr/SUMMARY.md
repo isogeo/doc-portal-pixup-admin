@@ -79,4 +79,5 @@
 * [Accès en HTTPS](appendices/https.md)
 * [Editeur WYSIWYG](appendices/editorwysiwyg.md)
 * [Référencement](/appendices/seo.md)
+* [Configuration AzureAD](/appendices/azuread.md)
 * [Figures et images](pictures.md)
