@@ -33,6 +33,6 @@ ATTENTION : cet élément n’est lisible et copiable/collable qu'immédiatement
 
 ![Configuration des paramètres Azure AD dans le back-office](/assets/AzureAD/back_office_azuread_configuration.png)
 
-Vous pouvez choisir de conserver également le système d'authentification natif du Portail. Les deux solutions seront ansi proposée côté front.
+Vous pouvez choisir de conserver également le système d'authentification natif du Portail. Les deux solutions seront ansi proposées côté front.
 
 ![Se connecter avec Azure AD sur le front](/assets/AzureAD/front_azuread_authentication.png)
