@@ -12,8 +12,8 @@ Il est possible de gérer l'authentification des utilisateurs du Portail directe
 
 3. Récupérer les informations suivantes :
   
-ID d’application (parfois appelé « client ID » )
-ID de l’annuaire (parfois appelé « tenant » )
+ID d’application (parfois appelé « client ID »)
+ID de l’annuaire (parfois appelé « tenant »)
 
 ![Détail de l'application](/assets/AzureAD/application_detail.png)
 
