@@ -9,7 +9,7 @@ description: Indroduction sur le portail Isogeo
 
 Le portail de données est une application tierce de la plateforme Isogeo dont le principal objectif est d'offrir une interface d'accès et de valorisation des données orientée usages : recherche, consultation, téléchargement, abonnement, commentaires, évaluations etc. mais aussi de promouvoir le SIG au travers de widgets, d'articles et de pages web entièrement éditables.
 
-Ce livre est le guide d'administration du portail. Il se base sur le portail de démonstration, accessible publiquement à l'adresse : [http://demo.isogeo.net](http://demo.isogeo.net). 
+Ce livre est le guide d'administration du portail. Il se base sur le portail de démonstration, accessible publiquement à l'adresse : [https://demo.isogeo.net](https://demo.isogeo.net). 
 
 ![&quot;Patchwork de portails Isogeo - Image de couverture&quot;](/assets/cover_portfolio.png)
 

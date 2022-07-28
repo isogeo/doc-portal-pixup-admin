@@ -114,7 +114,7 @@ Voir :
 Le portail de données peut être personnalisé aux couleurs de votre organisme (charte graphique, logo, menu affichés, authentification, etc.). Ci-dessous quelques-unes de nos réalisations :
 
 * Syndicat Mixte d’Aménagement de la Vallée de la Durance [http://geocatalogue.smavd.org/](http://geocatalogue.smavd.org/)
-* Le portail de démonstration \(parfois en travaux\) : [http://demo.isogeo.net](http://demo.isogeo.net)
+* Le portail de démonstration \(parfois en travaux\) : [https://demo.isogeo.net](https://demo.isogeo.net)
 
 #### Interface multi-supports {#multi-support}
 

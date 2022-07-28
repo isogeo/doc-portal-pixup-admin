@@ -17,7 +17,7 @@ Pour créer un **Voir Aussi**, il suffit de cliquer sur `Édition d'un élément
 
 L'éditeur permet de sélectionner la donnée de référence et la donnée à associer.
 
-1. Pour récupérer l'ID Dawizz d'une fiche, il suffit de l'ouvrir dans le portail et de récupérer l'identifiant à la fin de l'URL enremplacant le "*[dot]*" par des "*.*". Par exemple : http://le64.devpixup.com/les-donnees-dawizz/Utilisateurs-ASA/ASA[dot]CASA[dot]TBUTILISATEURS donne **ASA.CASA.TBUTILISATEURS**
+1. Pour récupérer l'ID Dawizz d'une fiche, il suffit de l'ouvrir dans le portail et de récupérer l'identifiant à la fin de l'URL enremplacant le "*[dot]*" par des "*.*". Par exemple : votreportail.com/les-donnees-dawizz/Utilisateurs-ASA/ASA[dot]CASA[dot]TBUTILISATEURS donne **ASA.CASA.TBUTILISATEURS**
 2. Indiquer l'identifiant de la fiche de référence et celui de la fiche cible et enregistrer. Les titres des métadonnées doivent s'afficher si les identifiants étaient corrects.
 
 !["Editer un Voir aussi"](/assets/back_edit_saw_dawizz.png)

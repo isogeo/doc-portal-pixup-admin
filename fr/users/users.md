@@ -65,7 +65,7 @@ L' utilisateur authentifié peut utiliser la plupart des fonctionnalités du por
 
 Voici ci-dessous les fonctionnalités ouvertes en fonction du type d'utilisateur.
 
-> ATTENTION : Il s'agit des fonctionnalités par défaut. L'affichage de certaines informations et certaines fonctionnalités sont modifiables par le super administrateur dans les [paramètres d'affichage selon le niveau de droits](/fr/settings/display/user-display.md). 
+> ATTENTION : Il s'agit des fonctionnalités par défaut. L'affichage de certaines informations et certaines fonctionnalités sont modifiables par le super administrateur dans les [paramètres d'affichage selon le niveau de droits](/settings/display/user-display.md). 
 
 | Fonctionnalités                                                                   | Super Admin | Admin rédacteur | Utilisateur privilégié | Utilisateur authentifié |
 |-----------------------------------------------------------------------------------|:-----------:|:---------------:|:----------------------:|:-----------------------:|
