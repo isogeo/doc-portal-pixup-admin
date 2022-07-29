@@ -24,6 +24,8 @@ Ce paramétrage est généralement réalisé par l'équipe Isogeo.
 
 ## Environnement technique {#environment}
 
+Généralement, le portail est hébergé par Isogeo en SaaS, mais celui-ci peut également être déployé en interne selon les prérequis ci-dessous. 
+
 ### Spécifications serveur
 
 * Serveur web compatible avec PHP (Windows/IIS, Linux/Apache) et MySQL ou PostgreSQL au besoin

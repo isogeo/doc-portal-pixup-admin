@@ -75,9 +75,10 @@ Cette fonctionnalité permet d'afficher uniquement les données ayant le statut 
 
 Cette section permet de gérer l'affichage de certains champs sur :
 
-* la page d'accueil
-* les résultats de la recherche (= vignette d'aperçu de la métadonnée)
-* le détail d'une fiche.
+* la page données soit la vignette d'aperçu de la métadonnée ;
+* le widget de sélection de données (cf. [Liste des données sélectionnées(/homepage-jobs/widgets-jobs/data-selection.md) ;
+* les résultats de la recherche générale sur tout le site ;
+* la page de la fiche de métadonnée détaillée.
 
 On peut donc choisir d'afficher ou non l'interprétation du markdown et les champs suivants :
 
@@ -85,6 +86,9 @@ On peut donc choisir d'afficher ou non l'interprétation du markdown et les cham
 * Propriétaire
 * Echelle
 * Type
+* Mots-clés
+* Thèmes Inspire
+* Thématiques
 
 !["Back office - Affichage des champs"](/assets/back_markdown.png)
 
@@ -92,23 +96,21 @@ On peut donc choisir d'afficher ou non l'interprétation du markdown et les cham
 
 Sont représentés ci-dessous les résultats sur le front office lorsque tout est activé ou désactivé.
 
-* Sur la page d'accueil
+* Sur la page données soit la vignette d'aperçu de la métadonnée
 
-!["Sur la page d'accueil lorsque tout est activé"](/assets/front_markdown_homepage_active.png)
+!["Sur la page données lorsque tout est activé"](/assets/front_markdown_research_active.png)
 
-!["Sur la page d'accueil lorsque tout est désactivé"](/assets/front_markdown_homepage_desactive.png)
+* le widget de sélection de données
 
-* Sur les résultats de recherche
+!["le widget de sélection de données lorsque tout est activé"](/assets/front_markdown_homepage_active.png)
 
-!["Sur les résultats de recherche lorsque tout est activé"](/assets/front_markdown_research_active.png)
+* les résultats de la recherche générale sur tout le site
 
-!["Sur les résultats de recherche lorsque tout est désactivé"](/assets/front_markdown_research_desactive.png)
+!["les résultats de la recherche générale sur tout le site lorsque tout est activé"](/assets/front_markdown_global_research_active.png)
 
-* Sur le détail d'une fiche
+* Sur la page de la fiche de métadonnée détaillée
 
-!["Sur le détail d'une fiche lorsque tout est désactivé"](/assets/front_markdown_metadata_active.png)
-
-!["Sur le détail d'une fiche lorsque tout est désactivé"](/assets/front_markdown_metadata_desactive.png)
+!["la page de la fiche de métadonnée détaillée lorsque tout est désactivé"](/assets/front_markdown_metadata_active.png)
 
 ### Onglets des fiches de métadonnées {#tabs}
 
@@ -191,8 +193,6 @@ On retrouve dans cet onglet les champs concernant l'historique de la donnée et 
 Cet onglet permet de visualiser les données lorsque qu'un ou plusieurs service(s) est(sont) associé(s) à la fiche de métadonnée dans Isogeo.
 
 !["Onglet Visualisation d'une fiche Isogeo"](/assets/front_metadata_visualisation.png)
-
-> NB : Le pré-chargement des couches est géré dans un cache ([voir ici comment gérer ce cache](/fr/services/import.md)).
 
 #### Téléchargement {#download}
 
@@ -319,4 +319,4 @@ Il est possible de modifier l'intitulé Propriétaire affiché dans la vignette 
 
 Par exemple, si je saisis "Proprétaire Test" et que j'enregistre, le résultat est le suivant : 
 
-!["Configurer l'intitulé du champ Propriétaire"](/assets/back_config_owner_name.png.png)
+!["Configurer l'intitulé du champ Propriétaire"](/assets/back_config_owner_name.png)

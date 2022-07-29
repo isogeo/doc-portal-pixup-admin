@@ -29,6 +29,10 @@ Il est donc possible de forcer les utilisateurs à s'authentifier au portail pou
 
 ![Authentification obligatoire](/assets/front_authentication.png)
 
+De plus, il est possible de déléguer la création et l'authentification des utilisateurs à un gestionnaire d'identité SaaS comme AzureAD (cf. [Paramétrage de l'application AzureAD](/appendices/azuread.md)) ou Okta en indiquant les paramères fournis par l'outil correspondant.
+
+![Paramétrage de l'authentification AzureAD](/assets/back_authentication.png)
+
 ### Nature du géoportail {#nature}
 
 Valeurs possibles :
@@ -117,6 +121,10 @@ Il faut donc renseigner les champs suivants :
 * Mot de passe : le mot de passe ne s'affichera plus une fois enregistré. Le laisser donc vide si inchangé.
 * SMTP Secure
 
-## Google Analytics {#ganalytics}
+> N'hésitez pas à contacter le support Isogeo (support@isogeo.fr) en cas de problème de configuration du serveur de mail.
+
+## Javascript et CSS {#ganalytics}
 
 Si votre portail est accessible sur une URL publique, il est possible d'insérer le code de suivi de fréquentation de l'outil de Google dans ce formulaire.
+
+Vous pouvez également insérer des balises CSS ou de code javascript (réservé aux utilisateurs avancés).

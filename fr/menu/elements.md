@@ -18,12 +18,12 @@ L'éditeur permet de modifier les champs suivants (ceux en **gras** étant oblig
 
 * **Titre**
 * **Type d'entrée**
-    * Lien vers accueil du site : soit la page choisie dans les [paramètres](/fr/settings/general.md) du portail
+    * Lien vers accueil du site : soit la page choisie dans les [paramètres](/settings/general.md) du portail
     * Lien vers la page géomatique : soit la [page d'accueil métiers](/homepage-jobs/titles.md)
-    * Lien vers la page marketing : soit la [page d'accueil marketing](/homepage-marketing/widget-marketing/titles.md)
+    * Lien vers la page marketing : soit la [page d'accueil marketing](/homepage-marketing/widgets-marketing/titles.md)
     * Lien vers la page "Actualités" : soit la [page de présentation des actualités](/actualites/articles.md)
     * Lien vers la page "Contact" : soit la [page de contact](/messages-recus/contacts.md)
-    * Lien vers la page "Catalogue" : soit la [page de recherche dans le catalogue de données](introduction.md)
+    * Lien vers la page "Catalogue" : soit la [page de recherche dans le catalogue de données](/introduction.md)
     * Lien vers la page "Dataviz" : soit la [page de consultation des Dataviz](/dataviz/dataviz.md)
     * Lien vers une page : soit les pages restantes du site parmi la [liste des pages existantes](/pages-iframes/pages.md)
     * Lien vers une actualités : soit une actualité parmi la liste des [actualités existantes](/actualites/articles.md)

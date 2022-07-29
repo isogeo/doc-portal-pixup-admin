@@ -34,7 +34,7 @@ Le portail intègre évidemment toute la puissance du [moteur de recherche Isoge
 
 #### ...ou moteur de recherche Dawizz {#search-dawizz}
 
-Depuis la version 3.0, le portail peut également intégrer le catalogue de l'application de cartographie globale des données [Dawizz](https://www.dawizz.fr/). Lorsque c'est le cas, ce n'est plus l'API Isogeo qui est utilisée mais l'API pour le moteur de recherche et la présentation des fiches de métadonnées.
+Depuis la version 3.0, le portail peut également intégrer le catalogue de l'application de catalogage globale des données [Dawizz](https://www.dawizz.fr/). Lorsque c'est le cas, c'est l'API Dawizz qui est utilisée pour le moteur de recherche et la présentation des fiches Dawizz mais l'API Isogeo est toujours utilisée pour la présentation des fiches de métadonnées de données géographiques.
 
 ![Interface de recherche Dawizz](/assets/front_search_filters_catalog_dawizz.png)
 
@@ -50,7 +50,7 @@ Le portail n'est pas uniquement focalisé sur les données. En effet, le portail
 
 * gestion des [menus](/menu/elements.md) ;
 * gestion de widgets pour les pages [marketing](/homepage-marketing/widgets-marketing/titles.md) et [métiers](/homepage-jobs/titles.md) ;
-* gestion des [actualités](/actualite/article.md) (création, édition, publication, mise en avant en page d’accueil métier) ;
+* gestion des [actualités](/actualites/article.md) (création, édition, publication, mise en avant en page d’accueil métier) ;
 * gestion des [Dataviz](/dataviz/dataviz.md) ;
 * gestion des [pages](/pages-iframes/pages.md) et [iframes](/pages-iframes/iframes.md) du site ;
 * ou encore un gestionnaire fichiers intégré etc...
@@ -111,9 +111,10 @@ Voir :
 
 ### Un portail personnalisable {#personnalisation}
 
-Le portail de données peut être personnalisé aux couleurs de votre organisme (charte graphique, logo, menu affichés, authentification, etc.). Ci-dessous quelques-unes de nos réalisations :
+Le portail de données peut être personnalisé aux couleurs de votre organisme (charte graphique, logo, menu affichés, authentification, etc.). Ci-dessous quelques-unes de nos réalisations publiques :
 
-* Syndicat Mixte d’Aménagement de la Vallée de la Durance [http://geocatalogue.smavd.org/](http://geocatalogue.smavd.org/)
+* Syndicat Mixte d’Aménagement de la Vallée de la Durance [https://geocatalogue.smavd.org/](https://geocatalogue.smavd.org/)
+* Lorient Agglomération [https://geocatalogue.lorient-agglo.bzh/](https://geocatalogue.lorient-agglo.bzh/)
 * Le portail de démonstration \(parfois en travaux\) : [https://demo.isogeo.net](https://demo.isogeo.net)
 
 #### Interface multi-supports {#multi-support}

@@ -18,10 +18,14 @@ L'éditeur permet de modifier les champs suivants (ceux en **gras** étant oblig
 
 * **Icône** : Vous pouvez ajouter une icone personnalisée avec le [gestionnaire de fichiers](/medias/filesmanager.md) intégré au portail.
 * **Titre**
-* Expression : En renseignant une expression, vous pourrez orienter automatiquement l'utilisateur du portail vers une recherche filtrée sur cette expression (attention à bien séparer par une virgule les termes) 
-* Catalogue de données : En renseignant l'identifiant d'un catalogue thématique, vous pourrez orienter automatiquement l'utilisateur du portail vers les données du catalogue saisi.
-* Case à cocher pour activer le mode *brouillon* qui permet de ne pas publier le membre.
+* Catalogue de données : En renseignant l'identifiant d'un catalogue contenant des données partagées au portail, vous pourrez orienter automatiquement l'utilisateur du portail vers les données du catalogue saisi.
+* Mots-clés : En renseignant un mot-clé parmi la liste des mots-clés affectés aux fiches de métadonnées partagées au portail, vous pourrez orienter automatiquement l'utilisateur du portail vers les fiches de métadonnées contenant le mot-clé choisi.
+* Thèmes Inspire : En renseignant un thème Inspire parmi la liste des thèmes Inspire affectés aux fiches de métadonnées partagées au portail, vous pourrez orienter automatiquement l'utilisateur du portail vers les fiches de métadonnées contenant le thème Inspire choisi.
+* Thématiques : En renseignant une thématique parmi la liste des thématiques du groupe de travail affectés aux fiches de métadonnées partagées au portail, vous pourrez orienter automatiquement l'utilisateur du portail vers les fiches de métadonnées contenant la thématique choisie.
+* Case à cocher pour activer le mode *brouillon* qui permet de ne pas publier la thématique.
 
+> NB : Si vous renseignez plusieurs paramètres de filtre, la recherche sera la conjonction de ces différents paramètres.
+> 
 !["Editer une thématique"](/assets/back_edit_theme.png)
 
 ## Gérer l'ordre {#order}
