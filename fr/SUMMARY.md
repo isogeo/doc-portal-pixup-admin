@@ -48,6 +48,7 @@
 
 * [Contacts](messages-recus/contacts.md)
 * [A propos d'une donnée](messages-recus/about-data.md)
+* [Fils de discussion](message-recus/threads.md)
 
 ## Médias
 
