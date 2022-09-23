@@ -26,7 +26,7 @@ L'éditeur permet de modifier les champs suivants (ceux en **gras** étant oblig
     * Lien vers la page "Catalogue" : soit la [page de recherche dans le catalogue de données](/introduction.md)
     * Lien vers la page "Dataviz" : soit la [page de consultation des Dataviz](/dataviz/dataviz.md)
     * Lien vers une page : soit les pages restantes du site parmi la [liste des pages existantes](/pages-iframes/pages.md)
-    * Lien vers une actualités : soit une actualité parmi la liste des [actualités existantes](/actualites/articles.md)
+    * Lien vers une actualité : soit une actualité parmi la liste des [actualités existantes](/actualites/articles.md)
     * Saisie d'une url directe : soit une URL externe au portail
         * **Url** : soit l'url en question
         * Fenêtrage : choisir si le lien doit être ouvert dans une nouvelle fenêtre ou dans la fenêtre courante

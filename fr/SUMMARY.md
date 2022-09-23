@@ -42,7 +42,11 @@
 
 ## Menu
 
-* [Gestion des menus du site](menu/elements.md)
+* [Gestion des menus du site](menu/menu.md)
+
+## Pied de page
+
+* [Gestion du pied de page](footer/footer.md)
 
 ## Messages reçus
 
