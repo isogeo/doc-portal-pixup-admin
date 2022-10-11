@@ -21,7 +21,6 @@ Il est possible de gérer l'authentification des utilisateurs du Portail directe
 ![Configuration des urls](/assets/AzureAD/configure_url.png)
 8. Renseigner les informations récupérées (Annuaire ID, Application ID et Secret Client) dans les paramètres généraux du Portail en choisissant le type d'authentification Azure AD
 ![Configuration des paramètres Azure AD dans le back-office](/assets/AzureAD/back_office_azuread_configuration.png)
-
 Vous pouvez choisir de conserver également le système d'authentification natif du Portail. Les deux solutions seront ansi proposées côté front.
-
 ![Se connecter avec Azure AD sur le front](/assets/AzureAD/front_azuread_authentication.png)
+9. Pour que le token soit activé et que tous les utilisateurs puissent se connecter, il faut qu'un utilisateur administrateur de l'AzureAD se connecte une première fois au Portail.
