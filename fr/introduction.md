@@ -49,13 +49,13 @@ La barre de recherche permet de rechercher à la fois dans les données mais aus
 Le portail n'est pas uniquement focalisé sur les données. En effet, le portail intègre un CMS \(_Content Management System_ ou SGC - Système de Gestion de Contenus\) et permet ainsi l'édition de contenus éditoriaux, comme par exemple :
 
 * gestion des [menus](/menu/elements.md) ;
-* gestion de widgets pour les pages [marketing](/homepage-marketing/widgets-marketing/titles.md) et [métiers](/homepage-jobs/titles.md) ;
+* gestion des widgets de la [page d'accueil](/homepage/titles.md) ;
 * gestion des [actualités](/actualites/article.md) (création, édition, publication, mise en avant en page d’accueil métier) ;
 * gestion des [Dataviz](/dataviz/dataviz.md) ;
 * gestion des [pages](/pages-iframes/pages.md) et [iframes](/pages-iframes/iframes.md) du site ;
 * ou encore un gestionnaire fichiers intégré etc...
 
-![Exemple des widgets de la page d'accueil métiers](/assets/portal_homepage_job.png)
+![Exemple des widgets de la page d'accueil](/assets/portal_homepage_job.png)
 
 <!-- #### Dimension géographique et interface cartographique
 
@@ -72,19 +72,6 @@ Voir :
 
 * [paramétrer l'interface cartographique et la recherche géographique](/settings/search-map/searchmap.md) ;
 * [définir des emprises géographiques de recherche personnalisées](/settings/search-map/searchbbox.md) ; -->
-
-### Un système de double-page d'accueil {#double-homepage}
-
-Nous avons repensé notre portail pour qu'il offre la possibilité à l'équipe SIG de présenter à la fois les données mais aussi d'autres informations sur leur travail, les usages, l'écosystème etc... dans le but d'élargir le public suceptible de consulter le portail. C'est pourquoi, nous avons mis en place deux pages d'accueil :
-
-* l'une orientée "Métiers", pour les utilisateurs quotidiens du SIG,
-* et l'autre orientée "Marketing", qui valorise le SIG auprès d'un public plus large.
-
-Voir :
-
-* [Les widgets de la page d'accueil Marketing](/homepage-marketing/widgets-marketing/titles.md) ;
-* [Les widgets de la page d'accueil Métiers](/homepage-jobs/titles.md) ;
-* [Choisir la page d'accueil principale](/settings/general.md#nature).
 
 ### Dimension participative pour animer le patrimoine immatériel {#animation}
 

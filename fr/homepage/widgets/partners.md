@@ -1,5 +1,5 @@
 ---
-description: Gérer le widget Partenaires de la page marketing du portail Isogeo
+description: Gérer le widget Partenaires de la page d'accueil du portail Isogeo
 ---
 # Partenaires
 
@@ -29,12 +29,14 @@ Les méta-balises permettent d'améliorer le référencement dans les moteurs de
 
 ### Titre & visuel {#title-visual}
 
-Cet onglet permet de gérer le titre de l'application et le visuel dans le [widget Partenaires](#widget-partners) de la page d'accueil marketing.
+Cet onglet permet de gérer le titre de l'application et le visuel dans le widget Partenaires de la page d'accueil.
 
-* **Icône** : *Insérer une image avec le [gestionnaire de fichiers](/medias/filesmanager.md) intégré au portail.*
+* **Icône** : *Insérer une image avec le [gestionnaire de fichiers](/medias/filesmanager.md) intégré au portail. N'hésitez pas à les récupérer parmi ceux proposés par Isogeo dans le répertoire logos*
   * Exemple : *Logo du partenaire*
 * **Titre** : *Nom du partenaire*
   * Exemple : *Isogeo*
+* Catégorie : *[Catégorie](#category) dans laquelle le partenaire sera regroupé*
+
 
 ### Corps de la page {#body}
 
@@ -56,9 +58,15 @@ N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></
 
 !["Changer l'ordre d'affichage des partenaires"](/assets/back_order_partner.png)
 
+## Gestion des catégories {#category}
+
+Vous pouvez créer plusieurs catégories pour que les partenaires soit séparés sur le widget de la page d'accueil et la page partenaires.
+
+Pour chaque catégorie, vous pouvez indiquer son nom et les couleurs du texte et du fond qui s'afficheront sur le widget et la page partenaires.
+
 ## Résultat sur le front-office {#result}
 
-### Widget dans la page d'accueil marketing {#widget-partners}
+### Widget dans la page d'accueil {#widget-partners}
 
 !["Widget partenaire - côté front"](/assets/front_widget_partner.png)
 

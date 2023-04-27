@@ -1,5 +1,5 @@
 ---
-description: Gérer la frise (slider) du widget Mises en avant de la page marketing du portail Isogeo
+description: Gérer la frise (slider) du widget Mises en avant de la page d'accueil du portail Isogeo
 ---
 # Mises en avant
 
@@ -38,7 +38,7 @@ N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></
 
 ## Résultat sur le front-office {#result}
 
-### Widget dans la page d'accueil marketing {#front-widget-frieze}
+### Widget dans la page d'accueil {#front-widget-frieze}
 
 Les mises en avant sont présentées dans un widget de type "Slider". En cliquant sur `EN SAVOIR PLUS`, l'utilisateur accède directement à l'URL paramétrée dans la mise en avant.
 

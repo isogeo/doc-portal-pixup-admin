@@ -33,15 +33,6 @@ De plus, il est possible de déléguer la création et l'authentification des ut
 
 ![Paramétrage de l'authentification AzureAD](/assets/back_authentication.png)
 
-### Nature du géoportail {#nature}
-
-Valeurs possibles :
-
-* Portail géomatique
-* Portail marketing
-
-Selon le choix, la page d'accueil du site sera respectivement la [page d'accueil métiers](/homepage-jobs/titles.md) ou la [page d'accueil marketing](/homepage-marketing/widget-marketing/titles.md).
-
 ### Nom du site {#site-name}
 
 Le nom du site choisi s'affiche dans le titre de l'onglet de votre navigateur. 

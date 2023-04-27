@@ -11,34 +11,25 @@
 
 * [Fonctionnement du tableau de bord](dashboard/features.md)
 
-## Accueil Marketing
+## Accueil & contenus
 
-* [Gérer l'ordre des widgets](homepage-marketing/order.md)
-* [Widgets marketing](homepage-marketing/widgets-marketing/titles.md)
-    * [Titre des widgets](homepage-marketing/widgets-marketing/titles.md)
-    * [Applications](homepage-marketing/widgets-marketing/applications.md)
-    * [Equipe](homepage-marketing/widgets-marketing/team.md)
-    * [Groupes de travail](homepage-marketing/widgets-marketing/workgroup.md)
-    * [Mises en avant](homepage-marketing/widgets-marketing/frieze.md)
-    * [Partenaires](homepage-marketing/widgets-marketing/partners.md)
-    * [Thématiques](homepage-marketing/widgets-marketing/themes.md)
-    * [Usages](homepage-marketing/widgets-marketing/usages.md)
+* [Afficher les widgets](homepage/titles.md)
+* [Gérer l'ordre des widgets](homepage/order.md)
+* [Configurer les Widgets](homepage/widgets/titles.md)
+    * [Mises en avant](homepage/widgets/frieze.md)
+    * [Thématiques](homepage/widgets/themes.md)
+    * [Usages](homepage/widgets/usages.md)
+    * [Equipe](homepage/widgets/team.md)
+    * [Applications](homepage/widgets/applications.md)
+    * [Groupes de travail](homepage/widgets/workgroup.md)
+    * [Partenaires](homepage/widgets/partners.md)
+    * [Actualités](homepage/widgets/news.md)
+    * [Sélection de données](homepage/widgets/data-selection.md)
 
-## Accueil Métier
+## Pages & iFrames
 
-* [Titres](homepage-jobs/titles.md)
-* [Widgets métiers](homepage-jobs/widgets-jobs/apps.md)
-    * [Apps](homepage-jobs/widgets-jobs/apps.md)
-    * [Sélection de données](homepage-jobs/widgets-jobs/data-selection.md)
-    * [Sélection de données Dawizz](homepage-jobs/widgets-jobs/data-selection-dawizz.md)
-
-## Actualités
-
-* [Gestion des articles](actualites/articles.md)
-
-## Dataviz
-
-* [Gestion des Dataviz](dataviz/dataviz.md)
+* [Gestion des pages](pages-iframes/pages.md)
+* [Gestion des iFrames](pages-iframes/iframes.md)
 
 ## Menu
 
@@ -48,21 +39,25 @@
 
 * [Gestion du pied de page](footer/footer.md)
 
+## Dataviz
+
+* [Gestion des Dataviz](dataviz/dataviz.md)
+
+## Voir aussi
+
+* [Voir aussi Isogeo](see-as-well/s_a_w_isogeo.md)
+* [Voir aussi Dawizz](see-as-well/s_a_w_dawizz.md)
+
 ## Messages reçus
 
 * [Contacts](messages-recus/contacts.md)
 * [A propos d'une donnée](messages-recus/about-data.md)
 * [Fils de discussion](messages-recus/threads.md)
 
-## Médias
+## Utilisateurs
 
-* [Gérer les médias](medias/filesmanager.md)
-
-## Pages & iFrames
-
-* [Gestion des pages](pages-iframes/pages.md)
-* [Gestion des iFrames](pages-iframes/iframes.md)
-
+* [Utilisateurs](users/users.md)
+  
 ## Paramètres
 
 * [Paramètres généraux](settings/general.md)
@@ -70,14 +65,9 @@
     * [Généraux](settings/display/general.md)
     * [Affichage selon le type d'utilisateur](settings/display/user-display.md)
 
-## Voir aussi
+## Médias
 
-* [Voir aussi Isogeo](see-as-well/s_a_w_isogeo.md)
-* [Voir aussi Dawizz](see-as-well/s_a_w_dawizz.md)
-
-## Utilisateurs
-
-* [Utilisateurs](users/users.md)
+* [Gérer les médias](medias/filesmanager.md)
 
 ## Annexes
 

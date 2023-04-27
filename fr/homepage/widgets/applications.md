@@ -1,15 +1,15 @@
 ---
-description: Gérer le widget Applications de la page marketing du portail Isogeo
+description: Gérer le widget Applications de la page d'accueil du portail Isogeo
 ---
 # Applications
 
 Ce widget permet de présenter les différentes applications SIG mises en place au sein de votre structure. Vous pouvez créer, modifier des articles sur des applications et gérer leur ordre d'affichage.
 
-## Apps existantes {#list-apps}
+## Applications existantes {#list-apps}
 
 Ce menu permet d'afficher la liste de toutes les applications documentées. Une barre de recherche (sur le nom) et un système de pagination ont été implémentés. Vous pouvez éditer une application ou en supprimer une ou plusieurs si besoin. 
 
-!["Menu apps existantes"](/assets/back_list_application.png)
+!["Menu Applications existantes"](/assets/back_list_application.png)
 
 ## Edition d'une application {#editing-apps}
 
@@ -34,6 +34,7 @@ Cet onglet permet de gérer le nom de l'application et le visuel.
 * **Icône** : *Insérer une image avec le [gestionnaire de fichiers](/medias/filesmanager.md) intégré au portail.*
 * **Nom** : *Nom de l'application* (Exemple : *Gestion des réseaux*)
 * Affichage : *Choisir entre afficher l'**icône** ou le **nom** dans le [widget application](#widget-applications)*.
+* Catégorie : [Catégorie](#category) dans laquelle l'application sera regroupée
 
 ### Corps de la page {#body}
 
@@ -55,9 +56,15 @@ N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></
 
 !["Changer l'ordre d'affichage des applications"](/assets/back_order_application.png)
 
+## Gestion des catégories {#category}
+
+Vous pouvez créer plusieurs catégories pour que les applications soient séparées sur le widget de la page d'accueil et la page application.
+
+Pour chaque catégorie, vous pouvez indiquer son nom et les couleurs du texte et du fond qui s'afficheront sur le widget et la page Application. 
+
 ## Résultat sur le front-office {#result-front}
 
-### Widget dans la page d'accueil marketing {#widget-applications}
+### Widget dans la page d'accueil {#widget-applications}
 
 Dans cet exemple, les applications sont affichées via leur nom. Il est également possible de choisir d'afficher le logo dans l'éditeur de contenu.
 

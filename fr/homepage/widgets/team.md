@@ -1,5 +1,5 @@
 ---
-description: Gérer le widget Equipe de la page marketing du portail Isogeo
+description: Gérer le widget Equipe de la page d'accueil du portail Isogeo
 ---
 # Équipe
 
@@ -38,7 +38,7 @@ N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></
 
 ## Résultat sur le front-office {#result}
 
-### Widget dans la page d'accueil marketing {#front-widget-team}
+### Widget dans la page d'accueil {#front-widget-team}
 
 Les membres de l'équipe sont donc présentés dans un widget de type "Slider". Il n'y a pas de page personnalisée pour chaque membre, ces-derniers ne sont donc pas "clickables". 
 

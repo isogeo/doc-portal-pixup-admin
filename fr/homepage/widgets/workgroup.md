@@ -1,5 +1,5 @@
 ---
-description: Gérer le widget Groupes de travail de la page marketing du portail Isogeo
+description: Gérer le widget Groupes de travail de la page d'accueil du portail Isogeo
 ---
 # Groupes de travail
 
@@ -29,7 +29,7 @@ Les méta-balises permettent d'améliorer le référencement dans les moteurs de
 
 ### Titre & visuel {#title-visual}
 
-Cet onglet permet de gérer le titre du groupe de travail et le visuel dans le [widget Groupe de travail](#widget-groups) de la page d'accueil marketing.
+Cet onglet permet de gérer le titre du groupe de travail et le visuel dans le [widget Groupe de travail](#widget-groups) de la page d'accueil.
 
 * **Icône** : *Insérer une image avec le [gestionnaire de fichiers](/medias/filesmanager.md) intégré au portail.*
   * Exemple : *Logo du groupe de travail*
@@ -58,7 +58,7 @@ N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></
 
 ## Résultat sur le front-office {#result}
 
-### Widget dans la page d'accueil marketing {#widget-groups}
+### Widget dans la page d'accueil {#widget-groups}
 
 !["Widget groupe de travail - côté front"](/assets/front_widget_group.png)
 

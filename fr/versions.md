@@ -2,6 +2,27 @@
 
 <!-- timeline -->
 
+## 3.3 {#version33}
+
+<br> Publiée le 12 mai 2023 :
+
+* Fusion des pages d'accueil marketing et métiers
+* Réorganisation des menus d'administration
+* Amélioration des widgets
+  * Applications
+  * Partenaires
+  * Actualités
+  * Sélection de données
+* Ajout de la barre de recherche principale dans la barre de menu
+* Ajout d'une banque d'icônes et de logo
+* Gestion des couleurs plus fine
+* Authentification SSO AzureAD et Okta
+* Mise en place d'une version dockerisable pour la version Isogeo On-Premises
+* Amélioration de la stabilité et correction de bugs mineurs
+
+<!-- /timeline -->
+<!-- timeline -->
+
 ## 3.0 {#version30}
 
 <br> Publiée le 30 janvier 2020 :

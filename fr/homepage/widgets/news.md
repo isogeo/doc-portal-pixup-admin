@@ -57,7 +57,7 @@ On retrouve ce contenu sur la page dédiée à l'actualité accompagné des info
 Cet onglet permet de gérer la publication de l'actualité.
 
 * Cet article est un brouillon : *Si non, l'article est publié sur la page des actualités.*
-* Afficher sur l'accueil : *Si oui, l'actualité est affichée dans le widget de sélection sur la page d'accueil métiers. (cf. [Widget sur la page d'accueil métier](#widget-last-news))*
+* Afficher sur l'accueil : *Si oui, l'actualité est affichée dans le widget de sélection sur la page d'accueil. (cf. [Widget sur la page d'accueil](#widget-last-news))*
 
 ## Gestion des catégories {#categories}
 
@@ -82,14 +82,14 @@ Dans l'éditeur de contenu des articles, onglet publication, vous pouvez choisir
 
 ## Résultat sur le front-office {#result-front}
 
-### Widget dans la page d'accueil métiers {#widget-last-news}
+### Widget dans la page d'accueil {#widget-last-news}
 
-Un widget de type "Slider" est automatiquement généré sur la page d'accueil métiers contenant les 3 dernières actualités publiées. 
+Un widget de type "Slider" est automatiquement généré sur la page d'accueil contenant les 3 dernières actualités publiées. 
 
 !["Widget dernières actualités - côté front"](/assets/front_widget_article.png)
 
 ### Page de présentation des actualités {#front-news-page}
 
-Une page regroupe l'ensemble des actualités. Par défaut, le portail est paramétré pour que cette page soit accessible depuis le menu du site "Actualités'" et par le widget métier "Apps", dans la page d'accueil métiers. Depuis cette page, vous pouvez donc lire les actualités d'un simple clic !
+Une page regroupe l'ensemble des actualités. Par défaut, le portail est paramétré pour que cette page soit accessible depuis le menu du site "Actualités'", dans la page d'accueil. Depuis cette page, vous pouvez donc lire les actualités d'un simple clic !
 
 !["Page de présentation des actualités - côté front"](/assets/front_article.png)
