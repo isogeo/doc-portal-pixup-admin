@@ -15,7 +15,7 @@
 
 * [Afficher les widgets](homepage/titles.md)
 * [Gérer l'ordre des widgets](homepage/order.md)
-* [Configurer les Widgets](homepage/widgets/titles.md)
+* Configurer les Widgets
     * [Mises en avant](homepage/widgets/frieze.md)
     * [Thématiques](homepage/widgets/themes.md)
     * [Usages](homepage/widgets/usages.md)
