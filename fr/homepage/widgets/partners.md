@@ -35,7 +35,7 @@ Cet onglet permet de gérer le titre de l'application et le visuel dans le widge
   * Exemple : *Logo du partenaire*
 * **Titre** : *Nom du partenaire*
   * Exemple : *Isogeo*
-* Catégorie : *[Catégorie](#category) dans laquelle le partenaire sera regroupé*
+* Catégorie : *[Catégorie](#category) dans laquelle le partenaire sera regroupé sur le front*
 
 
 ### Corps de la page {#body}

@@ -46,7 +46,7 @@ Les thématiques sont donc "clickables", ce qui permet d'orienter l'utilisateur 
 
 !["Widget thématique - côté front"](/assets/front_widget_theme.png)
 
-### Résultat du clic sur une thématique {result-clic}
+### Résultat du clic sur une thématique {#result-clic}
 
 Voici ci-dessous le résultat du clic sur la thématique *Réseaux de transport*.
 

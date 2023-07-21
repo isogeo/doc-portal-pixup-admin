@@ -57,3 +57,12 @@ Chaque Dataviz permet de filtrer automatiquement sur une recherche. Par exemple 
 * Répartition des sources par application
 
 ![Dataviz Dawizz](/assets/front_dataviz_dawizz.png)
+
+## Génération des données
+
+Les données utilisées par les dataviz sont générées automatiquement 1 fois par tranche de 24 heures.
+Si vous souhaitez lancer manuellement une génération de ces dataviz, il suffit de cliquer sur les liens permettant de les générer.
+
+![Générer manuellement les dataviz](/assets/back_dataviz_generate.png)
+
+> NB : Attention, les images d'aperçu des dataviz sont fixes, si vous souhaitez les mettre à jour, contactez le support Isogeo (support@isogeo.fr)

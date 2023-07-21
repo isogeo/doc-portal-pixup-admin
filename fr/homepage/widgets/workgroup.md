@@ -62,6 +62,6 @@ N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></
 
 !["Widget groupe de travail - côté front"](/assets/front_widget_group.png)
 
-### Page de présentation du groupe de travail {front-groups}
+### Page de présentation du groupe de travail {#front-groups}
 
 !["Présentation d'un groupe de travail - côté front"](/assets/front_group.png)

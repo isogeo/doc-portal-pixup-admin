@@ -13,7 +13,7 @@ Ce menu permet d'afficher la liste de toutes les applications documentées. Une 
 
 ## Edition d'une application {#editing-apps}
 
-Pour créer une application, il suffit de cliquer sur `Édition d'une app` dans le menu d'accès. Pour éditer une application existante, il suffit de la sélectionner dans le menu précédent.
+Pour créer une application, il suffit de cliquer sur `Édition d'une application` dans le menu d'accès. Pour éditer une application existante, il suffit de la sélectionner dans le menu précédent.
 
 !["Editer une application"](/assets/back_edit_application.png)
 
@@ -34,7 +34,7 @@ Cet onglet permet de gérer le nom de l'application et le visuel.
 * **Icône** : *Insérer une image avec le [gestionnaire de fichiers](/medias/filesmanager.md) intégré au portail.*
 * **Nom** : *Nom de l'application* (Exemple : *Gestion des réseaux*)
 * Affichage : *Choisir entre afficher l'**icône** ou le **nom** dans le [widget application](#widget-applications)*.
-* Catégorie : [Catégorie](#category) dans laquelle l'application sera regroupée
+* Catégorie : [Catégorie](#category) dans laquelle l'application sera regroupée sur le front
 
 ### Corps de la page {#body}
 
@@ -58,9 +58,11 @@ N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></
 
 ## Gestion des catégories {#category}
 
-Vous pouvez créer plusieurs catégories pour que les applications soient séparées sur le widget de la page d'accueil et la page application.
+Vous pouvez créer plusieurs catégories pour que les applications soient séparées dans le widget de la page d'accueil et la page application.
 
-Pour chaque catégorie, vous pouvez indiquer son nom et les couleurs du texte et du fond qui s'afficheront sur le widget et la page Application. 
+Pour chaque catégorie, vous pouvez indiquer son nom et les couleurs du texte et du fond qui s'afficheront sur le widget et la page Application.
+
+!["Widget application - Gestion des catégories"](/assets/back_widget_application_category.png)
 
 ## Résultat sur le front-office {#result-front}
 

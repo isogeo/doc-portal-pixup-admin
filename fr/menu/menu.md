@@ -41,7 +41,7 @@ Ce menu permet de modifier simplement l'ordre d'affichage des menus.
 En effet, il suffit de sélectionner un menu et de le glisser déposer avant ou après les autres.
 N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></i> en bas à droite de la page.
 
-> NB : Seuls les menus publiés sont affichés dans ce menu.
+> NB : L'ensemble des menus sont affichés dans ce menu même si ces derniers sont dépubliés. Les menus dépubliés sont affichés en rouge.
 
 !["Changer l'ordre d'affichage des menus"](/assets/back_order_menu.png)
 

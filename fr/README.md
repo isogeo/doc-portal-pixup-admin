@@ -15,7 +15,7 @@ Ce livre est le guide d'administration du portail. Il se base sur le portail de 
 
 ## Caractéristiques {#characteristics}
 
-Le portail de données est développé par Isogeo et [Pixup](http://www.pixup.com/). Il est mis en place de préférence en mode hébergé par Isogeo, dans le cadre d'une prestation de développement, accompagnée d'une offre de maintenance qui inclut la mise à jour au fur et à mesure des évolutions \(plus de 2 versions par an\). Il est alors soumis aux conditions de licence de la plateforme Isogeo.
+Le portail de données est développé par Isogeo et [Pixup](http://www.pixup.com/). Il est mis en place de préférence en mode hébergé par Isogeo, dans le cadre d'une prestation de développement, accompagnée d'une offre de maintenance qui inclut la mise à jour au fur et à mesure des évolutions \(plusieurs versions par an\). Il est alors soumis aux conditions de licence de la plateforme Isogeo.
 
 Il peut également être déployé sur une infrastructure intranet avec des possibilités d'intégration renforcées, comme le branchement à un annuaire centralisé \(LDAP / AD\). Sa maintenance est alors sous la responsabilité du client, une fois la période de garantie écoulée. Sa montée de version ou évolution fait alors l'objet de prestations complémentaires.
 

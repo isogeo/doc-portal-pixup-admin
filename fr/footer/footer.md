@@ -42,7 +42,7 @@ L'éditeur permet de modifier les champs suivants (ceux en **gras** étant oblig
 Ce menu permet de modifier simplement l'ordre d'affichage des éléments du pied de page. En effet, il suffit de sélectionner un élément et de le glisser déposer avant ou après les autres.
 N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></i> en bas à droite de la page.
 
-> NB : Seuls les éléments publiés sont affichés dans ce menu.
+> NB : L'ensemble des éléments du pied de page sont affichés dans ce menu même si ces derniers sont dépubliés. Les éléments dépubliés sont affichés en rouge.
 
 !["Changer l'ordre d'affichage des éléments"](/assets/back_order_footer.png)
 

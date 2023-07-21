@@ -7,7 +7,7 @@ Ce widget permet de présenter les usages de ce portail. Vous pouvez ajouter, mo
 
 ## Usages existants {#list-usages}
 
-Ce menu permet d'afficher la liste de tous les usages. Une barre de recherche (sur le nom) et un système de pagination ont été implémentés. Vous pouvez éditer un usage ou en supprimer un ou plusieurs si besoin.
+Ce menu permet d'afficher les trois usages proposés par Isogeo. Vous pouvez les éditer mais pas les supprimer ou en ajouter.
 
 !["Menu usages existants"](/assets/back_list_usage.png)
 

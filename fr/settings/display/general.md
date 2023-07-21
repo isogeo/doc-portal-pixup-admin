@@ -9,17 +9,9 @@ Dans cette partie, il est possible de personnaliser l'apparence du portail.
 
 ## Couleurs {#colors}
 
-Il est possible de paramétrer 5 couleurs qui vont s'appliquer à différents éléments du site. Les couleurs doivent être renseignées au format hexadécimal.
+Il est possible de paramétrer 8 couleurs qui vont s'appliquer à différents éléments du site. Les couleurs doivent être renseignées au format hexadécimal.
 
-* Couleur 1 : éléments du menu, principaux boutons, titres 
-![Coloration des boutons du widget Apps](/assets/back_color1_boutons.png)
-![Coloration des menus](/assets/back_color1_menus.png)
-* Couleur 2 : roll-over
-![Coloration des menus](/assets/back_color2_rollover.png)
-* Couleur 3 : liens et roll-over sur certains liens
-![Coloration des menus](/assets/back_color3_rollover.png)
-* Couleur 4 : alertes
-* Couleur 5 : filets et certains fonds (chat...)
+![Gestion des couleurs des éléments du portail](/assets/back_display_colors.png)
 
 ## CSS {#css}
 
@@ -34,6 +26,7 @@ Pour chaque item ci-dessous, il est possible de choisir une image. Pour cela, cl
 * Zone de recherche
 * Logo
 * Frise
+* Url du fond de carte : permet de choisir le fond de carte Openlayers utilisé dans le portail au format XYZ
 
 ### Exemple de paramétrage dans le back-office {#example}
 

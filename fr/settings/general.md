@@ -7,6 +7,18 @@ Cette section comporte les paramètres généraux du site. Tous les paramètres 
 
 ## Accès au site {#site_access}
 
+### Accès réseau {#network}
+
+Ce paramètre permet de désactiver les captcha lorsque portail est installé sur une machine déconnectée d'internet.
+
+### Accès certificat {#certificat}
+
+Ce paramètre permet d'indiquer le chemin vers le certificat lorsque le portail utilise l'API Isogeo en mode On-premises.
+
+![Renseigner le chemin vers le certificat](/assets/back_distant_certificate.png)
+
+> NB : Laissez l'option `Certificat distant` dans le cas de l'utilisation de l'API Isogeo en mode SaaS.
+
 ### Maintenance {#maintenance}
 
 Valeurs possibles :
@@ -29,13 +41,31 @@ Il est donc possible de forcer les utilisateurs à s'authentifier au portail pou
 
 ![Authentification obligatoire](/assets/front_authentication.png)
 
-De plus, il est possible de déléguer la création et l'authentification des utilisateurs à un gestionnaire d'identité SaaS comme AzureAD (cf. [Paramétrage de l'application AzureAD](/appendices/azuread.md)) ou Okta en indiquant les paramères fournis par l'outil correspondant.
+### Type d'authentification {#authentification_type}
+
+Ce paramètre permet de déléguer la création et l'authentification des utilisateurs à un gestionnaire d'identité SaaS comme AzureAD (cf. [Paramétrage de l'application AzureAD](/appendices/azuread.md)) ou Okta en indiquant les paramètres fournis par l'outil correspondant.
 
 ![Paramétrage de l'authentification AzureAD](/assets/back_authentication.png)
+
+NB > Vous pouvez conserver la possibilité de s'authentifier avec le gestionnaire d'utilisateur natif du portail en selectionnant `Oui` pour le paramètre `Avec login Isogeo`.
 
 ### Nom du site {#site-name}
 
 Le nom du site choisi s'affiche dans le titre de l'onglet de votre navigateur. 
+
+### Debug {#debug}
+
+Cette option est réservée à l'équipe Isogeo et permet d'afficher des messages de debug sur le portail.
+
+### Envoi de mail {#send_email}
+
+Cette option permet de désactiver l'envoi de mail et masque les menus de configuration [des mails d'envoi/reception](#reception_emails) et du [serveur de courriel utilisé](#mail_server).
+
+### Restriction IP
+
+Ce menu de configuration permet d'autoriser l'accès au portail à une liste d'IP sélectionnées. Il suffit d'indiquer les adresses IP les unes en dessous des autres avec un retour à la ligne. 
+
+NB > Cette restriction ne s'applique qu'au front. L'interface d'admin est toujours accéssible avec authentification à l'adresse https://nomportail.domain.ext/admin. Ce qui peut être bien utile en cas d'erreur de saisie d'IP...
 
 ----
 
@@ -52,6 +82,7 @@ Il s'agit de tous les paramètres concernant les API Isogeo et Dawizz.
 * Isogeo URL oAuth : URL de l'API Isogeo (par défaut: https://id.api.isogeo.com/oauth/token)
 * Isogeo URL APP : URL de l'application Isogeo (par défaut: http://app.isogeo.com)
 * Isogeo Protocole API * : URL du protocole de l'API Isogeo (par défaut: https://v1.api.isogeo.com)
+* Isogeo Url GeoDataProcess : URL de l'API Geodataprocess Isogeo utilisée pour l'exploitation des services géographiques
 
 ----
 
@@ -116,6 +147,6 @@ Il faut donc renseigner les champs suivants :
 
 ## Javascript et CSS {#ganalytics}
 
-Si votre portail est accessible sur une URL publique, il est possible d'insérer le code de suivi de fréquentation de l'outil de Google dans ce formulaire.
+Si votre portail est accessible sur une URL publique, il est possible d'insérer le code de suivi de fréquentation de l'outil de Google, de Matomo ou autre dans ce formulaire.
 
 Vous pouvez également insérer des balises CSS ou de code javascript (réservé aux utilisateurs avancés).
