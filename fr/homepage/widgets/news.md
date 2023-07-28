@@ -84,7 +84,7 @@ Dans l'éditeur de contenu des articles, onglet publication, vous pouvez choisir
 
 ### Widget dans la page d'accueil {#widget-last-news}
 
-Un widget de type "Slider" est automatiquement généré sur la page d'accueil contenant les actualités publiées . Vous pouvez faire défiler les actualités en maintenant et relachant le clic gauche souris.  
+Un widget de type "Slider" est automatiquement généré sur la page d'accueil contenant les actualités publiées. Vous pouvez faire défiler les actualités en maintenant et relachant le clic gauche souris.  
 
 !["Widget dernières actualités - côté front"](/assets/front_widget_article.png)
 
