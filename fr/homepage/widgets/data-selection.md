@@ -1,7 +1,7 @@
 ---
 description: Gérer le widget de sélection de données géographiques de la page d'accueil du portail Isogeo
 ---
-# Selction de données
+# Sélection de données
 
 Ce widget permet de sélectionner les données que vous souhaitez mettre en avant depuis la page d'accueil du site. Vous pouvez personnaliser cette sélection dans les menus suivants.
 

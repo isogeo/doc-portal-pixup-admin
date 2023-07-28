@@ -48,6 +48,6 @@ Les thématiques sont donc "clickables", ce qui permet d'orienter l'utilisateur 
 
 ### Résultat du clic sur une thématique {#result-clic}
 
-Voici ci-dessous le résultat du clic sur la thématique *Réseaux de transport*.
+Voici ci-dessous le résultat du clic sur la thématique *Equipements sportifs*.
 
 !["Recherche filtrée suite au clic sur une thématique"](/assets/front_theme.png)
