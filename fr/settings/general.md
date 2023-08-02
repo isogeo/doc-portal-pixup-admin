@@ -65,7 +65,7 @@ Cette option permet de désactiver l'envoi de mail et masque les menus de config
 
 Ce menu de configuration permet d'autoriser l'accès au portail à une liste d'IP sélectionnées. Il suffit d'indiquer les adresses IP les unes en dessous des autres avec un retour à la ligne. 
 
-NB > Cette restriction ne s'applique qu'au front. L'interface d'admin est toujours accéssible avec authentification à l'adresse https://nomportail.domain.ext/admin. Ce qui peut être bien utile en cas d'erreur de saisie d'IP...
+NB > Cette restriction ne s'applique qu'au front. L'interface d'admin est toujours accessible avec authentification à l'adresse https://nomportail.domain.ext/admin. Ce qui peut être bien utile en cas d'erreur de saisie d'IP...
 
 ----
 
