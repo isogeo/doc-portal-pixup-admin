@@ -15,4 +15,4 @@ Ce menu permet de définir le titre et la description des différents widgets in
 8. [Actualités](widgets/news.md)
 9. [Sélection de données](widgets/data-selection.md) 
  
-!["Titres et affichage des widgets"](/assets/back_titles_widget_marketing.png)
+!["Titres et affichage des widgets"](/assets/back_titles_widget.png)
