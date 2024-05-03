@@ -20,20 +20,19 @@ L'éditeur permet de modifier les champs suivants (ceux en **gras** étant oblig
 
 * **Titre**
 * **Type d'entrée**
-    * Lien vers accueil du site : soit la page choisie dans les [paramètres](/settings/general.md) du portail
-    * Lien vers la page géomatique : soit la [page d'accueil métiers](/homepage-jobs/titles.md)
-    * Lien vers la page marketing : soit la [page d'accueil marketing](/homepage-marketing/widgets-marketing/titles.md)
-    * Lien vers la page "Actualités" : soit la [page de présentation des actualités](/actualites/articles.md)
+    * Lien vers accueil du site : soit la [page contenant les différents Widgets](/homepage/titles.md)
+    * Lien vers la page "Actualités" : soit la [page de présentation des actualités](/homepage/widgets/news.md)
     * Lien vers la page "Contact" : soit la [page de contact](/messages-recus/contacts.md)
     * Lien vers la page "Catalogue" : soit la [page de recherche dans le catalogue de données](/introduction.md)
     * Lien vers la page "Dataviz" : soit la [page de consultation des Dataviz](/dataviz/dataviz.md)
     * Lien vers une page : soit les pages restantes du site parmi la [liste des pages existantes](/pages-iframes/pages.md)
-    * Lien vers une actualité : soit une actualité parmi la liste des [actualités existantes](/actualites/articles.md)
+    * Lien vers une actualité : soit une actualité parmi la liste des [actualités existantes](/homepage/widgets/news.md)
     * Saisie d'une url directe : soit une URL externe au portail
         * **Url** : soit l'url en question
         * Fenêtrage : choisir si le lien doit être ouvert dans une nouvelle fenêtre ou dans la fenêtre courante
     * Lien vers une iFrame : soit une iFrame parmi la [liste des iFrames existantes](/pages-iframes/iframes.md)
-* Case à cocher pour activer le mode *brouillon* qui permet de ne pas publier le menu.
+* Groupes autorisés : sélectionner les groupes d'utilisateurs autorisés à consulter l'élément du pied de page.
+* Cet élément est un brouillon : Si non, l'élément est publié pour les groupes autorisés.
 
 !["Editer un élément"](/assets/back_edit_footer.png)
 

@@ -23,12 +23,13 @@ L'éditeur permet de modifier les champs suivants (ceux en **gras** étant oblig
 * **Description**
 * Url : page décrivant le membre 
 * Case à cocher pour activer le mode *brouillon* qui permet de ne pas publier le membre.
+* Groupes autorisés : sélectionner les groupes d'utilisateurs autorisés à consulter le membre.
 
 !["Editer un membre"](/assets/back_edit_member.png)
 
 ## Gérer l'ordre {#order}
 
-Ce menu permet de modifier simplement l'ordre d'affichage des membres. 
+Ce menu permet de modifier simplement l'ordre d'affichage des membres.
 En effet, il suffit de sélectionner un membre et de le glisser déposer avant ou après les autres.
 N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></i> en bas à droite de la page.
 
@@ -40,6 +41,6 @@ N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></
 
 ### Widget dans la page d'accueil {#front-widget-team}
 
-Les membres de l'équipe sont donc présentés dans un widget de type "Slider". Il n'y a pas de page personnalisée pour chaque membre, ces-derniers ne sont donc pas "clickables". 
+Les membres de l'équipe sont donc présentés dans un widget de type "Slider". Il n'y a pas de page personnalisée pour chaque membre, ces-derniers ne sont donc pas "clicables". 
 
 !["Widget membre - côté front"](/assets/front_widget_member.png)

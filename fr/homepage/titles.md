@@ -3,7 +3,8 @@ description: Gérer les titres de la page d'accueil du portail Isogeo
 ---
 # Titres et affichage des widgets
 
-Ce menu permet de définir le titre et la description des différents widgets intégrables à la page d'accueil et de les afficher ou non.
+Ce menu permet de définir le titre et la description des différents widgets intégrables à la page d'accueil.
+Les widgets peuvent être activés ou non. S'ils sont activés, il faut alors définir les groupes qui y ont accès. Le groupe Super Admin ne peut être retiré.  
 
 1. [Mises en avant](widgets/frieze.md) 
 2. [Thématiques](widgets/themes.md) 

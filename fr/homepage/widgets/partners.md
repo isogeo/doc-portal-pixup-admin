@@ -46,7 +46,8 @@ Le corps de la page permet de rédiger le contenu de la page présentant le part
 
 Cet onglet permet de gérer la publication du partenaire.
 
-* Cette fiche est un brouillon. : *Si non, l'application est publiée dans le portail et accessible depuis le [widget partenaires](#widget-partners)*.
+* Cette fiche est un brouillon. : Si non, l'application est publiée dans le portail et accessible depuis le [widget partenaires](#widget-partners) pour les groupes autorisés.
+* Groupes autorisés : sélectionner les groupes d'utilisateurs autorisés à consulter le partenaire.
 
 ## Gérer l'ordre {#order}
 

@@ -54,6 +54,10 @@
 * [A propos d'une donnée](messages-recus/about-data.md)
 * [Fils de discussion](messages-recus/threads.md)
 
+## Groupes
+
+* [Groupes](groups/groups.md)
+
 ## Utilisateurs
 
 * [Utilisateurs](users/users.md)
@@ -61,9 +65,7 @@
 ## Paramètres
 
 * [Paramètres généraux](settings/general.md)
-* [Paramètres affichage](settings/display/general.md)
-    * [Généraux](settings/display/general.md)
-    * [Affichage selon le type d'utilisateur](settings/display/user-display.md)
+* [Paramètres affichage](settings/display.md)
 
 ## Médias
 

@@ -44,7 +44,8 @@ Le corps de la page permet de rédiger le contenu de la page présentant l'appli
 
 Cet onglet permet de gérer la publication de l'application.
 
-* Cette fiche est un brouillon. : *Si non, l'application est publiée dans le portail et accessible depuis le [widget application](#widget-applications)*.
+* Cette fiche est un brouillon. : Si non, l'application est publiée dans le portail et accessible depuis le [widget application](#widget-applications) pour les groupes autorisés.
+* Groupes autorisés : sélectionner les groupes d'utilisateurs autorisés à consulter l'application.
 
 ## Gérer l'ordre {#order}
 

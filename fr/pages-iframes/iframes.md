@@ -26,8 +26,9 @@ __Onglet Méta-balises__
 * Description : Mini-résumé descriptif de l'iFrame
 
 __Onglet Publication__
-* Rubrique : Menu du site où vous souhaitez intégrer l'iFrame
-* Case à cocher pour activer le mode *brouillon* qui permet de ne pas publier l'iFrame.
+* Rubrique : Sélectionner le menu du site où vous souhaitez intégrer l'iFrame.
+* Groupes autorisés : sélectionner les groupes d'utilisateurs autorisés à consulter l'iFrame.
+* Cette iFrame est un brouillon : Si non, l'iFrame est publié pour les groupes autorisés.
 
 !["Editer une iFrame"](/assets/back_edit_iframe.png)
 

@@ -57,13 +57,12 @@ Il s'agit du *pied de page* de la page, il est éditable, lui aussi, à l'aide d
 
 Cet onglet permet de gérer la publication de l'actualité.
 
-* Cet article est un brouillon : *Si non, la page est publiée sur la page des actualités.*
-  * Exemple : *Non*
-* Cette page est présente dans le pied de page : *Si oui, la page est accesssible depuis le pied de page du portail.*
-  * Exemple : *Oui*
+* Rubrique : Sélectionner le menu du site où vous souhaitez intégrer la page. 
+* Groupes autorisés : sélectionner les groupes d'utilisateurs autorisés à consulter la page.
+* Cette page est un brouillon : Si non, la page est publiée pour les groupes autorisés.
 
 ## Résultat sur le front-office {#result}
 
-Voici le résultat de l'exemple de la page "A propos du Géoportail" avec la configuration ci-dessus. Cette capture permet d'illustre également le pied de page du portail dont la page en exemple fait partie.
+Voici le résultat de l'exemple de la page "A propos du Géoportail" avec la configuration ci-dessus. 
 
-!["Exemple de page dans le pied de page - coté Front"](/assets/front_page.png)
+!["Exemple de page - coté Front"](/assets/front_page.png)

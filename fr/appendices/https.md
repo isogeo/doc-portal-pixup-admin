@@ -1,7 +1,7 @@
 ---
 description: Hébergement et accès des portails Isogeo
 ---
-# Accès au portail en HTTPS sur un domaine de l'organisme client
+# Accès au portail en HTTPS sur un domaine et avec un certificat de l'organisme client
 
 Afin de garantir la sécurité des informations transmises lors de l'authentification des utillisateurs ou des requêtes à l'API Isogeo ainsi que pour optimiser le référencement, le portail de données gère le HTTPS.
 

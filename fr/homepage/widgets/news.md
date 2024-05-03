@@ -56,8 +56,11 @@ On retrouve ce contenu sur la page dédiée à l'actualité accompagné des info
 
 Cet onglet permet de gérer la publication de l'actualité.
 
-* Cet article est un brouillon : *Si non, l'article est publié sur la page des actualités.*
-* Afficher sur l'accueil : *Si oui, l'actualité est affichée dans le widget de sélection sur la page d'accueil. (cf. [Widget sur la page d'accueil](#widget-last-news))*
+* Cet article est un brouillon : Si non, l'article est publié sur la page des actualités pour les groupes autorisés.
+* Groupes autorisés : sélectionner les groupes d'utilisateurs autorisés à consulter l'actualité.
+* Date de début de publication : Sélectionner une date à partir de laquelle l'actualité sera visible sur le portail
+* Date de fin  de publication : Sélectionner une date à partir de laquelle l'actualité ne sera plus visible sur le portail
+* Afficher sur l'accueil : Si oui, l'actualité est affichée dans le widget de sélection sur la page d'accueil. (cf. [Widget sur la page d'accueil](#widget-last-news))
 
 ## Gestion des catégories {#categories}
 
@@ -76,9 +79,7 @@ Pour éditer une catégorie existante, cliquer sur la catégorie dans la liste p
 
 ### Affectation d'une catégorie à un article {#affect-categories}
 
-Dans l'éditeur de contenu des articles, onglet publication, vous pouvez choisir la catégorie concernée.
-
-!["Affectation des catégories"](/assets/back_article_affect_category.png)
+Dans l'éditeur de contenu des articles, onglet *Informations principales*, vous pouvez choisir la catégorie concernée.
 
 ## Résultat sur le front-office {#result-front}
 

@@ -22,7 +22,9 @@ L'éditeur permet de modifier les champs suivants (ceux en **gras** étant oblig
 * Texte : Description de la mise en avant.
 * Lien : URL de la page concernée par la mise en avant.
 * Ordre : ordre d'affichage de la mise en avant. Editable égablement dans le menu suivant.
-* Case à cocher pour activer le mode *brouillon* qui permet de ne pas publier la mise en avant.
+* Publication :
+  * Case à cocher pour activer le mode *brouillon* qui permet de ne pas publier la mise en avant.
+  * Groupes autorisés : sélectionner les groupes d'utilisateurs qui peuvent consulter les mises en avant.
 
 !["Editer une mise en avant"](/assets/back_edit_frieze.png)
 

@@ -1,31 +1,56 @@
 ---
-description: Gérer les paramètres d'affichage selon les profils utilisateurs dans le portail Isogeo
+description: Gérer les groupes de droits dans le portail Isogeo
 ---
-# Paramètres d'affichage selon le type d'utilisateur
+# Gérer les groupes
 
-Pour chaque niveau de droit, *Super Admin*, *Admin Rédacteur*, *Utilisateur avec privilèges*, *Utilisateur authentifié* et *Utilisateur public* il est possible de paramétrer tous les paramètres ci-dessous.
+Ce menu vous permet de configurer les différents groupes de droits affectés aux utilisateurs du Portail. Par défaut, il existe trois groupes niveaux de droit déjà paramétrés : 
 
-## Nombre de résultats par page {#nb-result-page}
+* *Super Admin*
+* *Utilisateur authentifié*
+* *Utilisateur public*
+
+Vous pouvez créer d'autres groupes en cliquant sur *Edition d'un groupe* dans le menu à gauche. Pour chaque groupe, il est possible de configurer tous les paramètres ci-dessous.
+
+## Informations sur le groupe {#informations}
+
+Saisir les informations principales du groupe :
+
+* Nom : *Nom du groupe* 
+* Description : *Décrire la raison pour laquelle le groupe est crée*
+* Authentification : *Activer l'authentification obligatoire pour les membres du groupe*
+* Accès Admin : *Activer l'accès au back-office pour les membres du groupe*
+
+![Informations sur le groupe](/assets/back_editing_group_informations.png)
+
+## Membres du groupe {#members}
+
+Sélectionner dans la liste déroulante, les utilisateurs à ajouter au groupe. Vous pouvez également filtrer sur la liste des utilisateurs du groupe directement dans la page [Utilisateurs](/users/users.md). Pour ajouter par lot des utilisateurs au groupe, utiliser la fonctionnalité dédiée dans la page [Utilisateurs](/users/users.md#add_users).
+
+![Membres du groupe](/assets/back_editing_group_members.png)
+
+## Paramètres d'affichage du groupe {#group-display}
+
+### Nombre de résultats par page {#nb-result-page}
 
 Le nombre doit être compris entre 10 et 100 avec un pas de 10.
 
-## Partages accessibles {#shares}
+### Partages accessibles {#shares}
 
 Il est possible de créer plusieurs partages dans l'[interface d'administration d'Isogeo](https://app.isogeo.com/admin/shares) puis de choisir le ou les partages accessibles par niveau de droit.
 
 Si aucun partage n'est sélectionné, toutes les données partagées à l'application *Portail* sont accessibles.
 
-### Exemple d'utilisation de la fonctionnalité {#shares-example}
+Il faut créer un partage par groupe si vous souhaitez que les utilisateurs de ces groupes n'aient pas accès aux mêmes fiches de métadonnées. 
 
-1. Partager le *catalogue de données interne* dans un partage à destination du portail et le rendre accessible aux utilisateurs suivants :
+#### Exemple d'utilisation de la fonctionnalité {#shares-example}
+
+1. Partager le *catalogue de données interne* dans un partage à destination du portail et le rendre accessible aux groupes suivants :
   * Super Admin
-  * Admin Rédacteur
-  * Utilisateur avec privilèges
   * Utilisateur authentifié
 
 2. Créer un autre partage vers le même portail contenant le *catalogue de données public* et le rendre accessible à l'utilisateur public.
 
-## Copier le chemin {#copy-path}
+### Copier le chemin {#copy-path}
 
 Cette fonctionnalité permet d'autoriser la copie de l'emplacement de la ressource de la fiche de métadonnées si celui-ci est un chemin (exemple : `D:\SIG\DATA\REFERENCE\IGN\BDTOPO\`).
 
@@ -33,7 +58,7 @@ Cette fonctionnalité peut être utile dans le cadre d'un portail interne dans l
 
 Lorsque l'emplacement est accessible, le bouton ci-après s'affiche à coté de la croix sur une fiche de métadonnées. ![](/assets/front_button_copy_path.png)
 
-## Partager avec iFrame {#share-iframe}
+### Partager avec iFrame {#share-iframe}
 
 Cette fonctionnalité active la possibilité de copier un iFrame intégrant la métadonnée concernée.
 
@@ -43,17 +68,17 @@ En cliquant, un code intégrable en iFrame dans un site web est automatiquement 
 
 !["Code iFrame à intégrer dans une page web"](/assets/front_button_copy_iframe.png)
 
-## Noter une fiche {#note}
+### Noter une fiche {#note}
 
 L'utilisateur peut noter une fiche de métadonnée en cliquant sur le nombre d'étoiles qu'il souhaite affecter (cf. capture ci-dessous).
 
 !["Noter une fiche dans le front office"](/assets/front_note.png)
 
-## Consulter les notes {#note-consulting}
+### Consulter les notes {#note-consulting}
 
 Si oui, l'utilisateur peut visualiser les notes sur les fiches de métadonnée.
 
-## Masquer les données de type "Services" (API Isogeo) {#services}
+### Masquer les données de type "Services" (API Isogeo) {#services}
 
 Cette fonctionnalité permet de masquer les fiches de services dans le catalogue et le filtre correspondant. En revanche, elles sont toujours comptabilisées dans le nombre de résultats de la recherche.
 
@@ -61,7 +86,7 @@ Cette fonctionnalité permet de masquer les fiches de services dans le catalogue
 
 > Cette fonctionnalité ne concerne que les portails dont la recherche utilise l'API Isogeo.
 
-## N'afficher que les données publiées (API Dawizz) {#dawizz-published-datas}
+### N'afficher que les données publiées (API Dawizz) {#dawizz-published-datas}
 
 Cette fonctionnalité permet d'afficher uniquement les données ayant le statut "*Publiée*" dans le catalogue Dawizz partagé au portail. Pour afficher toutes les données, sélectionner *Afficher les fiches pour lesquelles ce paramètre n'est pas renseigné*.
 
@@ -69,14 +94,12 @@ Cette fonctionnalité permet d'afficher uniquement les données ayant le statut 
 
 > Cette fonctionnalité ne concerne que les portails dont la recherche utilise l'API Dawizz.
 
-## Affichage personnalisé des métadonnées
-
 ### Champs visibles à plusieurs endroits {#multiple-fields}
 
 Cette section permet de gérer l'affichage de certains champs sur :
 
 * la page données soit la vignette d'aperçu de la métadonnée ;
-* le widget de sélection de données (cf. [Liste des données sélectionnées(/homepage-jobs/widgets-jobs/data-selection.md) ;
+* le widget de sélection de données (cf. [Liste des données sélectionnées](/homepage/widgets/data-selection.md)) ;
 * les résultats de la recherche générale sur tout le site ;
 * la page de la fiche de métadonnée détaillée.
 
@@ -173,7 +196,7 @@ Pour les fiches Dawizz, on retrouve les champs suivants :
 
 #### Événements {#events}
 
-On retrouve dans cet onglet les champs concernant l'historique de la donnée et la timeline des derniers évènements sur la donnée.
+On retrouve dans cet onglet les champs concernant l'historique de la donnée et la chronologie des derniers évènements sur la donnée.
 
 * Historique de la donnée
   * Date de création
@@ -201,7 +224,10 @@ Cet onglet permet de télécharger la métadonnée ou la donnée elle-même lors
 * Fiche au format XML
 * Fiche au format PDF
 
+Lorsque l'extracteur de donnée est activé, il permet d'ajouter des données au panier.
+
 !["Onglet Téléchargement d'une fiche Isogeo"](/assets/front_metadata_download.png)
+
 
 #### Attributs {#attributes}
 
@@ -211,6 +237,7 @@ Présentation des attributs sous forme de tableau avec les colonnes suivantes :
 
 * Nom
 * Alias
+* Commentaire en base (*en italique*)
 * Type
 * Description
 * Langue
@@ -254,27 +281,9 @@ Cet onglet permet de visualiser les données ajoutées au "Voir aussi" par l'adm
 
 > Le *chat* ne peut être activé qu'aux utilisateurs authentifiés sur la plateforme. Il n'est donc pas accessible aux utilisateurs publics.
 
-### Pavés des fiches de métadonnées {#cobblestones}
+### Pavé "Listes" {#list}
 
-#### Pavé "Mots-clés" {#keywords}
-
-Lorsque le pavé des mots-clés est affiché, l'utilisateur accède aux mots-clés et peut naviguer automatiquement vers la recherche filtrée sur le mot-clé en cliquant dessus.
-
-!["Pavé des mots-clés activé"](/assets/front_metadata_keywords.png)
-
-> NB : Le lien vers la recherche filtrée correspondante n'est pas disponible sur les portails utilisant l'API Dawizz.
-
-#### Pavé "Thèmes Inspire" {#inspire}
-
-Lorsque le pavé des thèmes Inspire est affiché, l'utilisateur accède aux thèmes Inspire et peut naviguer automatiquement vers la recherche filtrée sur le thème Inspire en cliquant dessus.
-
-!["Pavé des thèmes Inspire activé"](/assets/front_metadata_inspire.png)
-
-> NB : Le lien vers la recherche filtrée correspondante n'est pas disponible sur les portails utilisant l'API Dawizz.
-
-#### Pavé "Listes" {#list}
-
-Le pavé *Listes* permet à l'utilisateur de créer des listes ou d'ajouter la donnée consultée à une liste existante. 
+Le pavé *Listes* permet à l'utilisateur authentifié de créer des listes ou d'ajouter la donnée consultée à une liste existante. 
 
 !["Pavé des listes activé"](/assets/front_metadata_list.png)
 
@@ -294,7 +303,6 @@ Il est possible de sélectionner les filtres affichés selon l'utilisateur et de
 * Filtre "Contacts"
 * Filtre "Formats"
 * Filtre "Licenses"
-* Filtre "Thématiques marketing"
 * Filtre "Systèmes de coordonnées"
 
 !["Choisir l'ordre des filtres Isogeo"](/assets/back_order_research_filters.png)
