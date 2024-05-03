@@ -47,6 +47,6 @@ N'oubliez pas ensuite d'enregistrer en utilisant le bouton <i class="ti-save"></
 
 ## Résultat sur le front-office {#result}
 
-Les menus sont accessibles en permanence lors de la navigation sur le portail car ils sont ajoutés à l'en-tête du site.
+Les éléments publiés sont accessibles en permanence lors de la navigation sur le portail car ils sont ajoutés au pied de page du site.
 
 !["Pied de page - côté front"](/assets/front_footer.png)

@@ -30,6 +30,12 @@ Il est donc possible de prévenir l'utilisateur d'une maintenance du portail. Da
 
 ![Message  de maintenance aux utilisateurs](/assets/front_maintenance.png)
 
+### Extracteur {#extractor}
+
+Ce paramètre permet d'activer le panier et l'extracteur de données du Portail. Il faut au préalable partager les mêmes données aux deux applications dans l'interface d'administration (cf. [Partages](https://app.isogeo.com/groups/admin/shares/)).
+
+Si activé, il faut indiquer l'url de l'extracteur soit par défaut : https://extractor.isogeo.com/portal/cart
+
 ### Authentification {#authentication}
 
 Valeurs possibles :
@@ -48,6 +54,10 @@ Ce paramètre permet de déléguer la création et l'authentification des utilis
 ![Paramétrage de l'authentification AzureAD](/assets/back_authentication.png)
 
 NB > Vous pouvez conserver la possibilité de s'authentifier avec le gestionnaire d'utilisateur natif du portail en selectionnant `Oui` pour le paramètre `Avec login Isogeo`.
+
+### Création de compte
+
+Ce paramètre permet de choisir si les utilisateurs peuvent demander la création d'un compte ou si elle est réservée aux administrateurs.
 
 ### Nom du site {#site-name}
 

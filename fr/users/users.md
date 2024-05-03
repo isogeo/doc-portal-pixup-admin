@@ -7,7 +7,7 @@ Ce menu permet de créer, modifier et supprimer les utilisateurs du portail.
 
 ## Utilisateurs existants {#list-users}
 
-Ce menu permet d'afficher la liste de tous les utilisateurs. La recherche fonctionne sur tous les champs du tableau (Nom, Prénom, Email et Droit). Vous pouvez éditer un utilisateur en le sélectionnant mais aussi supprimer un ou plusieurs utilisateurs. Vous pouvez filtrer sur les utilisateurs d'un groupe en particulier ou sélectionner plusieurs utilisateurs pour les affecter par lot à un ou plusieurs groupes.
+Ce menu permet d'afficher la liste de tous les utilisateurs. La recherche fonctionne sur tous les champs du tableau (Nom, Prénom, Email et Groupe). Vous pouvez éditer un utilisateur en le sélectionnant mais aussi supprimer un ou plusieurs utilisateurs. Vous pouvez filtrer sur les utilisateurs d'un groupe en particulier ou sélectionner plusieurs utilisateurs pour les affecter par lot à un ou plusieurs groupes.
 
 !["Menu Utilisateurs existants"](/assets/back_list_user.png)
 

@@ -16,7 +16,7 @@ Vous pouvez créer d'autres groupes en cliquant sur *Edition d'un groupe* dans l
 Saisir les informations principales du groupe :
 
 * Nom : *Nom du groupe* 
-* Description : *Décrire la raison pour laquelle le groupe est crée*
+* Description : *Décrire la raison pour laquelle le groupe est créé*
 * Authentification : *Activer l'authentification obligatoire pour les membres du groupe*
 * Accès Admin : *Activer l'accès au back-office pour les membres du groupe*
 
@@ -44,11 +44,9 @@ Il faut créer un partage par groupe si vous souhaitez que les utilisateurs de c
 
 #### Exemple d'utilisation de la fonctionnalité {#shares-example}
 
-1. Partager le *catalogue de données interne* dans un partage à destination du portail et le rendre accessible aux groupes suivants :
-  * Super Admin
-  * Utilisateur authentifié
+1. Partager le *catalogue de données interne* dans un partage à destination du portail et le rendre accessible au groupe des utilisateurs authentifiés.
 
-2. Créer un autre partage vers le même portail contenant le *catalogue de données public* et le rendre accessible à l'utilisateur public.
+2. Créer un autre partage vers le même portail contenant le *catalogue de données public* et le rendre accessible au groupe des utilisateurs publics.
 
 ### Copier le chemin {#copy-path}
 
@@ -103,9 +101,8 @@ Cette section permet de gérer l'affichage de certains champs sur :
 * les résultats de la recherche générale sur tout le site ;
 * la page de la fiche de métadonnée détaillée.
 
-On peut donc choisir d'afficher ou non l'interprétation du markdown et les champs suivants :
+On peut donc choisir d'afficher ou non les champs suivants :
 
-* Markdown
 * Propriétaire
 * Echelle
 * Type

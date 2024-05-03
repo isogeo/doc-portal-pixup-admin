@@ -59,7 +59,7 @@ Cet onglet permet de gérer la publication de l'actualité.
 * Cet article est un brouillon : Si non, l'article est publié sur la page des actualités pour les groupes autorisés.
 * Groupes autorisés : sélectionner les groupes d'utilisateurs autorisés à consulter l'actualité.
 * Date de début de publication : Sélectionner une date à partir de laquelle l'actualité sera visible sur le portail
-* Date de fin  de publication : Sélectionner une date à partir de laquelle l'actualité ne sera plus visible sur le portail
+* Date de fin  de publication : Sélectionner une date à partir de laquelle l'actualité ne sera plus visible sur le portail.
 * Afficher sur l'accueil : Si oui, l'actualité est affichée dans le widget de sélection sur la page d'accueil. (cf. [Widget sur la page d'accueil](#widget-last-news))
 
 ## Gestion des catégories {#categories}

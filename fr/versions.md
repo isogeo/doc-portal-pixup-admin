@@ -2,6 +2,24 @@
 
 <!-- timeline -->
 
+## 3.4 {#version34}
+
+<br> Publiée en mai 2024 :
+
+* Mise en place d'un panier d'extraction activable dans le back-office
+* Gestion de la communication avec l'extracteur de données
+* Refonte de la gestion des droits
+  * Mise en place des groupes de droits et d'une page de gestion dédiée
+  * Adaptation de la page des utilisateurs
+  * Ajout de la gestion des groupes autorisés à l'ensemble des contenus (widgets, pages, menu etc.)
+* Gestion des certificats pour la version On-Premises
+* Ajout d'une option de défilement automatique pour les mises en avant
+* Ajout de la possibilité de filtrer les utilisateurs par IP
+* Amélioration de la stabilité et correction de bugs mineurs
+
+<!-- /timeline -->
+<!-- timeline -->
+
 ## 3.3 {#version33}
 
 <br> Publiée le 12 mai 2023 :

@@ -22,6 +22,8 @@ L’objectif n’est pas de mettre un simple catalogue en consultation mais d’
 
 Par ailleurs, il est possible de tirer parti de l'API Isogeo et de proposer un portail selon le profil d'utilisateur. Par exemple, si vous souhaitez diffuser certaines données qu'en interne et non en externe, c’est très facile à réaliser depuis l'administration.
 
+Vous pouvez également choisir le contenu qui est affiché en fonction des profils des utilisateurs (interne ou public par exemple) en paramétrant des [groupes](/groups/groups.md). 
+
 ![&quot;Les données sont consommées et produites par différents types de personnes - L&apos;accès doit être simple pour tous&quot;](/assets/misc_data_people.png)
 
 ### Au service de la stratégie de diffusion {#diffusion}
@@ -48,12 +50,14 @@ La barre de recherche permet de rechercher à la fois dans les données mais aus
 
 Le portail n'est pas uniquement focalisé sur les données. En effet, le portail intègre un CMS \(_Content Management System_ ou SGC - Système de Gestion de Contenus\) et permet ainsi l'édition de contenus éditoriaux, comme par exemple :
 
-* gestion des [menus](/menu/elements.md) ;
+* gestion des [menus](/menu/menu.md) ;
 * gestion des widgets de la [page d'accueil](/homepage/titles.md) ;
-* gestion des [actualités](/actualites/article.md) (création, édition, publication, mise en avant en page d’accueil métier) ;
+* gestion des [actualités](/homepage/widgets/news.md) (création, édition, publication, mise en avant en page d’accueil métier) ;
 * gestion des [Dataviz](/dataviz/dataviz.md) ;
 * gestion des [pages](/pages-iframes/pages.md) et [iframes](/pages-iframes/iframes.md) du site ;
 * ou encore un gestionnaire fichiers intégré etc...
+
+L'ensemble de ces contenus peuvent être affichés ou non en fonction des profils des utilisateurs (interne ou public par exemple) en paramétrant des [groupes](/groups/groups.md).
 
 ![Exemple des widgets de la page d'accueil](/assets/portal_homepage_job.png)
 
@@ -114,6 +118,7 @@ L'interface du portail est responsive design pour s'adapter aux différents form
 
 Beaucoup d’autres fonctionnalités viennent compléter l'expérience utilisateur :
 
+* gestion d'un panier d'extraction des données à partir de features services ouverts ; 
 * export des métadonnées au format PDF ;
 * des statistiques pour le reporting de l'administrateur : généralistes \(Google Analytics\) et spécifiques \(vues, ressources, recherches, etc.\) ;
 * un référencement optimisé pour les moteurs de recherche \(SEO\) ;
